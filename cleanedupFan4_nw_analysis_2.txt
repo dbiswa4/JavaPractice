@@ -1,0 +1,3251 @@
+Fantastic Four,3,Alan Weiss
+Fantastic Four,3,Rick Wood
+Fantastic Four,3,Unsigned
+Fantastic Four,3,George Paul
+Fantastic Four,3,Bill Sarill
+Fantastic Four,3,S. Brodsky
+Fantastic Four,4,Len Blake
+Fantastic Four,4,S. Goldberg
+Fantastic Four,4,Shirley Howard
+Fantastic Four,4,Bruce Fogel
+Fantastic Four,4,Jim Moony
+Fantastic Four,4,Unsigned
+Fantastic Four,5,Roy Thomas
+Fantastic Four,5,Mike Randall
+Fantastic Four,5,Rick McGuire
+Fantastic Four,5,Scotty Smith
+Fantastic Four,5,William J. Marcolongo
+Fantastic Four,5,Roger Mann
+Fantastic Four,5,Harold McIntosh
+Fantastic Four,5,Cruz Jiminez
+Fantastic Four,5,William Frazier
+Fantastic Four,5,Ronn Foss
+Fantastic Four,6,Gregory Christiano
+Fantastic Four,6,Marlene Du Vall
+Fantastic Four,6,Lawrence Crilly
+Fantastic Four,6,Harry Fitch
+Fantastic Four,6,Donald Murphres
+Fantastic Four,6,Martin Ross
+Fantastic Four,6,Jonathan Latham
+Fantastic Four,6,Michael Snell
+Fantastic Four,6,Paul Ward
+Fantastic Four,6,Joseph Reynolds
+Fantastic Four,6,David Crall
+Fantastic Four,6,Sandra Schupp
+Fantastic Four,6,Craig Miller
+Fantastic Four,6,G. Reagle Jr.
+Fantastic Four,6,K. Koenigs
+Fantastic Four,6,J. Zielinski
+Fantastic Four,6,Al Kracalik
+Fantastic Four,6,Dana Riell
+Fantastic Four,6,John Davis
+Fantastic Four,6,Bob Holman
+Fantastic Four,6,Rita Townsend
+Fantastic Four,6,Jim Brewster
+Fantastic Four,6,Marven Bland
+Fantastic Four,6,Rodney Grey
+Fantastic Four,6,Harry Beatty
+Fantastic Four,6,Jose Nieves
+Fantastic Four,6,Frank Schillig
+Fantastic Four,6,Charles Rockyvich
+Fantastic Four,6,T. Baganz
+Fantastic Four,6,Edward Glover
+Fantastic Four,6,John Creeley
+Fantastic Four,6,M. Liberatore
+Fantastic Four,6,Roger Choate
+Fantastic Four,6,G. Lamont Brownell
+Fantastic Four,6,M. Madden
+Fantastic Four,6,Bob Williamson
+Fantastic Four,6,Michael Fallis
+Fantastic Four,6,Richard Hoffman
+Fantastic Four,6,Billy Sequino
+Fantastic Four,6,William Wiehe
+Fantastic Four,6,Kevin Breen
+Fantastic Four,6,Richard Silver
+Fantastic Four,6,Lewis Strasburg
+Fantastic Four,6,Chris Fuller
+Fantastic Four,6,Dennis Stephens
+Fantastic Four,6,Paul Carr
+Fantastic Four,6,Eugene Zielinski
+Fantastic Four,6,Danny Peterson
+Fantastic Four,6,Dennis Day
+Fantastic Four,6,M. Greenfield
+Fantastic Four,6,Charles Mammano
+Fantastic Four,6,Gerald Adair
+Fantastic Four,6,Robert Stevenson
+Fantastic Four,6,Chris Bennett
+Fantastic Four,6,S. Howard
+Fantastic Four,6,Don Jarvis
+Fantastic Four,6,L. Behrns
+Fantastic Four,6,E. Giannattasio
+Fantastic Four,6,Kenneth Peters
+Fantastic Four,6,S. Champagne
+Fantastic Four,6,Mike Sisson
+Fantastic Four,6,M. Dorobis
+Fantastic Four,6,Ronald Vigil
+Fantastic Four,6,Carmen Martinez
+Fantastic Four,6,Peter Ortiz
+Fantastic Four,6,M. Russell
+Fantastic Four,6,Danny Turner
+Fantastic Four,6,J. Martin
+Fantastic Four,6,W. Nielsen
+Fantastic Four,6,Paul Hill
+Fantastic Four,6,S. Perrin
+Fantastic Four,6,Dennis Fiegl
+Fantastic Four,6,B. Stanis
+Fantastic Four,6,B. Carrothers
+Fantastic Four,6,George Paul
+Fantastic Four,6,R. De Bruyn
+Fantastic Four,6,Dan Eiler
+Fantastic Four,6,Bill Hall
+Fantastic Four,6,Daryl Anderson
+Fantastic Four,7,Warren Jacobs
+Fantastic Four,7,Barbara Stock
+Fantastic Four,7,Alan Carlson
+Fantastic Four,7,Melvin Herbers
+Fantastic Four,7,Sal Anzaldi
+Fantastic Four,7,Rusty and Larry Bush
+Fantastic Four,8,Cynthia Moore
+Fantastic Four,8,"Don Henrehan, Jr."
+Fantastic Four,8,Frederick Foster
+Fantastic Four,8,Angry Artie Starr
+Fantastic Four,8,H. Sher
+Fantastic Four,8,Paul J. Batchie
+Fantastic Four,8,Joe Dinnis
+Fantastic Four,9,Dennis Smith
+Fantastic Four,9,Buddy Sanders
+Fantastic Four,9,Leroy Austin
+Fantastic Four,9,Mike Touhey
+Fantastic Four,9,Paul Gambaccini
+Fantastic Four,9,Richard Berry
+Fantastic Four,9,Harold Smith
+Fantastic Four,10,David Santiago
+Fantastic Four,10,Steve Stern
+Fantastic Four,10,Rob Sansing
+Fantastic Four,10,Lee Cohen
+Fantastic Four,10,G.B. Love
+Fantastic Four,11,James Barnhill & Larry Berry
+Fantastic Four,11,Larry Tucker
+Fantastic Four,11,Billy Rintz
+Fantastic Four,11,Kurt Dagenais
+Fantastic Four,11,William Paul
+Fantastic Four,11,Betty Dille
+Fantastic Four,11,Johnny Storm
+Fantastic Four,11,David Lancaster
+Fantastic Four,11,Sherman Howard
+Fantastic Four,12,Tommy Jones
+Fantastic Four,12,Dean Newman
+Fantastic Four,12,Marsha Cox
+Fantastic Four,12,Steve Perrin
+Fantastic Four,12,Steve Utley
+Fantastic Four,12,Fred Bronson
+Fantastic Four,12,Edward Corbett
+Fantastic Four,12,Lanson Chesney
+Fantastic Four,13,Frederic Johnson
+Fantastic Four,13,Kenny Glenn
+Fantastic Four,13,"Harold Echtinaw, Jr."
+Fantastic Four,13,Robert Ford
+Fantastic Four,13,Paul Gambaccini
+Fantastic Four,13,Paul Weinstein
+Fantastic Four,13,Wayne Orlicki
+Fantastic Four,13,Marty Ross
+Fantastic Four,13,Mike Tuohey
+Fantastic Four,14,Stewart Scheifer
+Fantastic Four,14,Bill Hauptman
+Fantastic Four,14,David Languth
+Fantastic Four,14,Victor Phillips
+Fantastic Four,14,Lee Whittlesey
+Fantastic Four,14,Jeffrey Roy Pontello
+Fantastic Four,14,Mark Savaage
+Fantastic Four,14,Kathleen McCoy
+Fantastic Four,14,Joseph Shoemaker
+Fantastic Four,14,Richard Eilts
+Fantastic Four,14,Kevin Johnson
+Fantastic Four,14,Jim Broeker
+Fantastic Four,14,"Arthur Davis, Jr."
+Fantastic Four,14,Barry Goldstein
+Fantastic Four,15,Mary Hoffmann
+Fantastic Four,15,Ronn Goff
+Fantastic Four,15,Reynolds M. Morris
+Fantastic Four,15,"Michael ""Mickey"" Martin"
+Fantastic Four,15,Fred Gibbons
+Fantastic Four,15,Ginger Church
+Fantastic Four,15,Roger Mann
+Fantastic Four,15,Ricky Phillips
+Fantastic Four,15,Roy Thomas
+Fantastic Four,15,Bob Kennedy
+Fantastic Four,15,Jerry Smith
+Fantastic Four,16,Clifford Garber
+Fantastic Four,16,Martha Beck
+Fantastic Four,16,Marya Rice
+Fantastic Four,16,Phil Castora
+Fantastic Four,16,Bill DeAndrew
+Fantastic Four,16,George Kitchen
+Fantastic Four,16,Gregg Smith
+Fantastic Four,16,Tom Dietz
+Fantastic Four,16,David Singer
+Fantastic Four,17,Harry Warren
+Fantastic Four,17,Donald Markstein
+Fantastic Four,17,Sebastian Stuart
+Fantastic Four,17,Drury S. Moroz
+Fantastic Four,17,Peter Dovolas
+Fantastic Four,17,Paul Gambaccini
+Fantastic Four,17,Ronn Foss
+Fantastic Four,18,Harold Silverman
+Fantastic Four,18,Robert Allen Ellis
+Fantastic Four,18,Paul B. Weinstein
+Fantastic Four,18,Dick Tedor
+Fantastic Four,18,Robert Caldwell
+Fantastic Four,18,Sgt. R. Anderson
+Fantastic Four,18,Steve Stough
+Fantastic Four,18,Anthony Corda
+Fantastic Four,18,Tom Jones
+Fantastic Four,18,Alan Wheeler
+Fantastic Four,18,Ronn Foss
+Fantastic Four,19,Sidney D. Evans
+Fantastic Four,19,Robert Purinton
+Fantastic Four,19,Mrs. Berly Wright
+Fantastic Four,19,Curtis M. Wells
+Fantastic Four,19,Martin Jackson
+Fantastic Four,19,John Stone
+Fantastic Four,19,"Eddie L. Malone, Jr."
+Fantastic Four,19,Rose O'Connor
+Fantastic Four,19,Mrs. Jo Shelby
+Fantastic Four,19,Steve Griffin
+Fantastic Four,19,Herbert L. Patterson
+Fantastic Four,19,Fred Romanek
+Fantastic Four,19,Linda and Percy Smoke
+Fantastic Four,20,James Maupin
+Fantastic Four,20,Anonymous
+Fantastic Four,20,Wayne Shepard
+Fantastic Four,20,Richard Cohen
+Fantastic Four,20,Mark Gruenwald
+Fantastic Four,20,Dana Riell
+Fantastic Four,20,Karl Spence
+Fantastic Four,20,John Furek
+Fantastic Four,20,Don Keefer
+Fantastic Four,20,Kevin Shields
+Fantastic Four,20,George R. Martin
+Fantastic Four,21,Miike Cafferata
+Fantastic Four,21,Jerise Newton
+Fantastic Four,21,John Wright
+Fantastic Four,21,Andy Wickstrom
+Fantastic Four,21,Paul Moslander
+Fantastic Four,21,Mrs. P. Piccirillo
+Fantastic Four,21,Mrs. Hanson
+Fantastic Four,21,Dick Austin
+Fantastic Four,21,Mr. Scarborough
+Fantastic Four,21,Bill Brinkley
+Fantastic Four,21,E.J. O'Donnell
+Fantastic Four,21,Donald Markstein
+Fantastic Four,21,Danny DeVere
+Fantastic Four,21,Dick Austin
+Fantastic Four,21,Mike Randall
+Fantastic Four,21,George Christie
+Fantastic Four,21,Jim Hamilton
+Fantastic Four,22,Dave Cockrum
+Fantastic Four,22,John Lasruck
+Fantastic Four,22,Wayne Howard
+Fantastic Four,22,Jack Harris
+Fantastic Four,22,Bobby Rollins
+Fantastic Four,22,Roy Thomas
+Fantastic Four,22,Stephen Erickson
+Fantastic Four,22,Joseph Hyatt
+Fantastic Four,22,Larry Howard
+Fantastic Four,22,Bob Kennedy
+Fantastic Four,22,Ralph Perlovsky
+Fantastic Four,22,Jeff Baker
+Fantastic Four,22,Norma Ryan
+Fantastic Four,22,Kenneth Chance
+Fantastic Four,22,Todd Borden
+Fantastic Four,22,Mitchell Gruskin
+Fantastic Four,22,Ken Tutton
+Fantastic Four,22,Lee Whittlesey
+Fantastic Four,23,Robert J. Egan
+Fantastic Four,23,Richard E. Tong
+Fantastic Four,23,Brady Fllowers
+Fantastic Four,23,Gary Mullins
+Fantastic Four,23,Jerry Johnson
+Fantastic Four,23,J.H. Gardner
+Fantastic Four,23,Gary Martin
+Fantastic Four,23,Stephen Foston
+Fantastic Four,24,Bob Halcums
+Fantastic Four,24,Edward Simpson III
+Fantastic Four,24,Jes¿¿s A. Martinez
+Fantastic Four,24,Mrs. Dixie Kitchen
+Fantastic Four,24,John Furek
+Fantastic Four,24,
+Fantastic Four,24,Paul Gambaccini
+Fantastic Four,24,Vincent Garofalo
+Fantastic Four,24,Johnny Ryan
+Fantastic Four,24,Ed Lahmann
+Fantastic Four,24,Larry D. Sipe
+Fantastic Four,24,Don Glut
+Fantastic Four,24,John F. Lebar
+Fantastic Four,25,Dick Froese
+Fantastic Four,25,Miike Gass
+Fantastic Four,25,Jimmy Edelstein
+Fantastic Four,25,Paul Kelbaugh
+Fantastic Four,25,Marc Bailey
+Fantastic Four,25,Norman Bennett
+Fantastic Four,25,Richard O'Baid
+Fantastic Four,25,
+Fantastic Four,25,John Wachter
+Fantastic Four,25,Deborah Rohrer
+Fantastic Four,25,Bill Dubay
+Fantastic Four,25,Alex Nicholson
+Fantastic Four,25,John Lebar
+Fantastic Four,25,Robert Allen
+Fantastic Four,25,Brian Corber
+Fantastic Four,26,John Davidson
+Fantastic Four,26,Owen Boylan
+Fantastic Four,26,Alan Backer
+Fantastic Four,26,Lane Hartman
+Fantastic Four,26,Derrill Rothermich
+Fantastic Four,26,Joey Polozola
+Fantastic Four,26,Don Milliken
+Fantastic Four,26,Allen Haworth
+Fantastic Four,26,Dannie Brown
+Fantastic Four,26,Reed J. Keonte
+Fantastic Four,26,Tom Jones
+Fantastic Four,26,Bruce Solof
+Fantastic Four,26,Dave Oyerly
+Fantastic Four,27,Rick Durell
+Fantastic Four,27,G. Forman
+Fantastic Four,27,Chuck Johnson
+Fantastic Four,27,Gary W. Williams
+Fantastic Four,27,David Catena
+Fantastic Four,27,Gregory Suriano
+Fantastic Four,27,Yorke Corbin
+Fantastic Four,27,"Eddie Lefkoski, Jr."
+Fantastic Four,27,Jim Broecker
+Fantastic Four,27,Jim Grondin
+Fantastic Four,28,Galen G. Peoples
+Fantastic Four,28,Neal Preston
+Fantastic Four,28,Robert Cormier
+Fantastic Four,28,Robert Malisani
+Fantastic Four,28,Thomas Jennings
+Fantastic Four,28,Louie Stover
+Fantastic Four,28,Dave Bibby
+Fantastic Four,28,Norma Ryan
+Fantastic Four,28,Harry St. Ours
+Fantastic Four,28,Bert P.J. Benenson
+Fantastic Four,28,Johnny Fitzgerald
+Fantastic Four,28,Matthew Thompson
+Fantastic Four,28,Greg Bury
+Fantastic Four,29,Paul M. Crissey
+Fantastic Four,29,Mrs. Susan Bomboy
+Fantastic Four,29,Morris Beer
+Fantastic Four,29,Jim Gibson
+Fantastic Four,29,Alex Nicholson
+Fantastic Four,29,Francoise Shevall
+Fantastic Four,29,Ralph Huie
+Fantastic Four,29,Lee Christopherson
+Fantastic Four,29,Keith Greene
+Fantastic Four,29,McGill University Marvel Comic Book Society
+Fantastic Four,29,John Baca
+Fantastic Four,29,Steve Perrin
+Fantastic Four,29,Billy Robbins
+Fantastic Four,30,Scott Frederick
+Fantastic Four,30,Lucy and Joseph Fernandez
+Fantastic Four,30,Jim McDaniel
+Fantastic Four,30,Brady Flowers
+Fantastic Four,30,Gail Sutton
+Fantastic Four,30,James E. Kunkel
+Fantastic Four,30,Bruce Levy
+Fantastic Four,30,Chris Apostal
+Fantastic Four,30,Bruce Hall
+Fantastic Four,30,Gardner Ruffin
+Fantastic Four,30,Beth Oxford
+Fantastic Four,31,Mike Friedrich
+Fantastic Four,31,David Hill
+Fantastic Four,31,John Johnson
+Fantastic Four,31,David Grace
+Fantastic Four,31,Patrick Scarfo
+Fantastic Four,31,Spence Allen
+Fantastic Four,31,Chuck Boehmler
+Fantastic Four,31,Tom Jones
+Fantastic Four,31,David Catena
+Fantastic Four,31,Mike Raub
+Fantastic Four,31,Charles Smith
+Fantastic Four,31,Marlin Grenn
+Fantastic Four,32,Steve Kark
+Fantastic Four,32,Dave Lewis
+Fantastic Four,32,Lew Kaufman
+Fantastic Four,32,Art Wendrow
+Fantastic Four,32,John Lasruk
+Fantastic Four,32,Isabelle Kamishlian
+Fantastic Four,32,J. Geoffrey Magnus
+Fantastic Four,32,George R.R. Martin
+Fantastic Four,32,Joe Hartlaub
+Fantastic Four,32,Chris Lampton
+Fantastic Four,32,Ronn Foss
+Fantastic Four,32,Billy Davis
+Fantastic Four,32,John Roberge
+Fantastic Four,32,Stewart Turner
+Fantastic Four,32,Clayton Donahue
+Fantastic Four,33,William Rowe
+Fantastic Four,33,Jadene G. Acciavatti
+Fantastic Four,33,J.L. Hughes
+Fantastic Four,33,Jack O. Kendall
+Fantastic Four,33,William McCord
+Fantastic Four,33,Mike Bieterman
+Fantastic Four,33,"Jerry Biggers, Jr."
+Fantastic Four,33,Brian Corber
+Fantastic Four,33,Donald McGregor
+Fantastic Four,34,Miss Achiko Heng
+Fantastic Four,34,Michelle Reynolds
+Fantastic Four,34,Joseph Key
+Fantastic Four,34,Derill Rothermich
+Fantastic Four,34,Frank Bowers
+Fantastic Four,34,Tom Valentine
+Fantastic Four,34,Steve Perrin
+Fantastic Four,34,Brif Barnett
+Fantastic Four,34,Stephen Watson
+Fantastic Four,34,George R.R. Martin
+Fantastic Four,35,Steve Perrin
+Fantastic Four,35,Steve Chapman
+Fantastic Four,35,Steve St. Onge
+Fantastic Four,35,Larry Ytuarte
+Fantastic Four,35,Joey Polozola
+Fantastic Four,35,Tara O'Donnell
+Fantastic Four,35,David Clothier
+Fantastic Four,35,Charles Hutler
+Fantastic Four,35,Kenny Chance
+Fantastic Four,35,Juli Schulenburg
+Fantastic Four,35,Gary Hornback
+Fantastic Four,35,Marty Arbunich
+Fantastic Four,35,Shel Kagan
+Fantastic Four,36,Greg Lester
+Fantastic Four,36,Keith Clark
+Fantastic Four,36,Dave Cockrum
+Fantastic Four,36,Chris Will
+Fantastic Four,36,Susan Winn
+Fantastic Four,36,Dennis Willits
+Fantastic Four,36,Robert Drago
+Fantastic Four,36,Jesse Prater
+Fantastic Four,36,Chris Lampton
+Fantastic Four,37,"Diosdado Macapagal, Jr."
+Fantastic Four,37,Mike Haendiges
+Fantastic Four,37,Kraisden Wilde
+Fantastic Four,37,Ed Noonchester
+Fantastic Four,37,Keith McWalter
+Fantastic Four,37,Dave Smith
+Fantastic Four,37,Kevin Hunt
+Fantastic Four,37,George Carter
+Fantastic Four,37,"Guy H. Lillian, III"
+Fantastic Four,37,Steve Wilson
+Fantastic Four,38,Nick Henry
+Fantastic Four,38,David Winiewicz
+Fantastic Four,38,Duwanna Strubel
+Fantastic Four,38,Stuart Engel
+Fantastic Four,38,Charles Williams
+Fantastic Four,38,Bruce Wildstein
+Fantastic Four,38,Elizabeth Holden
+Fantastic Four,38,Steve Erickson
+Fantastic Four,38,Kathy Lucas
+Fantastic Four,38,Marilyn Holmes
+Fantastic Four,39,Carlos Baez
+Fantastic Four,39,Jack Marchese
+Fantastic Four,39,Mark Meed
+Fantastic Four,39,Robert Nespor
+Fantastic Four,39,Roger Gilman
+Fantastic Four,39,Linda Ann Mason
+Fantastic Four,39,Bob Ilisevich
+Fantastic Four,39,Curtis Martens
+Fantastic Four,40,Jim Martin
+Fantastic Four,40,Jeffrey Dietrich
+Fantastic Four,40,Joseph Hartlaub
+Fantastic Four,40,Mike Bophardt
+Fantastic Four,40,Rick Albright
+Fantastic Four,40,Michael Sing
+Fantastic Four,40,Tom Nester
+Fantastic Four,40,David Berman
+Fantastic Four,40,Clyde Snyder
+Fantastic Four,40,Mark Lund
+Fantastic Four,40,John Ellsworth
+Fantastic Four,41,Lynn Wilson
+Fantastic Four,41,Keith McWalter
+Fantastic Four,41,"Garland W. Edmonson, Jr"
+Fantastic Four,41,Ben John
+Fantastic Four,41,Dan Clark
+Fantastic Four,41,Gary Arturs
+Fantastic Four,41,Jim Quaid & Jerry Faller
+Fantastic Four,41,Victor Taucer
+Fantastic Four,42,Marty Tuzman
+Fantastic Four,42,David Olson
+Fantastic Four,42,Rick Scogin
+Fantastic Four,42,Bill Loudin
+Fantastic Four,42,Karl Spence
+Fantastic Four,42,"William McCord, Jr"
+Fantastic Four,42,Donald McGregor
+Fantastic Four,42,Kathy Goles
+Fantastic Four,42,James D. Grosbach
+Fantastic Four,43,Tim McCray
+Fantastic Four,43,Rick Paul
+Fantastic Four,43,Shailendra Maheshwari
+Fantastic Four,43,Tim White
+Fantastic Four,43,Preston Sinks
+Fantastic Four,43,Fred Lerner
+Fantastic Four,43,Randy Risedorf
+Fantastic Four,43,Steve Rosenfield
+Fantastic Four,44,Jack Martin
+Fantastic Four,44,Andy Noble
+Fantastic Four,44,Dave Cockrum
+Fantastic Four,44,Fred Lerner
+Fantastic Four,44,Paul Thiel
+Fantastic Four,44,Charles Hutler
+Fantastic Four,44,Joe Hartlaub
+Fantastic Four,44,Frank Silvestri
+Fantastic Four,44,Curtis Martens
+Fantastic Four,45,William Trotter
+Fantastic Four,45,Steven Long
+Fantastic Four,45,Alan Caldwell
+Fantastic Four,45,Steve Jacobs
+Fantastic Four,45,Steve Millener
+Fantastic Four,45,Joseph Wasko
+Fantastic Four,45,Ricky Metzger
+Fantastic Four,45,Mike Wells
+Fantastic Four,45,John White
+Fantastic Four,45,Brian McCann
+Fantastic Four,45,"Wayne Cauley, Jr"
+Fantastic Four,45,Dan Gibson
+Fantastic Four,45,Gary Karpook
+Fantastic Four,45,Joseph Lutz
+Fantastic Four,45,Alex J. Davis
+Fantastic Four,45,Joe Kramer
+Fantastic Four,45,Carrel Ross
+Fantastic Four,45,Randy Taylor
+Fantastic Four,45,Mark F. McFarlane
+Fantastic Four,45,Richard Hager
+Fantastic Four,45,Dennis Garland
+Fantastic Four,45,Charles Falloure
+Fantastic Four,45,Phillip D. Walters
+Fantastic Four,45,Judy Butts
+Fantastic Four,45,Ira Butts
+Fantastic Four,45,Ray Russo
+Fantastic Four,45,Glenn Phillips
+Fantastic Four,45,William F. Steel
+Fantastic Four,45,Jeffrey A. Friedberg
+Fantastic Four,45,Gloria Friedman
+Fantastic Four,45,Loren Mosier
+Fantastic Four,45,Darryl Skytta
+Fantastic Four,45,Carola Burroughs
+Fantastic Four,45,Joseph Trainor
+Fantastic Four,46,Tom Murray
+Fantastic Four,46,Fred Cleaver
+Fantastic Four,46,Victor Andrus
+Fantastic Four,46,Len Wein
+Fantastic Four,46,Thomas L. Smith
+Fantastic Four,46,John G. Fitzgerald
+Fantastic Four,46,Steve Kawashima
+Fantastic Four,46,Stewart Turner
+Fantastic Four,46,Mike Dawson
+Fantastic Four,46,Calvin Mandel
+Fantastic Four,46,Allen Fuqua
+Fantastic Four,46,Steve Gurner
+Fantastic Four,46,James M. Verhet
+Fantastic Four,46,Kathy Kapusta
+Fantastic Four,46,Bob Wallace
+Fantastic Four,46,Danny Conley
+Fantastic Four,46,Philip Cardone
+Fantastic Four,46,"George M. Smith, Jr"
+Fantastic Four,46,Jerry G. Balls
+Fantastic Four,46,Lawrence Walker
+Fantastic Four,46,Mike L. Lock
+Fantastic Four,46,Bill Neighbours
+Fantastic Four,46,Scott Nielson
+Fantastic Four,46,Tommy Gilbert
+Fantastic Four,46,"Allen F. Fumbanks, Jr"
+Fantastic Four,46,Bobby Stapleton
+Fantastic Four,46,Philip Harrison
+Fantastic Four,46,Bill Krieger
+Fantastic Four,46,Mrs. Mary Curtis
+Fantastic Four,46,Brian Yates
+Fantastic Four,46,Scott Williams
+Fantastic Four,46,Richard Florez
+Fantastic Four,46,Mike Arden
+Fantastic Four,46,Larry Knight
+Fantastic Four,47,Robert Babecki
+Fantastic Four,47,Keith Yates
+Fantastic Four,47,Wayne Vucenic
+Fantastic Four,47,Roderic Smith
+Fantastic Four,47,Bert Brandt
+Fantastic Four,47,Chris White
+Fantastic Four,47,Bruce Barton
+Fantastic Four,47,Dale Centanni
+Fantastic Four,47,Lee Hall
+Fantastic Four,47,David J. Gilner
+Fantastic Four,47,Dave Cantwell
+Fantastic Four,47,Antonio Carpenter
+Fantastic Four,47,Hal Goodwin
+Fantastic Four,47,George Kaas
+Fantastic Four,47,Bill Berry
+Fantastic Four,47,Wally Ream
+Fantastic Four,47,Michael Hicks
+Fantastic Four,47,Jim McIntyre
+Fantastic Four,47,Bob McIntyre
+Fantastic Four,47,Jim Lawhorn
+Fantastic Four,47,Jimmy Gibson
+Fantastic Four,47,Patricia Germanio
+Fantastic Four,47,Jeffrey Walker
+Fantastic Four,47,Steve Miller
+Fantastic Four,47,Buddy Hassel
+Fantastic Four,47,Bob Johnson
+Fantastic Four,47,Frank Chadwick
+Fantastic Four,47,Jim Reynolds
+Fantastic Four,47,Jack Holman
+Fantastic Four,47,Carole McGuirk
+Fantastic Four,47,Bob Michael
+Fantastic Four,47,Donald Jackson
+Fantastic Four,47,William F. Russ
+Fantastic Four,47,Jack E. Richley
+Fantastic Four,47,Gary A. David
+Fantastic Four,48,William McGee
+Fantastic Four,48,Danny Clermont
+Fantastic Four,48,Phil Leibfred
+Fantastic Four,48,Bill O¿¿¿Neil
+Fantastic Four,48,Robert Gotay
+Fantastic Four,48,Joseph Fernandez
+Fantastic Four,48,Lucy Fernandez
+Fantastic Four,48,Gerald Tichy
+Fantastic Four,48,Brian Pickrell
+Fantastic Four,48,John Lamathe
+Fantastic Four,48,Steven Doyle
+Fantastic Four,48,Miss Margaret Murray
+Fantastic Four,48,Robert Golfin
+Fantastic Four,48,Adrien Chang
+Fantastic Four,48,Steven Rodriguez
+Fantastic Four,48,Richard Dooley
+Fantastic Four,48,James Thomas
+Fantastic Four,48,Malcom G. Manford
+Fantastic Four,48,Steve Jagodzinski
+Fantastic Four,48,Ken Pampu
+Fantastic Four,48,Steven Adler
+Fantastic Four,48,Donald Benn
+Fantastic Four,48,Douglas Southgate
+Fantastic Four,48,Scott Gillet
+Fantastic Four,48,Ray Cardinal
+Fantastic Four,48,Joseph Saetta
+Fantastic Four,48,Janey Davis
+Fantastic Four,48,Diane Nagura
+Fantastic Four,48,Leonard Tirado
+Fantastic Four,48,Robert Brissette
+Fantastic Four,48,Donald McGregor
+Fantastic Four,48,Alice Jean Schorfheide
+Fantastic Four,48,Ty Bizony
+Fantastic Four,48,Marlene Jablon
+Fantastic Four,49,Gabriel Patino
+Fantastic Four,49,Hilmonet Aldridge
+Fantastic Four,49,Dwayne Calvert
+Fantastic Four,49,Richard Gomzalg
+Fantastic Four,49,John Blue
+Fantastic Four,49,Jimmy Roberts
+Fantastic Four,49,Michael Roberts
+Fantastic Four,49,John Strong
+Fantastic Four,49,Gil Armour
+Fantastic Four,49,Christopher Dorsey
+Fantastic Four,49,Dick Leisenfelder
+Fantastic Four,49,Chris Myers
+Fantastic Four,49,Ned Ballenger
+Fantastic Four,49,"Robert Wall, Jr"
+Fantastic Four,49,Keith McPhail
+Fantastic Four,49,Chester Smith
+Fantastic Four,49,Sandra Cernauskas
+Fantastic Four,49,Nel Dahle
+Fantastic Four,49,Arthur Shimkus
+Fantastic Four,49,Robert McNeil
+Fantastic Four,49,Jim Dee
+Fantastic Four,49,Chris Hudson
+Fantastic Four,49,Richard Bainey
+Fantastic Four,49,Darryl D. Skytta
+Fantastic Four,49,Russ Williams
+Fantastic Four,49,Ronald Lindenboom
+Fantastic Four,49,Dave Cockrum
+Fantastic Four,49,W.A. Krohn
+Fantastic Four,49,"Allen Howlett, Jr"
+Fantastic Four,49,Pete von Sholly
+Fantastic Four,49,Mike Glicksohn
+Fantastic Four,49,Kathy Sue Krajco
+Fantastic Four,49,Stephen Stumpp
+Fantastic Four,49,Kenneth Kirby
+Fantastic Four,49,Phil Watgen
+Fantastic Four,49,Kevin Morgan
+Fantastic Four,50,Allan Levite
+Fantastic Four,50,David Hirnes
+Fantastic Four,50,Roger A. Moyer
+Fantastic Four,50,Charlie Murphy
+Fantastic Four,50,Jeff Kikuchl
+Fantastic Four,50,Jerry Bires
+Fantastic Four,50,Charles Peach
+Fantastic Four,50,Stanley Kulhn
+Fantastic Four,50,Jerry McKeown
+Fantastic Four,50,Jim Marks
+Fantastic Four,50,Jerry Parr
+Fantastic Four,50,Mark Stone
+Fantastic Four,50,Gary Vix
+Fantastic Four,50,"Earl Nibblett, Jr"
+Fantastic Four,50,Kenneth Keller
+Fantastic Four,50,Gary Stillman
+Fantastic Four,50,Arthur Patrick
+Fantastic Four,50,Kerry Liesch
+Fantastic Four,50,Donald Robbins
+Fantastic Four,50,Mordlcar Harriso
+Fantastic Four,50,Jim Courtney
+Fantastic Four,50,Marti Beck
+Fantastic Four,50,Dwight Harvey
+Fantastic Four,50,L.J. Herro
+Fantastic Four,50,Amy Holasy
+Fantastic Four,50,Mathew Peters
+Fantastic Four,50,Jim Ruszka
+Fantastic Four,50,Gerard Conway
+Fantastic Four,50,Frank Heenan
+Fantastic Four,50,Barry Bezold
+Fantastic Four,50,Norman E. Hulcher
+Fantastic Four,50,Allen Howlett
+Fantastic Four,50,Owen Davis
+Fantastic Four,50,Rick Albright
+Fantastic Four,50,
+Fantastic Four,50,Eric Zelman
+Fantastic Four,50,Richard Weber
+Fantastic Four,50,Henry Geller
+Fantastic Four,51,J.C. Brown
+Fantastic Four,51,Jim Carlson
+Fantastic Four,51,"Gail Krieg, Jr"
+Fantastic Four,51,Tony Fera
+Fantastic Four,51,Paul Sherrod
+Fantastic Four,51,Jimmy Ray Bradley
+Fantastic Four,51,Ricky Almand
+Fantastic Four,51,Dana Letts
+Fantastic Four,51,Jim Hunter
+Fantastic Four,51,Arthur Sipe
+Fantastic Four,51,Steve Beto
+Fantastic Four,51,Jeffrey Gebb
+Fantastic Four,51,"Robbie Brown, Jr"
+Fantastic Four,51,Lester Filer
+Fantastic Four,51,Gary Erekuff
+Fantastic Four,51,Rocky Hort
+Fantastic Four,51,John Benoit
+Fantastic Four,51,Stanley Johnson
+Fantastic Four,51,David Lengyel
+Fantastic Four,51,Rick Lwell
+Fantastic Four,51,Mitch Lamourreaux
+Fantastic Four,51,Andy Jones
+Fantastic Four,51,Robert Feie
+Fantastic Four,51,Andrew Fairfax
+Fantastic Four,51,Larry Sqpyre
+Fantastic Four,51,Richard Franklin
+Fantastic Four,51,Bill Hitchcock
+Fantastic Four,51,Carl H. Helmstetter
+Fantastic Four,51,Robert Ford
+Fantastic Four,51,George Gardiner
+Fantastic Four,51,Dick Bandoli
+Fantastic Four,51,Melvin Gionson
+Fantastic Four,51,Dennie Landau
+Fantastic Four,51,Dorothea Baker
+Fantastic Four,51,Jack Skowron
+Fantastic Four,51,Peter Mancuso
+Fantastic Four,52,Mike Murano
+Fantastic Four,52,Arthur Hastings
+Fantastic Four,52,Bill Barger
+Fantastic Four,52,Claude McGinnis
+Fantastic Four,52,Sidney Watson
+Fantastic Four,52,James Meride
+Fantastic Four,52,Marvin Lightoap
+Fantastic Four,52,Robert Sinkevich
+Fantastic Four,52,Jack Friedman
+Fantastic Four,52,Andy Bandy
+Fantastic Four,52,Gary Willms
+Fantastic Four,52,Noel Boaz
+Fantastic Four,52,Randy Batty
+Fantastic Four,52,James Hancock
+Fantastic Four,52,Mary Francis Gibson
+Fantastic Four,52,Bud Kliment
+Fantastic Four,52,Gene Dexter
+Fantastic Four,52,Jesse Jarrell
+Fantastic Four,52,Mark Alessio
+Fantastic Four,52,David Londenglos
+Fantastic Four,52,Rolando Hernandez
+Fantastic Four,52,Mark Sikora
+Fantastic Four,52,Judy Wenger
+Fantastic Four,52,David Banks
+Fantastic Four,52,Eleo Bienenfield
+Fantastic Four,52,Michael Grenzer
+Fantastic Four,52,Joseph Gall
+Fantastic Four,52,Phillip Pearson
+Fantastic Four,52,Garlad Storrow
+Fantastic Four,52,Don Jarvis
+Fantastic Four,52,Larry Bush
+Fantastic Four,52,"J.W. Goodwin, Jr"
+Fantastic Four,52,Dave Wieck
+Fantastic Four,52,John Stuart
+Fantastic Four,52,Vernon Haskell
+Fantastic Four,52,Eugene Bearringer
+Fantastic Four,52,Doug Nikkel
+Fantastic Four,52,Donald J. Brown
+Fantastic Four,53,Jan Shpiegelman
+Fantastic Four,53,Henry Bergman
+Fantastic Four,53,Curtis Firstman
+Fantastic Four,53,Frank Gillespie
+Fantastic Four,53,Michele Bebitch
+Fantastic Four,53,Erin Keller
+Fantastic Four,53,Anthony Fusco
+Fantastic Four,53,Jeff Halberg
+Fantastic Four,53,Bobby Bourge
+Fantastic Four,53,Allen Bradley
+Fantastic Four,53,Kevin Anderson
+Fantastic Four,53,William Hine
+Fantastic Four,53,Kenny Hamilton
+Fantastic Four,53,Garry Guiban
+Fantastic Four,53,Richard Becker
+Fantastic Four,53,Larry Cameron
+Fantastic Four,53,Steven Hurst
+Fantastic Four,53,James Bigelow
+Fantastic Four,53,Lorenzo Banaga
+Fantastic Four,53,Robert Boudrow
+Fantastic Four,53,Ansel Boiter
+Fantastic Four,53,James Fitzgerald
+Fantastic Four,53,Henry Kozikowski
+Fantastic Four,53,Stan Bogal
+Fantastic Four,53,Gary Christensen
+Fantastic Four,53,Patrick Connors
+Fantastic Four,53,Irving Goller
+Fantastic Four,53,Dan Madaj
+Fantastic Four,53,Charles Hutler
+Fantastic Four,53,John Bonhomme
+Fantastic Four,53,Dennis O¿¿¿Neil
+Fantastic Four,53,Mark Mandel
+Fantastic Four,53,Guy Michel
+Fantastic Four,53,Paul Kalenak
+Fantastic Four,53,Mrs. Sarah Doll
+Fantastic Four,53,Bill Duff
+Fantastic Four,53,Scott Palmer
+Fantastic Four,54,Ricky Elkins
+Fantastic Four,54,David Jones
+Fantastic Four,54,Stacey Katsis
+Fantastic Four,54,Tom Aldridge
+Fantastic Four,54,Chip Kendrick
+Fantastic Four,54,David Bennett
+Fantastic Four,54,Frank Gomez
+Fantastic Four,54,Frank Fort
+Fantastic Four,54,Mary Jacobs
+Fantastic Four,54,Robert Carberry
+Fantastic Four,54,Billy Kitchen
+Fantastic Four,54,Robert Achtelik
+Fantastic Four,54,Mike Banomis
+Fantastic Four,54,Steven Ballentine
+Fantastic Four,54,Kirk Jackson
+Fantastic Four,54,Robert Erickson
+Fantastic Four,54,Robert Briggs
+Fantastic Four,54,Johnny Battles
+Fantastic Four,54,Nic Austin
+Fantastic Four,54,Max Gottfried
+Fantastic Four,54,Leon Fisher
+Fantastic Four,54,Russell Inman
+Fantastic Four,54,Doug Evans
+Fantastic Four,54,Debbie Bryant
+Fantastic Four,54,Billy Ferguson
+Fantastic Four,54,Robert Cantona
+Fantastic Four,54,David Carmichael
+Fantastic Four,54,Jacques Boivin
+Fantastic Four,54,Jerry Mills
+Fantastic Four,54,Russell Hamm
+Fantastic Four,54,"Russell Bullock, Jr"
+Fantastic Four,54,Greg Jones
+Fantastic Four,54,Ted Rypel
+Fantastic Four,54,Joe Kusbel
+Fantastic Four,54,Pete Marzano
+Fantastic Four,55,Greg Spisak
+Fantastic Four,55,Hans Schaper
+Fantastic Four,55,Ken Greene
+Fantastic Four,55,James D. Pecot
+Fantastic Four,55,Philip Normand
+Fantastic Four,55,Sanford Meschkow
+Fantastic Four,55,Darryl Miller
+Fantastic Four,55,Alan Finn
+Fantastic Four,56,Steve Chapman
+Fantastic Four,56,Andy Joyce
+Fantastic Four,56,Dan Connell
+Fantastic Four,56,Gary Grossman
+Fantastic Four,56,Christopher Feala
+Fantastic Four,56,Rick Groat
+Fantastic Four,56,John Cox
+Fantastic Four,56,Milton James
+Fantastic Four,56,Stephen Carey
+Fantastic Four,56,Brad Kohlet
+Fantastic Four,56,J. Griffin
+Fantastic Four,56,Jerry Kaelin
+Fantastic Four,56,Gregory Johnson
+Fantastic Four,56,John Fress
+Fantastic Four,56,Doug Clark
+Fantastic Four,56,Doug Clark
+Fantastic Four,56,Marlin Harris
+Fantastic Four,56,Doug Lewis
+Fantastic Four,56,Carl Henry
+Fantastic Four,56,Richard Coburn
+Fantastic Four,56,Clifford Coffman
+Fantastic Four,56,David La Point
+Fantastic Four,56,Henry Gross
+Fantastic Four,56,Walter Chao
+Fantastic Four,56,Larry Harris
+Fantastic Four,56,Dennis Hassell
+Fantastic Four,56,Robert Higginbotham
+Fantastic Four,56,Manfred Sierke
+Fantastic Four,56,"Carlo, Paul, and Jim"
+Fantastic Four,56,Tom Spevak
+Fantastic Four,56,"Henry B. Clay, III"
+Fantastic Four,56,Donald Jackson
+Fantastic Four,56,Tim Fox
+Fantastic Four,56,"Russell Bullock, Jr"
+Fantastic Four,57,Charles Bly
+Fantastic Four,57,Mike Fox
+Fantastic Four,57,Robert Johnson
+Fantastic Four,57,Lance Barber
+Fantastic Four,57,Bernard Guiteras
+Fantastic Four,57,Robert Cohen
+Fantastic Four,57,Ronnie Fisher
+Fantastic Four,57,Christine Capone
+Fantastic Four,57,James Field
+Fantastic Four,57,Scott Cutler
+Fantastic Four,57,Arthur Cucruel
+Fantastic Four,57,Richard Chaput
+Fantastic Four,57,Alan Campbell
+Fantastic Four,57,David Brown
+Fantastic Four,57,M.H. Benson
+Fantastic Four,57,Jerry Balls
+Fantastic Four,57,Frank Barone
+Fantastic Four,57,Alex Belka
+Fantastic Four,57,Arthur Jackson
+Fantastic Four,57,Leon Carlock
+Fantastic Four,57,Bill Countryman
+Fantastic Four,57,Clayton Lewis
+Fantastic Four,57,Barry Lowry
+Fantastic Four,57,Johnny Badex
+Fantastic Four,57,Rudy Gates
+Fantastic Four,57,Linda Lee Johnson
+Fantastic Four,57,Barry Brookner
+Fantastic Four,57,Carl Nelson
+Fantastic Four,57,Edward Koh
+Fantastic Four,57,"Chuck Robinson, II"
+Fantastic Four,57,Mrs. Roslyn Smith
+Fantastic Four,57,Eugene Frederick
+Fantastic Four,57,Buzzy Blair
+Fantastic Four,58,Neil Neches
+Fantastic Four,58,Richard Ackerson
+Fantastic Four,58,Peter Harlan
+Fantastic Four,58,Kirk Matus
+Fantastic Four,58,Richard Martinson
+Fantastic Four,58,Wayne J. Logsdon
+Fantastic Four,58,Robert J. Burbank
+Fantastic Four,58,Douglas Bell
+Fantastic Four,58,Allen Almasy
+Fantastic Four,58,Abe Green
+Fantastic Four,58,Carl Heady
+Fantastic Four,58,Cindy Janks
+Fantastic Four,58,Steve Bennyhoff
+Fantastic Four,58,Larry Bahr
+Fantastic Four,58,Jimmy Lenehan
+Fantastic Four,58,Leslie Krauslh
+Fantastic Four,58,Gary Moore
+Fantastic Four,58,John Kreutzer
+Fantastic Four,58,Bryce Glesler
+Fantastic Four,58,Lewis Kuifist
+Fantastic Four,58,Mark Keckelsen
+Fantastic Four,58,Warren Keckelsen
+Fantastic Four,58,Edward Morales
+Fantastic Four,58,David McGinn
+Fantastic Four,58,Louis Lovsin
+Fantastic Four,58,"Edward Marales, Jr"
+Fantastic Four,58,Mike Hemenway
+Fantastic Four,58,Carv Burkett
+Fantastic Four,58,James Wolcott
+Fantastic Four,58,Wallace M. Wright
+Fantastic Four,58,Jack Drucker
+Fantastic Four,58,Vincent Wright
+Fantastic Four,58,Eric Lesko
+Fantastic Four,58,Bennie Hammonds
+Fantastic Four,59,Dennis Herbson
+Fantastic Four,59,George Herrmann
+Fantastic Four,59,Paul D. Garen
+Fantastic Four,59,"T.W. Bowell, Jr"
+Fantastic Four,59,Scott Lottridge
+Fantastic Four,59,Howard Lett
+Fantastic Four,59,John Link
+Fantastic Four,59,Paul Carlsen
+Fantastic Four,59,John Ayies
+Fantastic Four,59,Robert Burzawa
+Fantastic Four,59,Bobby Lee
+Fantastic Four,59,Wayne Coker
+Fantastic Four,59,Gregory McCarron
+Fantastic Four,59,Lawrence Hauser
+Fantastic Four,59,Charles Kempton
+Fantastic Four,59,John Hill
+Fantastic Four,59,Frank Baldivino
+Fantastic Four,59,David Henry
+Fantastic Four,59,Mary F. Inolony
+Fantastic Four,59,Clint Cooper
+Fantastic Four,59,Barry Jones
+Fantastic Four,59,Spencer McGowan
+Fantastic Four,59,Howie Coplan
+Fantastic Four,59,Don Meeks
+Fantastic Four,59,Bill Sigel
+Fantastic Four,59,John Adnot
+Fantastic Four,59,Rhiman Rotz
+Fantastic Four,59,Panayote Coutrouboussis
+Fantastic Four,59,Maureen Campbell
+Fantastic Four,59,Robert Selig
+Fantastic Four,59,Guy Haughton
+Fantastic Four,59,"Julian Chavez, Jr"
+Fantastic Four,60,John Gibson
+Fantastic Four,60,Jerry Macy
+Fantastic Four,60,Allen Hurwitz
+Fantastic Four,60,Dean Centanni
+Fantastic Four,60,Donald McClellan
+Fantastic Four,60,Roberta Niss
+Fantastic Four,60,Kevin L. Sutton
+Fantastic Four,60,Philip Imbrogno
+Fantastic Four,60,Martin Tyler
+Fantastic Four,60,Gary Lee Zerno
+Fantastic Four,60,Blair Ligon
+Fantastic Four,60,Gary Fortner
+Fantastic Four,60,Edward Lee
+Fantastic Four,60,Jack Lee
+Fantastic Four,60,Arthur Lee
+Fantastic Four,60,David Lee
+Fantastic Four,60,Joseph Lee
+Fantastic Four,60,Don Glut
+Fantastic Four,60,Richard Hurst
+Fantastic Four,60,Jeffrey Schantz
+Fantastic Four,60,Philip Clark
+Fantastic Four,60,Jimmy Harris
+Fantastic Four,60,Mike Reaves
+Fantastic Four,60,Mike Tensley
+Fantastic Four,60,Aaron Caplan
+Fantastic Four,60,Melanie Deck
+Fantastic Four,60,Charles Crowley
+Fantastic Four,60,Mimi Spencer
+Fantastic Four,60,Curt Tweddell
+Fantastic Four,60,Brian Oatley
+Fantastic Four,60,James Gritis
+Fantastic Four,60,Mike Malson
+Fantastic Four,60,John Eifu
+Fantastic Four,61,Bob Inorgan
+Fantastic Four,61,Michael Goodin
+Fantastic Four,61,Gordon Bryon
+Fantastic Four,61,John Harwood
+Fantastic Four,61,Dan Kearney
+Fantastic Four,61,Leo Mascinch
+Fantastic Four,61,Wade Hendbee
+Fantastic Four,61,Martin King
+Fantastic Four,61,G. Hutchens
+Fantastic Four,61,John Martinez
+Fantastic Four,61,Pat Burridge
+Fantastic Four,61,George Huey
+Fantastic Four,61,Michael Altobello
+Fantastic Four,61,Tapio La HamLampl
+Fantastic Four,61,Billy Bloom
+Fantastic Four,61,Thomas McDermott
+Fantastic Four,61,"James Miller, Jr"
+Fantastic Four,61,Tom Bradshaw
+Fantastic Four,61,Gilbert Cochran
+Fantastic Four,61,"Paul Burns, Jr"
+Fantastic Four,61,Phil Heddesheimer
+Fantastic Four,61,Daniel Cameron
+Fantastic Four,61,Chris Constantin
+Fantastic Four,61,David Bastedo
+Fantastic Four,61,Tommy Kelgore
+Fantastic Four,61,Harry C. Bel
+Fantastic Four,61,Bill Homah
+Fantastic Four,61,Nancy Newton
+Fantastic Four,61,Wayne Witkowski
+Fantastic Four,61,Alan Bentzel
+Fantastic Four,61,Mark Thomas
+Fantastic Four,61,Mike Johnson
+Fantastic Four,61,Mike Kelley
+Fantastic Four,61,Grant Canfield
+Fantastic Four,62,Alfred Lake
+Fantastic Four,62,William Chmelko
+Fantastic Four,62,Claude Coderre
+Fantastic Four,62,Lee Judge
+Fantastic Four,62,Jeffrey Mayer
+Fantastic Four,62,Jay Jordan
+Fantastic Four,62,Tom Ashcroft
+Fantastic Four,62,Jeff Creel
+Fantastic Four,62,Adam Field
+Fantastic Four,62,David Mossbarger
+Fantastic Four,62,Bill Howell
+Fantastic Four,62,"Joe Ferrell, Jr"
+Fantastic Four,62,Wilburn Brown
+Fantastic Four,62,Gilbert Mazur
+Fantastic Four,62,Raymond Cote
+Fantastic Four,62,Jerry Boyer
+Fantastic Four,62,Andrew Chamblin
+Fantastic Four,62,Marcia Mayer
+Fantastic Four,62,Jim Litchfield
+Fantastic Four,62,Arnold Binni
+Fantastic Four,62,Albert Cree
+Fantastic Four,62,Albert Cree
+Fantastic Four,62,David Backrack
+Fantastic Four,62,Pam Clark
+Fantastic Four,62,Gregory Houtz
+Fantastic Four,62,David Lee Butler
+Fantastic Four,62,Robert Caluda
+Fantastic Four,62,Gary Marco
+Fantastic Four,62,Chris Barth
+Fantastic Four,62,Brian Clift
+Fantastic Four,62,Franklin Roy
+Fantastic Four,62,Jim Bloodsworth
+Fantastic Four,62,Charles Hutler
+Fantastic Four,62,Paul Thiel
+Fantastic Four,62,Peter von Sholly
+Fantastic Four,63,David Cowan
+Fantastic Four,63,Jeff Hinck
+Fantastic Four,63,Henry Binder
+Fantastic Four,63,Roy Knight
+Fantastic Four,63,David McDonald
+Fantastic Four,63,Henry Binder
+Fantastic Four,63,Tom Fisher
+Fantastic Four,63,Russell Billings
+Fantastic Four,63,Jerry Clair
+Fantastic Four,63,Phillip Churchill
+Fantastic Four,63,Jeffrey Blumenfeld
+Fantastic Four,63,David Brod
+Fantastic Four,63,"George Miller, Jr"
+Fantastic Four,63,"George Antolick, Jr"
+Fantastic Four,63,Buddy McDermott
+Fantastic Four,63,Louis Maltese
+Fantastic Four,63,Richard Ballew
+Fantastic Four,63,David Kostenborder
+Fantastic Four,63,Rick Brod
+Fantastic Four,63,James Coryell
+Fantastic Four,63,Lee Martinez
+Fantastic Four,63,Armando Cesarini
+Fantastic Four,63,Scott Arnopol
+Fantastic Four,63,Bill Kirchner
+Fantastic Four,63,Kenny Adams
+Fantastic Four,63,Arthur Stickney
+Fantastic Four,63,Joe Kovacs
+Fantastic Four,63,Gil E. Cerf
+Fantastic Four,63,Luke Carpenter
+Fantastic Four,63,Mrs. Nancy Burtnett
+Fantastic Four,63,Dean Hill
+Fantastic Four,64,Mark Evanier
+Fantastic Four,64,Ronald Fitch
+Fantastic Four,64,Morris McKenney
+Fantastic Four,64,Charles Lee
+Fantastic Four,64,Gordon Craig
+Fantastic Four,64,James Hourigan
+Fantastic Four,64,Robert Bienstock
+Fantastic Four,64,Frank Greene
+Fantastic Four,64,Gary Nugent
+Fantastic Four,64,Jerry Kollan
+Fantastic Four,64,David Kidd
+Fantastic Four,64,Michael Gould
+Fantastic Four,64,Keith Foy
+Fantastic Four,64,Jack Karpan
+Fantastic Four,64,Dave Mitchell
+Fantastic Four,64,Tom Nunan
+Fantastic Four,64,John Leavitt
+Fantastic Four,64,Kenneth Kramer
+Fantastic Four,64,Peter Cretella
+Fantastic Four,64,Robert LaTour
+Fantastic Four,64,Howard Charbonnean
+Fantastic Four,64,Bob Nahirmick
+Fantastic Four,64,Tom May
+Fantastic Four,64,Robert Link
+Fantastic Four,64,Jeffrey Grimshaw
+Fantastic Four,64,Juanita Jones
+Fantastic Four,64,Ivan Gallion
+Fantastic Four,64,Matt Rosenblatt
+Fantastic Four,64,George Poulin
+Fantastic Four,64,J. Wayne Sadler
+Fantastic Four,64,Howie Schultzberg
+Fantastic Four,64,Paul Seid
+Fantastic Four,64,Greg Kishel
+Fantastic Four,65,Hubert L. Jackson
+Fantastic Four,65,Thomas Yaremko
+Fantastic Four,65,George M. Smith
+Fantastic Four,65,Frankie Gideon
+Fantastic Four,65,Howard Liebman
+Fantastic Four,65,John Gardeli
+Fantastic Four,65,Terry Fenwick
+Fantastic Four,65,Richard Roberts
+Fantastic Four,65,Reggi Lemon
+Fantastic Four,65,Jim Jackson
+Fantastic Four,65,Brent Leake
+Fantastic Four,65,John Nola
+Fantastic Four,65,Graham Lees
+Fantastic Four,65,Larry Moore
+Fantastic Four,65,"Dan Hessler, Jr"
+Fantastic Four,65,Blair Fawcett
+Fantastic Four,65,Jon Jackson
+Fantastic Four,65,Paul Lenart
+Fantastic Four,65,Leo C. Kajdas
+Fantastic Four,65,Rick Martinelli
+Fantastic Four,65,Virginia L. Harmon
+Fantastic Four,65,John La Forgia
+Fantastic Four,65,Bruce R. Hartney
+Fantastic Four,65,Tony Hagemann
+Fantastic Four,65,Tony Russell
+Fantastic Four,65,John Chisari
+Fantastic Four,65,Philip Witt
+Fantastic Four,65,Robert Lax
+Fantastic Four,65,Mike Glicksohn
+Fantastic Four,65,Peter Marzano
+Fantastic Four,65,Thomas Lewis
+Fantastic Four,65,David Hakala
+Fantastic Four,66,Bud Cavadini
+Fantastic Four,66,Bruce Long
+Fantastic Four,66,Michael Rosenbaum
+Fantastic Four,66,Keith Morgensai
+Fantastic Four,66,David Mattocks
+Fantastic Four,66,George Grubisic
+Fantastic Four,66,George Grant
+Fantastic Four,66,Rocky Rucic
+Fantastic Four,66,Pete Manry
+Fantastic Four,66,Michael Longley
+Fantastic Four,66,Andrew Florendo
+Fantastic Four,66,Larry Gaffrery
+Fantastic Four,66,Dean Momohara
+Fantastic Four,66,Ben Martin
+Fantastic Four,66,Glenn Groggin
+Fantastic Four,66,Michael Rhodes
+Fantastic Four,66,Roderick Fleming
+Fantastic Four,66,Sandy Link
+Fantastic Four,66,Robert Gibson
+Fantastic Four,66,Malcsem Gorden
+Fantastic Four,66,J. McGee
+Fantastic Four,66,Billy Lorenzo
+Fantastic Four,66,Bill Krieger
+Fantastic Four,66,Thomas Kiviatkowski
+Fantastic Four,66,Charles Honts
+Fantastic Four,66,Anna Masnica
+Fantastic Four,66,Buddy Kennedy
+Fantastic Four,66,Thomas Mattocks
+Fantastic Four,66,Patrick Guerin
+Fantastic Four,66,Bill Lewis
+Fantastic Four,66,Chas. Perkins
+Fantastic Four,66,Lee Vercoe
+Fantastic Four,66,Nancy Chapman
+Fantastic Four,66,Reginald Klassen
+Fantastic Four,66,Bill Stoddard
+Fantastic Four,66,Dennis Harrison
+Fantastic Four,66,Rick Lewis
+Fantastic Four,67,Gregory Gegenti
+Fantastic Four,67,Octavo Rivera
+Fantastic Four,67,Bruce O¿¿¿Connell
+Fantastic Four,67,Neil Karp
+Fantastic Four,67,Dan Moerman
+Fantastic Four,67,Christopher Flannery
+Fantastic Four,67,John Rutledge
+Fantastic Four,67,Robert Buckley
+Fantastic Four,67,Bruce Miller
+Fantastic Four,67,Robert Kelly
+Fantastic Four,67,Vincent Lipinsky
+Fantastic Four,67,Dennis Galway
+Fantastic Four,67,Bert Breck
+Fantastic Four,67,Sheldon Billips
+Fantastic Four,67,John Meagher
+Fantastic Four,67,Charles Gelish
+Fantastic Four,67,Jordan Rothstein
+Fantastic Four,67,Andrew Berletic
+Fantastic Four,67,Paul Delguerio
+Fantastic Four,67,Alan Gordon
+Fantastic Four,67,Jerry Balls
+Fantastic Four,67,James Manuel
+Fantastic Four,67,Nathan Glidden
+Fantastic Four,67,John Chin
+Fantastic Four,67,Philip Miller
+Fantastic Four,67,John Bleiziffer
+Fantastic Four,67,Chuck Thornton
+Fantastic Four,67,Tim Allen
+Fantastic Four,67,Jim de Luca
+Fantastic Four,67,Jon Phillips
+Fantastic Four,67,Jim Engdahl
+Fantastic Four,67,Marty Ross
+Fantastic Four,67,Greg Marshall
+Fantastic Four,68,Robert Lax
+Fantastic Four,68,K.F. Wayne Nehwadowich
+Fantastic Four,68,Bob Modine
+Fantastic Four,68,Archie Maier
+Fantastic Four,68,Peter Kramer
+Fantastic Four,68,Milton Hamrick
+Fantastic Four,68,Earl Hobson
+Fantastic Four,68,Lee Raymond
+Fantastic Four,68,Michael Honsh
+Fantastic Four,68,Phil Neahows
+Fantastic Four,68,David Juravel
+Fantastic Four,68,Apperson Johnson
+Fantastic Four,68,Mike Ryan
+Fantastic Four,68,Bill Modica
+Fantastic Four,68,Jerry Hicks
+Fantastic Four,68,Alvin Hinton
+Fantastic Four,68,David Lalonde
+Fantastic Four,68,Richard Roberts
+Fantastic Four,68,Michael Livak
+Fantastic Four,68,Robert Nishimoto
+Fantastic Four,68,Billy Robertson
+Fantastic Four,68,Manuel Rosa
+Fantastic Four,68,Rino Liberatore
+Fantastic Four,68,David Rolls
+Fantastic Four,68,Joseph Roseo
+Fantastic Four,68,Brian Linwelf
+Fantastic Four,68,Linda Reames
+Fantastic Four,68,Steve Milovich
+Fantastic Four,68,Phillip L. McManus
+Fantastic Four,68,Mr. & Mrs. Allen Frost
+Fantastic Four,68,Danny Staniskis
+Fantastic Four,68,Ned Barnett
+Fantastic Four,68,Allan Perun
+Fantastic Four,68,Kathy Lohr
+Fantastic Four,69,Gary Miller
+Fantastic Four,69,Dan Rice
+Fantastic Four,69,David Ricks
+Fantastic Four,69,Tommy Rainey
+Fantastic Four,69,Ronnie Maceo
+Fantastic Four,69,Mike Moore
+Fantastic Four,69,Patrick McGrath
+Fantastic Four,69,Gordon Michaels
+Fantastic Four,69,James Morack
+Fantastic Four,69,Marvin Marshall
+Fantastic Four,69,Albert Noldonado
+Fantastic Four,69,Cisco Ramirez
+Fantastic Four,69,Nicholas Nesl
+Fantastic Four,69,Gary McSwane
+Fantastic Four,69,Tommy Richardson
+Fantastic Four,69,Dave Regent
+Fantastic Four,69,Scott Rogers
+Fantastic Four,69,Mark Rogers
+Fantastic Four,69,David Mitofsky
+Fantastic Four,69,Eric Mitofsky
+Fantastic Four,69,Greg Mattson
+Fantastic Four,69,Hector Rodriquez
+Fantastic Four,69,Willie McNeally
+Fantastic Four,69,Lowell Morris
+Fantastic Four,69,Larry Niller
+Fantastic Four,69,Sean O¿¿¿Meara
+Fantastic Four,69,Mark McCaffrey
+Fantastic Four,69,Michael Grecsek
+Fantastic Four,69,Don Sampson
+Fantastic Four,69,Jeff Stasi
+Fantastic Four,69,Dale Miller
+Fantastic Four,69,Lane Bailey
+Fantastic Four,69,Dana Smith
+Fantastic Four,69,Chris Dunny
+Fantastic Four,70,Richard Vitone
+Fantastic Four,70,Stephen McGuire
+Fantastic Four,70,Frank Rachubinski
+Fantastic Four,70,Danny Moore
+Fantastic Four,70,Curt Huckaby
+Fantastic Four,70,Ronald Lewis
+Fantastic Four,70,Richard Gerson
+Fantastic Four,70,Leonard Coolidge
+Fantastic Four,70,Fortune Matineau
+Fantastic Four,70,McBlain Boyle
+Fantastic Four,70,Gary Hubbard
+Fantastic Four,70,James Gregg
+Fantastic Four,70,John Gregg
+Fantastic Four,70,Bruce James
+Fantastic Four,70,George Rosich
+Fantastic Four,70,William Marshall
+Fantastic Four,70,Ted Morris
+Fantastic Four,70,Robert Rupley
+Fantastic Four,70,Nicholas Rezza
+Fantastic Four,70,Brian Madigan
+Fantastic Four,70,Saul Rothenberg
+Fantastic Four,70,Terry Rounebush
+Fantastic Four,70,Henry Moore
+Fantastic Four,70,Reid Russell
+Fantastic Four,70,Sean Mangan
+Fantastic Four,70,Richard Manonna
+Fantastic Four,70,Barry Smith
+Fantastic Four,70,Joe Brown
+Fantastic Four,70,Joe Schifino
+Fantastic Four,70,Dean Crawford
+Fantastic Four,70,Rosanne Wasserman
+Fantastic Four,70,Jeff Sipkoff
+Fantastic Four,70,Mike Skocko
+Fantastic Four,70,Dana Smith
+Fantastic Four,70,Chris Dunny
+Fantastic Four,71,Julie Nemer
+Fantastic Four,71,Pete Limoges
+Fantastic Four,71,Brad Herrington
+Fantastic Four,71,Pete Quintana
+Fantastic Four,71,Frank Kelley
+Fantastic Four,71,Ricky Lymer
+Fantastic Four,71,John Kalman
+Fantastic Four,71,Randy Genn
+Fantastic Four,71,Rocky Rotunno
+Fantastic Four,71,Emanuel Havis
+Fantastic Four,71,Ray Hanrahan
+Fantastic Four,71,Gary O¿¿¿Brenski
+Fantastic Four,71,Robert Rouse
+Fantastic Four,71,Charles Vicino
+Fantastic Four,71,D. Hobgood
+Fantastic Four,71,Nan Robinson
+Fantastic Four,71,Steven Rabe
+Fantastic Four,71,Frank Reed
+Fantastic Four,71,Steve Nivens
+Fantastic Four,71,Rick Knopps
+Fantastic Four,71,Richard Krajicek
+Fantastic Four,71,Mark Hahn
+Fantastic Four,71,John Nations
+Fantastic Four,71,Anne Lammond
+Fantastic Four,71,David Higgins
+Fantastic Four,71,Bruce Lowry
+Fantastic Four,71,John Arvites
+Fantastic Four,71,Wayne Cobb
+Fantastic Four,71,Jerome Colwell
+Fantastic Four,71,Esau Simmons
+Fantastic Four,71,Charles Smith
+Fantastic Four,71,Corbett Besco
+Fantastic Four,71,Alan K. Gray
+Fantastic Four,71,Richard Adams
+Fantastic Four,71,Terrence Mule
+Fantastic Four,72,Bill Reed
+Fantastic Four,72,Steve Turner
+Fantastic Four,72,Karl Tederous
+Fantastic Four,72,Gian Russo
+Fantastic Four,72,Melvin Rhodes
+Fantastic Four,72,Johnathon Traurig
+Fantastic Four,72,Barry Rickert
+Fantastic Four,72,Blake Roper
+Fantastic Four,72,Steve Ryan
+Fantastic Four,72,Kevin Ryerson
+Fantastic Four,72,John Reed
+Fantastic Four,72,Riff Rogers
+Fantastic Four,72,Curtis Noe
+Fantastic Four,72,Gray Thoran
+Fantastic Four,72,Guy Vann
+Fantastic Four,72,Paul Taylor
+Fantastic Four,72,Mark Van Groll
+Fantastic Four,72,James Russ
+Fantastic Four,72,John Uhrmacher
+Fantastic Four,72,Barbara Ulrich
+Fantastic Four,72,Jame Rudzynski
+Fantastic Four,72,Greg Rooks
+Fantastic Four,72,Robert Taylor
+Fantastic Four,72,John Rhora
+Fantastic Four,72,Mary Oravec
+Fantastic Four,72,Steve Tamerius
+Fantastic Four,72,Wally Vakenburg
+Fantastic Four,72,Paul Manly
+Fantastic Four,72,William Womack
+Fantastic Four,72,Stephen Blevins
+Fantastic Four,72,Michael Hershey
+Fantastic Four,72,Sanford Meschkow
+Fantastic Four,72,Keith Beavon
+Fantastic Four,72,Sid Slivke
+Fantastic Four,73,Terry Kinningham
+Fantastic Four,73,Paul Kern
+Fantastic Four,73,Ken Kendall
+Fantastic Four,73,Mike Johasz
+Fantastic Four,73,Dave Hanley
+Fantastic Four,73,Wayne Karchecky
+Fantastic Four,73,Al Netterlad
+Fantastic Four,73,John Quinn
+Fantastic Four,73,David Nisbett
+Fantastic Four,73,Miquel Rivera
+Fantastic Four,73,Chuck Nelson
+Fantastic Four,73,Louise Hanauer
+Fantastic Four,73,Stan Jones
+Fantastic Four,73,John Hodgson
+Fantastic Four,73,David Hill
+Fantastic Four,73,Georgia Rice
+Fantastic Four,73,Joe Register
+Fantastic Four,73,Robert Hall
+Fantastic Four,73,Charles Thompson
+Fantastic Four,73,Gary Opasinski
+Fantastic Four,73,Manuel Rodriquez
+Fantastic Four,73,Alan Jadro
+Fantastic Four,73,Joe Vasquez
+Fantastic Four,73,Dave Roller
+Fantastic Four,73,Len Nixon
+Fantastic Four,73,Bob Juve
+Fantastic Four,73,Bruce Long
+Fantastic Four,73,Rick Workman
+Fantastic Four,73,Steve Wintrode
+Fantastic Four,73,Sandy Hallberg
+Fantastic Four,73,Karen Izui
+Fantastic Four,73,Michael Burton
+Fantastic Four,73,Mike Silvers
+Fantastic Four,73,Paul Laginess
+Fantastic Four,73,Val Perkins
+Fantastic Four,74,Josh Zissman
+Fantastic Four,74,Stephen Tobias
+Fantastic Four,74,K.D. Lockerman
+Fantastic Four,74,Joe Koziel
+Fantastic Four,74,Steve Tomlinson
+Fantastic Four,74,Bob Hormeil
+Fantastic Four,74,Rich Kullman
+Fantastic Four,74,Rod Kirby
+Fantastic Four,74,Chris Russell
+Fantastic Four,74,Mike Tedford
+Fantastic Four,74,Barry Haughlam
+Fantastic Four,74,Mike Trumble
+Fantastic Four,74,Gary Theodorski
+Fantastic Four,74,Fred Opalick
+Fantastic Four,74,Al Lawis
+Fantastic Four,74,E. Kendall
+Fantastic Four,74,Jerry Jaffe
+Fantastic Four,74,Tom Tanner
+Fantastic Four,74,Ricky Varges
+Fantastic Four,74,Kris Lemmon
+Fantastic Four,74,Mike Reed
+Fantastic Four,74,Marvin Kramer
+Fantastic Four,74,Danny Kossick
+Fantastic Four,74,Steve Kane
+Fantastic Four,74,William Nigro
+Fantastic Four,74,David Louie
+Fantastic Four,74,Kendall Louie
+Fantastic Four,74,Ann Bruton
+Fantastic Four,74,Valerie Saville
+Fantastic Four,74,Wendy Pope
+Fantastic Four,74,Barbara Noyes
+Fantastic Four,74,Mary Ainsley
+Fantastic Four,74,Mitchel Klein
+Fantastic Four,74,George Jessen
+Fantastic Four,74,Steve Rouzer
+Fantastic Four,74,Tony Isabella
+Fantastic Four,74,Bill Fox
+Fantastic Four,74,Donald McGregor
+Fantastic Four,74,Ron Yahne
+Fantastic Four,75,Bruce Coville
+Fantastic Four,75,Joe Sykora
+Fantastic Four,75,Kenneth Rekrut
+Fantastic Four,75,Anthony Kowalik
+Fantastic Four,75,Ed Martin
+Fantastic Four,75,Keith White
+Fantastic Four,76,Bennet Marks
+Fantastic Four,76,Jim Morgan
+Fantastic Four,76,Joe Momberg
+Fantastic Four,76,Mike Nassour
+Fantastic Four,76,Gene Wallace
+Fantastic Four,76,Jim Holan
+Fantastic Four,76,Dave FitzPatrick
+Fantastic Four,77,Tony Isabella
+Fantastic Four,77,Richard Davidson
+Fantastic Four,77,Sandy Katz
+Fantastic Four,77,Garry N. Hubbard
+Fantastic Four,78,Lamar Blaylock
+Fantastic Four,78,George Ferguson
+Fantastic Four,78,Evan Katten
+Fantastic Four,78,Gary Dahlberg
+Fantastic Four,78,Tom Zmudzinski
+Fantastic Four,78,Bruce Coville
+Fantastic Four,78,Mike Esterson
+Fantastic Four,79,Bernard Cicirello
+Fantastic Four,79,S.L. Cox
+Fantastic Four,79,Franklin Roy
+Fantastic Four,79,Randy Rasmussen
+Fantastic Four,79,George and Linda Pelley
+Fantastic Four,79,James Ritchie
+Fantastic Four,79,Perry Turner
+Fantastic Four,80,Achille D. DiBacco
+Fantastic Four,80,John Dodd
+Fantastic Four,80,Lamar Mauldin
+Fantastic Four,80,Mark Cordisio
+Fantastic Four,80,Donald McGregor
+Fantastic Four,80,George Ferguson
+Fantastic Four,80,Bill Lewis
+Fantastic Four,80,"Cutler Ross, Jr"
+Fantastic Four,80,Michael Kuhne
+Fantastic Four,81,Karl Reif
+Fantastic Four,81,Charles Bromley
+Fantastic Four,81,Gary Davis
+Fantastic Four,81,Ray Whitson
+Fantastic Four,81,Dudley Bolbat
+Fantastic Four,81,F. James Mohl
+Fantastic Four,81,Marshall Strauss
+Fantastic Four,81,Achille Di Bacco
+Fantastic Four,82,Peter Marzano
+Fantastic Four,82,David Fuchs
+Fantastic Four,82,Walt Desmand
+Fantastic Four,82,Steve Donaldson
+Fantastic Four,82,"H.R. Blanco, Jr"
+Fantastic Four,82,Rusty Kirkland
+Fantastic Four,82,Terry Levin
+Fantastic Four,82,Mike Christiansen
+Fantastic Four,83,Mike Nave
+Fantastic Four,83,James Judge
+Fantastic Four,83,Joel Packer
+Fantastic Four,83,Danny English
+Fantastic Four,83,Allan Latawiec
+Fantastic Four,83,Don Tyler
+Fantastic Four,83,"John Rotremmo, Jr"
+Fantastic Four,83,Pete Gruenwera
+Fantastic Four,83,Leonard Lipton
+Fantastic Four,84,Joe Pearson
+Fantastic Four,84,Bill Nichols
+Fantastic Four,84,Chris Loye
+Fantastic Four,84,Jerry Winana
+Fantastic Four,84,David Shuman
+Fantastic Four,84,Jeffrey H. Wasserman
+Fantastic Four,84,Pressed Rat and Warthog
+Fantastic Four,85,Philip Massey
+Fantastic Four,85,Ronald Rubin
+Fantastic Four,85,Brad Pastore
+Fantastic Four,85,Christopher Daria
+Fantastic Four,85,Bill Williams
+Fantastic Four,85,Allan Latawiec
+Fantastic Four,85,Jack Hogston
+Fantastic Four,86,William R. Lund
+Fantastic Four,86,Gene Frischholz
+Fantastic Four,86,Mike Hirschbach
+Fantastic Four,86,Keith Treichel
+Fantastic Four,86,Donald F. McGregor
+Fantastic Four,86,Suzanne Scala
+Fantastic Four,86,Doug Fratz
+Fantastic Four,87,Warren L. Parker
+Fantastic Four,87,David Burson
+Fantastic Four,87,Barry Morgenroth
+Fantastic Four,87,Leah Brooks
+Fantastic Four,87,Fred Small
+Fantastic Four,87,Richard Choate
+Fantastic Four,87,Tom Zmudzinski
+Fantastic Four,87,Michael Rehak
+Fantastic Four,87,Mara Gomez
+Fantastic Four,87,Michael L. Kuhne
+Fantastic Four,88,Geoffrey Kubilus
+Fantastic Four,88,John K. Kusske
+Fantastic Four,88,Linda L. Johnson
+Fantastic Four,88,Ullrich and Gisela Haydam
+Fantastic Four,88,Carter Scholz
+Fantastic Four,88,Tom Steinke
+Fantastic Four,89,Joel Schultz
+Fantastic Four,89,Trish Infanger
+Fantastic Four,89,Allen Latawiec
+Fantastic Four,89,Masao Kono
+Fantastic Four,89,Gregory Pasternak
+Fantastic Four,89,Dan English
+Fantastic Four,89,Jerry Sinkovec
+Fantastic Four,90,Dominic Cabera
+Fantastic Four,90,Ralph Smith
+Fantastic Four,90,Steve Newton
+Fantastic Four,90,Samuel Uretsky
+Fantastic Four,90,Bob Sennett
+Fantastic Four,90,Thilver Thurfer
+Fantastic Four,91,R.E. Plummer
+Fantastic Four,91,Bob Sennett
+Fantastic Four,91,Steve Puckett
+Fantastic Four,91,Donald McGregor
+Fantastic Four,91,Mike Burton
+Fantastic Four,91,Paul M. Kay
+Fantastic Four,92,Frederick D. Forsman
+Fantastic Four,92,Robert Ochoa
+Fantastic Four,92,Esau M. Simmons
+Fantastic Four,92,Howard Keltner
+Fantastic Four,92,Bruce Golden
+Fantastic Four,93,Mike Burton
+Fantastic Four,93,Doug Thornton
+Fantastic Four,93,Judy Axelrod
+Fantastic Four,94,Andrew Warner
+Fantastic Four,94,John Dougherty
+Fantastic Four,94,Drew Zuckerwise
+Fantastic Four,94,Wayne Fredrickson
+Fantastic Four,94,Howard Leroy Davis
+Fantastic Four,94,R.E. Plummer
+Fantastic Four,95,Jeffrey Morgan
+Fantastic Four,95,Charlie Williams
+Fantastic Four,95,Mike Burton
+Fantastic Four,95,Anne Greco
+Fantastic Four,95,Ron Haeske
+Fantastic Four,95,John Sorenson
+Fantastic Four,95,David Hochman
+Fantastic Four,96,Bill Detty
+Fantastic Four,96,Achille Di Bacco
+Fantastic Four,96,Dale Shuman and Kendall
+Fantastic Four,96,Michael P. Higgins
+Fantastic Four,96,Robert Ito
+Fantastic Four,96,James Knight
+Fantastic Four,96,Richard Carson
+Fantastic Four,97,Walter Von Schondeld
+Fantastic Four,97,Eric Shratter
+Fantastic Four,97,Richard Colson
+Fantastic Four,97,Achille Di Bacco
+Fantastic Four,98,Solomon Arrington
+Fantastic Four,98,Dave Layton
+Fantastic Four,99,Ralph Duby
+Fantastic Four,99,David Charles Paskow
+Fantastic Four,100,Jay Sheldon
+Fantastic Four,100,Billy James Jones
+Fantastic Four,100,Eugene Cerruti
+Fantastic Four,100,"Bill Henley, Jr"
+Fantastic Four,100,Richard Weiss
+Fantastic Four,101,Masao Kono
+Fantastic Four,101,Marc De Matteis
+Fantastic Four,101,Cecilia Banero
+Fantastic Four,101,Alan Kupperberg
+Fantastic Four,101,John Meachnik
+Fantastic Four,102,John Ostapkovich
+Fantastic Four,102,Michael N. Tierstein
+Fantastic Four,102,Tom Lane
+Fantastic Four,103,Lee A. Ruff
+Fantastic Four,103,Neil A. Armstrong
+Fantastic Four,103,John Ostapkovich
+Fantastic Four,103,T.K. Tallmon
+Fantastic Four,104,Carl Gafford
+Fantastic Four,104,William A. Sweeney
+Fantastic Four,104,Gary Chun
+Fantastic Four,104,Steve Turner
+Fantastic Four,104,Steve Smith
+Fantastic Four,105,Jennifer Crocher
+Fantastic Four,105,Keith Metz
+Fantastic Four,105,Arlene Lo
+Fantastic Four,105,Van Hunt
+Fantastic Four,105,Leroy Creyton
+Fantastic Four,106,Dale Shuman
+Fantastic Four,106,Dennis O'Brien
+Fantastic Four,106,Eric Sandmark
+Fantastic Four,107,Ronald Brummit
+Fantastic Four,107,Wilson Fong
+Fantastic Four,107,Mark S. Cowell
+Fantastic Four,107,Lee A. Ruff
+Fantastic Four,108,Jim Elston
+Fantastic Four,108,Steve Smith
+Fantastic Four,108,Jason Aronowitz
+Fantastic Four,108,Harri Coloni
+Fantastic Four,109,Tim Head
+Fantastic Four,109,David Leonhardt
+Fantastic Four,109,"Harry Walder, Jr"
+Fantastic Four,109,Mrs. Susan Berst
+Fantastic Four,109,Howard Leroy Davis
+Fantastic Four,110,Douglas V. Kuhlmann
+Fantastic Four,110,Mike Towry
+Fantastic Four,110,Todd Bake
+Fantastic Four,110,Samuel P. Schraeger
+Fantastic Four,110,Robert Hartka
+Fantastic Four,111,Jay Sheldon
+Fantastic Four,111,Bud Humphrey
+Fantastic Four,111,William T. Hayes
+Fantastic Four,111,Todd Lowenstein
+Fantastic Four,111,Kendall Morris
+Fantastic Four,112,Steve Rich
+Fantastic Four,112,G.B. Tiede
+Fantastic Four,112,Richard Bush
+Fantastic Four,112,Jay Lebsch
+Fantastic Four,112,Paul Havemann
+Fantastic Four,113,Matthew Kreps
+Fantastic Four,113,Laurence M. Janifer
+Fantastic Four,113,Rev. Druid
+Fantastic Four,113,Philip Wadler
+Fantastic Four,114,Douglas Stuart
+Fantastic Four,114,Eric Sheldon
+Fantastic Four,114,Jeffrey W. Taylor
+Fantastic Four,116,Tom Steinke
+Fantastic Four,116,Joel Pollack
+Fantastic Four,116,Michael L. Kuhne
+Fantastic Four,116,Bob Rozakis
+Fantastic Four,116,G.B. Tiede
+Fantastic Four,118,Henry H. Walker
+Fantastic Four,118,Robert Schoolcraft
+Fantastic Four,118,Norman Elder
+Fantastic Four,118,Larry Trepel
+Fantastic Four,118,Bruce Roland
+Fantastic Four,119,Charles Schwartz
+Fantastic Four,119,Douglas Jones
+Fantastic Four,119,Lester G. Boutillier
+Fantastic Four,119,Kevin Greer
+Fantastic Four,120,Lester G. Boutillier
+Fantastic Four,120,John Revelli
+Fantastic Four,120,Dan Moody
+Fantastic Four,120,Stephan Pang
+Fantastic Four,121,Charles Hoffman
+Fantastic Four,121,Bruce Roland
+Fantastic Four,122,Scott Edelman
+Fantastic Four,122,Gene Bearringer
+Fantastic Four,123,David McDonnell
+Fantastic Four,123,Randy Oliver
+Fantastic Four,123,Steve Russell
+Fantastic Four,123,W.P. Mills
+Fantastic Four,124,Renato Smoljanovic
+Fantastic Four,124,Wayne Foskey
+Fantastic Four,124,John C. Kruize
+Fantastic Four,124,Bjarne L. Everson
+Fantastic Four,125,Paul Harman
+Fantastic Four,125,Tom Cook
+Fantastic Four,126,Albert Licata
+Fantastic Four,127,Alan James Scally
+Fantastic Four,127,T.E. Pouncey
+Fantastic Four,127,Lynette Eliton
+Fantastic Four,127,Frank Balazs
+Fantastic Four,127,"F.J. Hayes, III"
+Fantastic Four,127,Rickey M. Lawler
+Fantastic Four,128,Jeff (no last name given)
+Fantastic Four,128,Adrienne Fein
+Fantastic Four,128,Sherrell Hough
+Fantastic Four,128,Mitchell Bailes
+Fantastic Four,130,"Willard F. Greenwood, Jr"
+Fantastic Four,130,John Camilleri
+Fantastic Four,130,Larry Brnicky
+Fantastic Four,130,Charles Meyerson
+Fantastic Four,130,Gary Kimber
+Fantastic Four,130,Rick Thomas
+Fantastic Four,130,Mark M. Thomase
+Fantastic Four,130,Jerry Jones
+Fantastic Four,131,Stephen Nazzaro
+Fantastic Four,131,Mike W. Barr
+Fantastic Four,131,Starley L. Thompson
+Fantastic Four,131,Charles Dixon
+Fantastic Four,131,Alan Rothman
+Fantastic Four,132,David Hilmer
+Fantastic Four,132,Mark Chussil
+Fantastic Four,133,Cameron Bastedo
+Fantastic Four,133,Rick Keefe
+Fantastic Four,133,Steve Bruflodt
+Fantastic Four,133,Alan Meerow
+Fantastic Four,134,Celeste Anne
+Fantastic Four,134,Jim Rohn
+Fantastic Four,135,Matt Hubbard
+Fantastic Four,136,Alan Rothman
+Fantastic Four,136,Johnny Carbonaro
+Fantastic Four,136,"John Libertine, Jr"
+Fantastic Four,137,Bob Hartka
+Fantastic Four,137,Mark Lambert
+Fantastic Four,137,Richard Nathan
+Fantastic Four,138,Rody Miller
+Fantastic Four,138,Alan Rothman
+Fantastic Four,138,Steven Scheibner
+Fantastic Four,138,Don Dewsnap
+Fantastic Four,140,Bobby Shufflebanger
+Fantastic Four,140,Geo. Heldekat
+Avengers,1.5,Ty Templeton
+Avengers,1.5,Kurt Busiek
+Avengers,1.5,Burt Kusiek
+Avengers,1.5,Mark Waid
+Avengers,5,Morton Hughes
+Avengers,5,Roger Gilman
+Avengers,5,Alan Weiss
+Avengers,6,Buddy Saunders
+Avengers,6,Guiseppe Gramazio
+Avengers,6,Charles Lichtman
+Avengers,6,Allen Haworth
+Avengers,6,John Angell
+Avengers,7,Cory Seidman
+Avengers,7,Thomas Burrows
+Avengers,7,Bruce Bourgeois
+Avengers,7,David Stuard
+Avengers,7,Sherwood Conant
+Avengers,7,Robert Galvanin
+Avengers,8,Chris Palmer
+Avengers,8,Bob Sheridan
+Avengers,8,Bill McCord
+Avengers,8,David Calise
+Avengers,8,Bob Spann
+Avengers,8,Bobby Rollins
+Avengers,9,Roger Gilman
+Avengers,9,Mitchell Maslin
+Avengers,9,Greg Hendricks
+Avengers,9,Tom Nester
+Avengers,9,Gary Rafferty
+Avengers,9,Jim Costantmi
+Avengers,9,Ronald Pehr
+Avengers,9,David Jackson
+Avengers,10,John Fong
+Avengers,10,Jimmy Meschwitz
+Avengers,10,Ronald Mittelhammer
+Avengers,10,Robert Estevez
+Avengers,10,Leonard J. Tirado
+Avengers,10,Kim Wright
+Avengers,10,"Wayne Cauley, Jr"
+Avengers,10,Paul Plosila
+Avengers,10,Richard Macaraeg
+Avengers,10,Joseph Augustyn
+Avengers,10,Gene Day
+Avengers,11,Thomas Bloyen
+Avengers,11,John Hudson
+Avengers,11,Barbara McCasland
+Avengers,11,Tom Conti
+Avengers,11,Masataka Hirota
+Avengers,11,Ruth Doyle
+Avengers,11,Robert Linderman
+Avengers,11,Al Russell
+Avengers,12,Dan Klinger
+Avengers,12,Alan McNaly
+Avengers,12,Steve Lucero
+Avengers,12,David Kaler
+Avengers,12,George R.R. Martin
+Avengers,12,Bobby Harris
+Avengers,12,Bernard Polachek
+Avengers,12,Steve Erickson
+Avengers,12,Srden Vejvoda
+Avengers,13,Patrick Kearns
+Avengers,13,Mike Geralds
+Avengers,13,George Fergus
+Avengers,13,Michael Vernidis
+Avengers,13,Larry Orman
+Avengers,13,Jane Sanchez
+Avengers,13,Robert Vann
+Avengers,13,Joe and Peter Wallfried
+Avengers,13,Michael McNutty
+Avengers,13,"Jack Thibodaux, Jr"
+Avengers,13,Wally Hastings
+Avengers,13,Bob Malisani
+Avengers,14,Eric Lesko
+Avengers,14,Dale Bell
+Avengers,14,Vincent Topazio
+Avengers,14,Peter Cadwell
+Avengers,14,Patrick McGee
+Avengers,14,Ken Free
+Avengers,14,Mrs. Millard E. Brown
+Avengers,14,Larry Orman
+Avengers,14,Herbert W. Swafford
+Avengers,15,Wayne Voce
+Avengers,15,Donna Diane
+Avengers,15,Robert Fall
+Avengers,15,Jim Dee
+Avengers,15,Gary Thorne
+Avengers,15,Jim Coveleski
+Avengers,15,Neil Lindenbaum
+Avengers,15,Frank Stokes
+Avengers,15,Alan Mann
+Avengers,15,Kent Thomas
+Avengers,16,Ted Moore
+Avengers,16,Jerry DeStefano
+Avengers,16,Nathan Zimmerman
+Avengers,16,David Szurek
+Avengers,16,John Halloran
+Avengers,16,Richard Kraus
+Avengers,16,Maurice Johnson
+Avengers,16,Jack Marchese
+Avengers,16,Carl Czaga
+Avengers,16,Charles Taylor
+Avengers,17,Richard Cochran
+Avengers,17,Eugene Bearringer
+Avengers,17,George Bryant
+Avengers,17,Jim Murphy
+Avengers,17,Jack House
+Avengers,17,Fred Ludwig
+Avengers,17,Greg Stevens
+Avengers,18,Jim Ruszka
+Avengers,18,Gary Mason
+Avengers,18,Mickey Gaither
+Avengers,18,Ted White
+Avengers,18,Frank Tower
+Avengers,18,Robbie Wright
+Avengers,18,Bill Humen
+Avengers,18,Steve Jessen
+Avengers,18,Bill Humen
+Avengers,19,Jeff Morden
+Avengers,19,Rosalind L. Rogoff
+Avengers,19,Mark Kernes
+Avengers,19,Cary Burkett
+Avengers,19,Brad Reddersen
+Avengers,19,William Boles
+Avengers,19,John Baggerman
+Avengers,19,Richard Whitehead
+Avengers,19,N.W. Rapparlie
+Avengers,20,Dave Fenimore
+Avengers,20,David Phillips
+Avengers,20,Ted Agrew
+Avengers,20,Steve Clark
+Avengers,20,Paul E. Akers
+Avengers,20,John McNeeney
+Avengers,20,John McAllister
+Avengers,20,Jack Holman
+Avengers,21,Doug Jones
+Avengers,21,David Funnell
+Avengers,21,"C.H. Cooke, Jr"
+Avengers,21,John Taylor
+Avengers,21,Jimmy Morton
+Avengers,21,Sandy Guillot
+Avengers,21,John Dennis
+Avengers,21,Mike Friedrich
+Avengers,22,Mike Warden
+Avengers,22,Gary Walker
+Avengers,22,"Ralph L. Brown, Jr"
+Avengers,22,Mickey Paolucci
+Avengers,22,Roy Oakley
+Avengers,22,Jimmy Morton
+Avengers,22,Charles Hutler
+Avengers,22,Scotty Gibbs
+Avengers,22,Vincent C. Stuart II
+Avengers,22,David Mackidd
+Avengers,23,Mark Maloney
+Avengers,23,Michael Freeman
+Avengers,23,Bert Gillispie
+Avengers,23,Stephen Erickson
+Avengers,23,Bill Lull
+Avengers,23,Barry C. Curtis
+Avengers,23,"Francis Napoliton, Jr"
+Avengers,23,Joe A. Rasnic
+Avengers,23,Barry Brookner
+Avengers,23,Philip Allen
+Avengers,23,Kerry Gunnels
+Avengers,23,"Robert J. Milswiski, Jr"
+Avengers,23,Morris Lee Northcutt
+Avengers,23,Alex Maurer
+Avengers,23,Bob Shoop
+Avengers,23,Michael Calbad
+Avengers,23,Leonard Prussack
+Avengers,23,Darrell F. Netto
+Avengers,23,Tim Hill
+Avengers,23,Scott Wessinger
+Avengers,23,Pete Humphrey
+Avengers,23,Carl Kikland
+Avengers,23,The Great Monk
+Avengers,23,"John Mack, Jr."
+Avengers,23,Tommy Harris
+Avengers,23,Derek Moore
+Avengers,23,Victor Bonita
+Avengers,23,Gary Nowell
+Avengers,23,Jim Allan
+Avengers,23,Curtis Martens
+Avengers,23,Marie Russell
+Avengers,23,Mike Gable
+Avengers,23,Paul Nungester
+Avengers,23,John Furek
+Avengers,23,Mike Delong
+Avengers,24,Peter Parisi
+Avengers,24,Stinky Strawn
+Avengers,24,Anthony Podejko
+Avengers,24,Bernie Baldwin
+Avengers,24,Glenn Berkman
+Avengers,24,Vandis Lee Williams
+Avengers,24,Bobbie Weaver
+Avengers,24,R.L. Kelemen
+Avengers,24,Kris Dray
+Avengers,24,Gordon Howe
+Avengers,24,Kevin L. Klippel
+Avengers,24,Gary Lee Farresten
+Avengers,24,Peter Glass
+Avengers,24,Holly Lane
+Avengers,24,Jamesr St. Martin
+Avengers,24,Gary B. Risinger
+Avengers,24,Gerald Lowe
+Avengers,24,Carl Data
+Avengers,24,Boyd Lane
+Avengers,24,Rod Lowe
+Avengers,24,Paul Anderson
+Avengers,24,Charlie Stanfiel
+Avengers,24,Ray Gibbone
+Avengers,24,Edward O’Hare
+Avengers,24,Rainer Malcharek
+Avengers,24,Eddie Holderman
+Avengers,24,"Frank P. Eisgruber, Jr"
+Avengers,24,Gary Hood
+Avengers,24,Sally Craig
+Avengers,24,Stephen Guida
+Avengers,24,George Tsakiris
+Avengers,24,Laurence Moyer
+Avengers,24,Mike Olivella
+Avengers,24,Richard Walls
+Avengers,24,Jim Nuffer
+Avengers,25,Steven Barrows
+Avengers,25,Mike Campbell
+Avengers,25,Mary Caron Criss
+Avengers,25,Curtis Cottrell
+Avengers,25,Franklin Ostrowski
+Avengers,25,Boyd Jones
+Avengers,25,Rick Mooney
+Avengers,25,Steve Massiano
+Avengers,25,John Watson
+Avengers,25,Donald Ensign
+Avengers,25,Dick O’Malley
+Avengers,25,Wendy M. Morihisa
+Avengers,25,David Plant
+Avengers,25,Richard Strauss
+Avengers,25,Jon Kniskern
+Avengers,25,John Tillistrand
+Avengers,25,Pat Kelly
+Avengers,25,Doug Nassif
+Avengers,25,Marshall Brown
+Avengers,25,Cole Kitchen
+Avengers,25,Mark Miller
+Avengers,25,Calvin Wong
+Avengers,25,Steve Lekson
+Avengers,25,Richard Drozd
+Avengers,25,Glyn A. Davis
+Avengers,25,Steven Wehnhoff
+Avengers,25,Linda Fischer
+Avengers,25,Richard Schwall
+Avengers,25,Steve Utley
+Avengers,25,Bob Spangler
+Avengers,25,Milton Spivey
+Avengers,25,Jim Buser
+Avengers,25,David Hamaker
+Avengers,25,John P. Morgan
+Avengers,25,Lynda Leifeld
+Avengers,25,Jim Ruszka
+Avengers,26,Margaret Bauer
+Avengers,26,David Russell
+Avengers,26,Kent Kirby
+Avengers,26,Robert Churchill
+Avengers,26,Clifford D. Polacek
+Avengers,26,Alan Cqarnysyka
+Avengers,26,Douglas McDonough
+Avengers,26,Ben Harris
+Avengers,26,Curtis Johnson
+Avengers,26,Robert Schiavone
+Avengers,26,Nancy Peck
+Avengers,26,Leonard Mall
+Avengers,26,Steve Guida
+Avengers,26,Randy Larson
+Avengers,26,Harold Tweksbury
+Avengers,26,Peter Rubenstein
+Avengers,26,Frank Roach
+Avengers,26,Tim Kaun
+Avengers,26,Jim Madgett
+Avengers,26,"Joseph Ciccotello, Jr"
+Avengers,26,Mike Bowles
+Avengers,26,Mike Neil
+Avengers,26,Mrs. Dell Evans
+Avengers,26,Joseph Power
+Avengers,26,Gregory Pasternack
+Avengers,26,Alva Wiley
+Avengers,26,Kerry Dominic La Cava
+Avengers,26,James Morton
+Avengers,26,Lenore Speer
+Avengers,26,Craig Alan Oberle
+Avengers,26,Bill Gliner
+Avengers,26,Tony Haulsey
+Avengers,26,Mrs. Linda Livingston
+Avengers,26,John Wink
+Avengers,26,Ned Barnett
+Avengers,26,Edward Bertrand
+Avengers,26,Raymond Richter
+Avengers,27,Michael Faele
+Avengers,27,Tim Godbout
+Avengers,27,Billy Pastarnack
+Avengers,27,Don Hanson
+Avengers,27,Brad Reddersen
+Avengers,27,Hohnory Conte
+Avengers,27,Ronald Reiter
+Avengers,27,Terry Knight
+Avengers,27,Jerry Rogers
+Avengers,27,James Wylie
+Avengers,27,Paul Neto
+Avengers,27,Jeffrey Thompson
+Avengers,27,Mike Sanoer
+Avengers,27,"Sid Williams, Jr"
+Avengers,27,Eric H. Giesy
+Avengers,27,Richard Ecke
+Avengers,27,Edward Miller
+Avengers,27,Drucie Cordover
+Avengers,27,Amy Pastarnack
+Avengers,27,Jody Johnson
+Avengers,27,Kenneth Murphy
+Avengers,27,Sterling Collins
+Avengers,27,Larry Bigman
+Avengers,27,William Virgulak
+Avengers,27,John Mayer
+Avengers,27,Paul Schind
+Avengers,27,Bill Kaghan
+Avengers,27,John Weigle
+Avengers,27,Richard Kenney
+Avengers,27,Vicky Randall
+Avengers,27,David Bladsoe
+Avengers,27,Barry Cunningham
+Avengers,27,Bruce Zwicker
+Avengers,27,Laura Kirby
+Avengers,27,Dean Crawford
+Avengers,27,Gary Merrill
+Avengers,28,Charles Gumienez
+Avengers,28,George Cargill
+Avengers,28,Mike Favara
+Avengers,28,Steven Eiseman
+Avengers,28,"Eugene Bennett, Jr"
+Avengers,28,Leo Geddry
+Avengers,28,"Michael Bishop, Jr"
+Avengers,28,Mike Hughes
+Avengers,28,Dale Johnson
+Avengers,28,Donnie Johnson
+Avengers,28,Robert Sheehan
+Avengers,28,Steve Crans
+Avengers,28,Maxine Calvin
+Avengers,28,Raymond Katright
+Avengers,28,Diane Johnson
+Avengers,28,Brian Bernick
+Avengers,28,Kathy Goles
+Avengers,28,Esteban Garcia
+Avengers,28,Anthony Colletta
+Avengers,28,Mark Cooke
+Avengers,28,Chester Gregory
+Avengers,28,David Benesch
+Avengers,28,Daniel Hay
+Avengers,28,Brent Price
+Avengers,28,Wayne Burbridge
+Avengers,28,Charles Winton Cossel
+Avengers,28,Mrs. Douglas Kortte
+Avengers,28,Richard Ranieri
+Avengers,28,Tom Dietz
+Avengers,28,James D. Grosbach
+Avengers,28,Dean Crawford
+Avengers,28,Alan Patterson
+Avengers,28,Ann Zimmerman
+Avengers,28,Craig Werner
+Avengers,29,Billy Ferguson
+Avengers,29,Rusty Bryan
+Avengers,29,James Hilleman
+Avengers,29,George Rowe
+Avengers,29,James Lemke
+Avengers,29,Richard Leonforte
+Avengers,29,Tom Maves
+Avengers,29,Jack Brod
+Avengers,29,Donald McKellop
+Avengers,29,Mike Gangloff
+Avengers,29,Ellen Spears
+Avengers,29,David Dorsey
+Avengers,29,Michael Johnson
+Avengers,29,Benjamin Pondertee
+Avengers,29,Leroy Singfield
+Avengers,29,Donald Asberry
+Avengers,29,Patti Clark
+Avengers,29,Robert Reilly
+Avengers,29,George Tsaganeas
+Avengers,29,Paul Opshinsky
+Avengers,29,Buck St. John
+Avengers,29,Kevin Szatmary
+Avengers,29,Bobby Lloyd
+Avengers,29,Jim Ward
+Avengers,29,Donna Barker
+Avengers,29,Steve Fodaski
+Avengers,29,Perry Holman
+Avengers,29,Jim McAlister
+Avengers,29,Dean Crawford
+Avengers,29,Jimmy Clodfelter
+Avengers,29,Bill DeSmedt
+Avengers,29,Larry Hammer
+Avengers,29,Mike Friedrich
+Avengers,29,Peter Mancuso
+Avengers,29,Students of Bethany College
+Avengers,29,Mike Johnson
+Avengers,29,Mark Taggart
+Avengers,30,Jan Shpiegelman
+Avengers,30,Roy Armstrong
+Avengers,30,Gary Fairfax
+Avengers,30,Randy Barron
+Avengers,30,Richard Crum
+Avengers,30,John Hudson
+Avengers,30,John Allen
+Avengers,30,Adell Bell
+Avengers,30,Debra Athers
+Avengers,30,Brian Knox
+Avengers,30,Gregory Crosbie
+Avengers,30,Nate Chase
+Avengers,30,Alan Kelso
+Avengers,30,Randy Freedman
+Avengers,30,Olivia Ferrante
+Avengers,30,Johnathan Hecht
+Avengers,30,Thomas Crable
+Avengers,30,Lenore Ballard
+Avengers,30,Steven Bauman
+Avengers,30,Keith Bohlman
+Avengers,30,Jerry Johnson
+Avengers,30,Daniel Felch
+Avengers,30,Rodney Gregory
+Avengers,30,Steven Johnson
+Avengers,30,Jim Blanchfield
+Avengers,30,Steve Bartholomew
+Avengers,30,Luis Altschul
+Avengers,30,John F. Lebar
+Avengers,30,Bill Hickey
+Avengers,30,Marvin Chase
+Avengers,30,Bruce Lowry
+Avengers,30,Rich Cornish
+Avengers,30,Dennis Collier
+Avengers,30,Alan Dean
+Avengers,30,Nick Olivas
+Avengers,30,Stuart Herskovitz
+Avengers,31,John Hanson
+Avengers,31,Tom Cox
+Avengers,31,Arthur Aysin
+Avengers,31,Michael Goodman
+Avengers,31,Jay Boyar
+Avengers,31,Alf Anderson
+Avengers,31,Harley Boudreaux
+Avengers,31,Steven Arnold
+Avengers,31,Gary Colton
+Avengers,31,Marie Galicia
+Avengers,31,James Halpenn
+Avengers,31,Scott Behar
+Avengers,31,Debra Kirk
+Avengers,31,James Huff
+Avengers,31,Gregory Janicke
+Avengers,31,Lawrence Herbst
+Avengers,31,Cindy Bien
+Avengers,31,Alan F. Bur
+Avengers,31,Regina Huber
+Avengers,31,Barry Brook
+Avengers,31,Larry Abernathy
+Avengers,31,Francis Napoliton
+Avengers,31,Don Brigas
+Avengers,31,William Cassese
+Avengers,31,Dennis Forsythe
+Avengers,31,John Halloran
+Avengers,31,Fritz Boettger
+Avengers,31,Claude Paquet
+Avengers,31,Mike Robertson
+Avengers,31,Eddie Birchmore
+Avengers,31,"Leonard Chambliss, Jr"
+Avengers,31,Greg Manczuk
+Avengers,31,Pat Barnhart
+Avengers,32,Peter Holowyck
+Avengers,32,David Hoge
+Avengers,32,Larry Gehwartz
+Avengers,32,Wayne Anderson
+Avengers,32,Carol Bernard
+Avengers,32,Mickey English
+Avengers,32,Bruce Goodman
+Avengers,32,George Hardy
+Avengers,32,Ben Havrick
+Avengers,32,Pete Ciarrochi
+Avengers,32,Tim Grander
+Avengers,32,David Fishman
+Avengers,32,James Antos
+Avengers,32,Walter Hoyeski
+Avengers,32,Michael Forman
+Avengers,32,Dennis Feigenbaum
+Avengers,32,Mike Freenfield
+Avengers,32,"Gino Bottins, Jr"
+Avengers,32,Terry Colvin
+Avengers,32,Woodrow Hughes
+Avengers,32,Raymond Farese
+Avengers,32,Ralph Cobert
+Avengers,32,Paul Castle
+Avengers,32,Albert Adams
+Avengers,32,Mike Julin
+Avengers,32,Wayne Ferguson
+Avengers,32,Robert Kowalski
+Avengers,32,Emmett O’Donnell
+Avengers,32,Dave Grayson
+Avengers,32,Henry Bergman
+Avengers,32,Michael Lilla
+Avengers,32,Tim Albrecht
+Avengers,32,Brian Alprin
+Avengers,33,Russ Olsen
+Avengers,33,William Keane
+Avengers,33,Buddy Gauz
+Avengers,33,David Boyce
+Avengers,33,Richard Blodgett
+Avengers,33,Richard Beskosty
+Avengers,33,Brigham Metcalfe
+Avengers,33,Bobby Oishi
+Avengers,33,Dennis Graham
+Avengers,33,Donald Ray
+Avengers,33,Larry Moscoe
+Avengers,33,Kenneth Mayer
+Avengers,33,Mike Canill
+Avengers,33,Norman Clark
+Avengers,33,Alvin Grinage
+Avengers,33,Joe Juby
+Avengers,33,Joseph Wantz
+Avengers,33,Joe Long
+Avengers,33,Daniel Walsh
+Avengers,33,Steve Robbins
+Avengers,33,Steve Wilhelm
+Avengers,33,Jim Wisnienski
+Avengers,33,Burley Nopier
+Avengers,33,Farris Rodgers
+Avengers,33,Garry Barrow
+Avengers,33,Robert Saunders
+Avengers,33,"John Kusske, Jr"
+Avengers,33,"Jimmy Sartoris, Jr"
+Avengers,33,Rudy Espinosa
+Avengers,33,Bob Barnett
+Avengers,33,Gary Robinson
+Avengers,33,Thomas L. Chaffee
+Avengers,33,Peter von Sholly
+Avengers,34,Michael Baker
+Avengers,34,Donald Hiltner
+Avengers,34,Jeff Beimfohr
+Avengers,34,David Johnson
+Avengers,34,Mike Creger
+Avengers,34,Jeff Cox
+Avengers,34,Jack Friedman
+Avengers,34,Gary Arthurs
+Avengers,34,Andrew Bernstein
+Avengers,34,Lyon Low
+Avengers,34,Thomas Brown
+Avengers,34,Bill Kirkland
+Avengers,34,Mark Eddy
+Avengers,34,Barton Hoenes
+Avengers,34,Joseph Gilman
+Avengers,34,Jim Ivan
+Avengers,34,Vincent Cialdella
+Avengers,34,Charles Banfield
+Avengers,34,Billy Holmes
+Avengers,34,Paul Grieneir
+Avengers,34,Johnny Alston
+Avengers,34,Royden Koito
+Avengers,34,Garth Lewis
+Avengers,34,Barry Flynn
+Avengers,34,Ronald Lomano
+Avengers,34,Kenneth Low
+Avengers,34,Brian Nelson
+Avengers,34,Larry & Mike Wahs
+Avengers,34,Lee Sarnoff
+Avengers,34,Richard Roesberg
+Avengers,34,Andrew Durisin
+Avengers,34,Randy Caraway
+Avengers,34,Bruce Long
+Avengers,34,Richard Katz
+Avengers,35,Neil Neches
+Avengers,35,Steve Alexander
+Avengers,35,Lawrence Bond
+Avengers,35,Stuart Alper
+Avengers,35,Richard Kridel
+Avengers,35,Joyce Matsumori
+Avengers,35,Paul Ishimaru
+Avengers,35,John Bonnin
+Avengers,35,Michael Greenblatt
+Avengers,35,Tony Miller
+Avengers,35,Alan Fugerio
+Avengers,35,Mark Eldon Adkins
+Avengers,35,Kevin Geberth
+Avengers,35,Stephen Amedio
+Avengers,35,Arthur Morford
+Avengers,35,Joel McCrillis
+Avengers,35,Steve Hunters
+Avengers,35,Mike Mariseski
+Avengers,35,David Homer
+Avengers,35,Kathleen Hogan
+Avengers,35,Jef. D. Hubbeling
+Avengers,35,Davis Gee
+Avengers,35,Mike Hitselberger
+Avengers,35,Bob Montgomery
+Avengers,35,Ricky Garrigues
+Avengers,35,Robert Benites
+Avengers,35,John Mata
+Avengers,35,Dwight Heil
+Avengers,35,Perry Turner
+Avengers,35,Calvin Pate
+Avengers,35,Alan Harvey
+Avengers,35,Jo Ann Mortimer
+Avengers,35,Daniel Drew
+Avengers,35,Greg Kishel
+Avengers,35,Dave Cockrum
+Avengers,36,Danny Lewis
+Avengers,36,Stephen Fallon
+Avengers,36,Bernard Fauntleroy
+Avengers,36,Martin Ariner
+Avengers,36,David Jevas
+Avengers,36,Jay Kier
+Avengers,36,Wayne Metcalf
+Avengers,36,James Higgins
+Avengers,36,Daniel Callahan
+Avengers,36,Robert Magee
+Avengers,36,Ernie Longcore
+Avengers,36,Anthony Boccia
+Avengers,36,Peter Iasillo
+Avengers,36,Donald McKenny
+Avengers,36,Mike J. Franovich
+Avengers,36,Pat Boles
+Avengers,36,Don Caltvedt
+Avengers,36,Barry Colburn
+Avengers,36,Loren Gordon
+Avengers,36,Andrew Lander
+Avengers,36,Paul Garcia
+Avengers,36,Robert Krupp
+Avengers,36,Steve Altus
+Avengers,36,David N. Kruchlow
+Avengers,36,Steve Kaufman
+Avengers,36,Don Lewis
+Avengers,36,Anthony Roche
+Avengers,36,David Cox
+Avengers,36,Bruce Walker
+Avengers,36,"Clarence Black, Jr"
+Avengers,36,Curt Tweddell
+Avengers,36,Ron McDivitt
+Avengers,36,Bob Richards
+Avengers,36,Gary Anderson
+Avengers,37,Mike Palmer
+Avengers,37,Richard Cochran
+Avengers,37,Wayne Rettig
+Avengers,37,Bobby Shermaker
+Avengers,37,Stanley Moore
+Avengers,37,Paul M. Beaudry
+Avengers,37,Bill Boorstein
+Avengers,37,Robert Gregg
+Avengers,37,Johnny Bookbls
+Avengers,37,Richard Knaver
+Avengers,37,Earl Cash
+Avengers,37,Robert Bascetta
+Avengers,37,Lyden Monroe
+Avengers,37,Freddie Harris
+Avengers,37,Robert Altman
+Avengers,37,David Dyer
+Avengers,37,Anthony Lupia
+Avengers,37,Jeffrey Rosen
+Avengers,37,Billy Lavin
+Avengers,37,Leo Mallette
+Avengers,37,Jack Serrafin
+Avengers,37,Danny Harper
+Avengers,37,Philip Clark
+Avengers,37,Luke Schafter
+Avengers,37,Albert Steele
+Avengers,37,Jack Kelleher
+Avengers,37,John Pepper
+Avengers,37,Darryl James
+Avengers,37,Wesley Cooper
+Avengers,37,David Sizemore
+Avengers,37,Steve Neff
+Avengers,37,Larry Cummings
+Avengers,38,Ronald McDowell
+Avengers,38,Michael Maroney
+Avengers,38,Thomas Kellog
+Avengers,38,George McMinn
+Avengers,38,Sakamoto
+Avengers,38,Barry Malkiel
+Avengers,38,Mark Medici
+Avengers,38,Gene Carlson
+Avengers,38,Robert Lieberman
+Avengers,38,Dale Atchinson
+Avengers,38,Paul Lynos
+Avengers,38,Michael Candy
+Avengers,38,Rickie Arnaiz
+Avengers,38,Francis Kramer
+Avengers,38,Bob Appleton
+Avengers,38,Mark Bradshaw
+Avengers,38,Betty Mayfield
+Avengers,38,Joan Baizer
+Avengers,38,Ricky West
+Avengers,38,Mac MacLean
+Avengers,38,Bill Kremen
+Avengers,38,Dave Heil
+Avengers,38,Gene Gavin
+Avengers,38,Ed Duensing
+Avengers,38,Jimmy Davis
+Avengers,38,Walter Antipin
+Avengers,38,Bill Mallory
+Avengers,38,Ralph Hensley
+Avengers,38,Vincent Bonham
+Avengers,38,Burt Penchansky
+Avengers,38,Dennis Hamer
+Avengers,38,Jan Bertholf
+Avengers,38,Gary Striney
+Avengers,38,Loren Lieberthal
+Avengers,39,Donald Mielcarek
+Avengers,39,Jean Marshall
+Avengers,39,Scott Fredrick
+Avengers,39,Brent Laird
+Avengers,39,Jack Gin
+Avengers,39,Larry Jones
+Avengers,39,Joe Incarnato
+Avengers,39,Russell Kohashi
+Avengers,39,Ric Moser
+Avengers,39,John Howard
+Avengers,39,Frank Krasicki
+Avengers,39,Seth Hennessee
+Avengers,39,Ronald Friedman
+Avengers,39,Philip McDowell
+Avengers,39,Thomas Linihan
+Avengers,39,Dennis Hamilton
+Avengers,39,Larry Ball
+Avengers,39,George Handler
+Avengers,39,Denny Brockman
+Avengers,39,Pete Lee
+Avengers,39,Ann Bailard
+Avengers,39,Lisa Callahan
+Avengers,39,John Morrison
+Avengers,39,"Edwin Carr, Jr"
+Avengers,39,Ronnie Bock
+Avengers,39,Mike Hardis
+Avengers,39,Dan Slade
+Avengers,39,Deane Blakeney III
+Avengers,39,David Glish
+Avengers,39,Mr. & Mrs. Keen Hahn
+Avengers,39,Donald Bray
+Avengers,39,Floyd Stillman
+Avengers,39,Bill Mooney
+Avengers,39,"George E. White, Jr"
+Avengers,40,Walter Markiewicz
+Avengers,40,Robert Haylock
+Avengers,40,Craig Chapman
+Avengers,40,Jock Collins
+Avengers,40,Robert Jones
+Avengers,40,Don Nelson
+Avengers,40,Augustine Fraga
+Avengers,40,Janette Kamica
+Avengers,40,K.W. Heerdt
+Avengers,40,James Gouzales
+Avengers,40,Dean Johnson
+Avengers,40,Jack McGovern
+Avengers,40,Bruce Milmont
+Avengers,40,Mark Herndon
+Avengers,40,Randall Jurkovic
+Avengers,40,Banayote Coutrauboussis
+Avengers,40,Christopher Hummel
+Avengers,40,John C. Koegel
+Avengers,40,Bill Hilson
+Avengers,40,Robert Harris
+Avengers,40,Billy Cooper
+Avengers,40,Martin Jackson
+Avengers,40,Gordy Grant
+Avengers,40,Tommy McCollum
+Avengers,40,Richard Lockwood
+Avengers,40,Jeff Jones
+Avengers,40,John Phillips
+Avengers,40,Wayne Tagemeister
+Avengers,40,Ken Turner
+Avengers,40,Dennis Crabtree
+Avengers,40,Steve Utley
+Avengers,40,William Hedrick
+Avengers,41,Mark Evanier
+Avengers,41,Michael Martin
+Avengers,41,Patrick Conge
+Avengers,41,Richard McCoy
+Avengers,41,Michael Gaynor
+Avengers,41,Dennis O’Connor
+Avengers,41,Michael Legge
+Avengers,41,Billy Cooper
+Avengers,41,F. James Mohl
+Avengers,41,Jimmie Gahn
+Avengers,41,James Hankins
+Avengers,41,Johnny Norville
+Avengers,41,Bowen McMullian
+Avengers,41,Robert Conway
+Avengers,41,Buddy Knox
+Avengers,41,Bruce Lacoste
+Avengers,41,Benjamin Chin
+Avengers,41,Stephen Lipinski
+Avengers,41,Roger McCloud
+Avengers,41,David Croston
+Avengers,41,Joe Montgomery
+Avengers,41,Derald Hamilton
+Avengers,41,Kenny Ibsen
+Avengers,41,Brian Jones
+Avengers,41,Bob Hahn
+Avengers,41,Richard Hamm
+Avengers,41,Cole Giller
+Avengers,41,Christopher Dougherty
+Avengers,41,John Hiltz
+Avengers,41,Judy Axelrod
+Avengers,41,L.J. Johnson
+Avengers,41,Richard Drillich
+Avengers,41,Kenneth Bates
+Avengers,41,Steven Risser
+Avengers,42,John Rheit
+Avengers,42,Gregory Ozenne
+Avengers,42,Wilhelm Kaufman
+Avengers,42,Randy Galtiere
+Avengers,42,Robin Onishi
+Avengers,42,B.W. Fletcher
+Avengers,42,John O’Donovan
+Avengers,42,John Finnan
+Avengers,42,John McKennon
+Avengers,42,John Leary
+Avengers,42,David Halligan
+Avengers,42,Richard O’Neil
+Avengers,42,Danny Gillespie
+Avengers,42,Kim Larson
+Avengers,42,David Livingston
+Avengers,42,Stewart Morse
+Avengers,42,Steven Reinart
+Avengers,42,Jerome Gill
+Avengers,42,Ronnie Millar
+Avengers,42,Greg McCue
+Avengers,42,Gunther Felkel
+Avengers,42,Eddie Jones
+Avengers,42,William Gremmel
+Avengers,42,David Goldenberg
+Avengers,42,Coby Martinez
+Avengers,42,Mike Golden
+Avengers,42,Gaspar Masana
+Avengers,42,Charlie Sommer
+Avengers,42,Bruce Meyer
+Avengers,42,Jim Pearson
+Avengers,42,Darryl James
+Avengers,42,Patrick Janson
+Avengers,42,Carlos Pacheco
+Avengers,43,Bud Cavadini
+Avengers,43,Bruce Long
+Avengers,43,Gary Osborne
+Avengers,43,Warren Noble
+Avengers,43,Stephen Hudson
+Avengers,43,Robert Naloney
+Avengers,43,Joey Forster
+Avengers,43,Frank Lane
+Avengers,43,Charlie Rawls
+Avengers,43,Tom Ring
+Avengers,43,Cruz Nevarez
+Avengers,43,Anthony Alvarado
+Avengers,43,Dana Reedy
+Avengers,43,Larry W. Reese
+Avengers,43,Richard Navarro
+Avengers,43,David Rodowick
+Avengers,43,Ronnie Leon Rawlings
+Avengers,43,Andy Noble
+Avengers,43,Tim Norris
+Avengers,43,Manuel Rose
+Avengers,43,Margaret Nolen
+Avengers,43,Gregory Nelson
+Avengers,43,Jeffrey Noel
+Avengers,43,Kenneth Rhoods
+Avengers,43,Ricky Ringel
+Avengers,43,Jim O’Dan
+Avengers,43,Kathy Olson
+Avengers,43,Robert Nicolas
+Avengers,43,"Alvin Grinage, Jr"
+Avengers,43,William P. Sturdevant
+Avengers,43,Scott Ruhe
+Avengers,43,Nils Osmar
+Avengers,43,Pat Breene
+Avengers,43,Steve Bowell
+Avengers,44,Louis Maslan
+Avengers,44,George Mageritis
+Avengers,44,Renee Melchor
+Avengers,44,Donell Moss
+Avengers,44,Francis Ortiz
+Avengers,44,Amela Labreque
+Avengers,44,Harry Melias
+Avengers,44,Bobby Mask
+Avengers,44,Mike Lansu
+Avengers,44,Ricky Nanni
+Avengers,44,Danny Lusey
+Avengers,44,Jimmy Lunkenheimer
+Avengers,44,Philip Rodman
+Avengers,44,Donnie Risher
+Avengers,44,Brian Rost
+Avengers,44,Craig O’Connor
+Avengers,44,Dennis Navin
+Avengers,44,Steve Landman
+Avengers,44,Ed Ott
+Avengers,44,Kenneth Nehl
+Avengers,44,Nancy Opsai
+Avengers,44,LeMoyne Odisher
+Avengers,44,Kevin McVeigh
+Avengers,44,James Nash
+Avengers,44,Eddie O’Rear
+Avengers,44,Joe Megyesi
+Avengers,44,Chris Barth
+Avengers,44,Terry Nielsen
+Avengers,44,Rick Burns
+Avengers,44,Tim Thompson
+Avengers,44,Shirley A. Gorman
+Avengers,44,Don Markstein
+Avengers,44,Steve Smith
+Avengers,45,Robert Lax
+Avengers,45,K.F. Wayne Nehwadowich
+Avengers,45,John Lane
+Avengers,45,Paul Goodman
+Avengers,45,Alvin Fulton
+Avengers,45,Frank Frederico
+Avengers,45,David Hartley
+Avengers,45,Larry Farley
+Avengers,45,Michael Farinacci
+Avengers,45,Michael Gilbert
+Avengers,45,Charles Jones
+Avengers,45,Odell Harrington
+Avengers,45,Steve Hargis
+Avengers,45,George Hill
+Avengers,45,Albert Fanelli
+Avengers,45,Steven Cipolla
+Avengers,45,Dickie Larson
+Avengers,45,Lonnie Hamilton
+Avengers,45,Sheldon Hyatt
+Avengers,45,Joseph Costanzo
+Avengers,45,Mathew Connarton
+Avengers,45,Tommy Compton
+Avengers,45,Steven Harvey
+Avengers,45,Matt Klimow
+Avengers,45,Dave Heffner
+Avengers,45,Toby Fixel
+Avengers,45,David LaPoint
+Avengers,45,Kathryne Ehwald
+Avengers,45,Fred Reed
+Avengers,45,Susan Reed
+Avengers,45,William Modica
+Avengers,45,David Carey
+Avengers,45,Craig Kowalski
+Avengers,45,Janis Williams
+Avengers,45,Scott Johnson
+Avengers,45,Allen Nicholson
+Avengers,46,Thomas Hocker
+Avengers,46,Stephen O’Connor
+Avengers,46,Craig Nemes
+Avengers,46,Steve Rector
+Avengers,46,Willo Rector
+Avengers,46,Christopher Morrigan
+Avengers,46,Jerome Rosenberg
+Avengers,46,Cliff McNickle
+Avengers,46,Steve Roberts
+Avengers,46,William Madsen
+Avengers,46,Jane Morris
+Avengers,46,Philip Quamina
+Avengers,46,Tommy Rogers
+Avengers,46,James MacRae
+Avengers,46,Gary Curtis
+Avengers,46,Joseph Ripley
+Avengers,46,Kenny Rauscher
+Avengers,46,R.E. Mason
+Avengers,46,Troy Nethaway
+Avengers,46,Vincent Rosini
+Avengers,46,Frank Rogaczewski
+Avengers,46,Chris Metty
+Avengers,46,Darrell Moore
+Avengers,46,Larry Johnson
+Avengers,46,Keith Ryder
+Avengers,46,Martin O’Hearn
+Avengers,46,Chris Barth
+Avengers,46,Rick Hyde
+Avengers,46,Gary McCullough
+Avengers,46,Danny Sussman
+Avengers,46,Hudson Armstrong
+Avengers,47,Richard Vitone
+Avengers,47,Howard Lindsey
+Avengers,47,Bob Jones
+Avengers,47,John Rouse
+Avengers,47,Frank Gordon
+Avengers,47,Nick Kallas
+Avengers,47,Albert Marchetti
+Avengers,47,James McGee
+Avengers,47,Mike Fullerton
+Avengers,47,Carole Reymonids
+Avengers,47,Steve Hurley
+Avengers,47,Foot Green
+Avengers,47,Ed McGuire
+Avengers,47,Selwyn Folkes
+Avengers,47,Jack Lott
+Avengers,47,Ted Guk
+Avengers,47,Ronald Fong
+Avengers,47,Ed Kaysinski
+Avengers,47,George Marchseeault
+Avengers,47,Mitchell Lubitz
+Avengers,47,Richard Jeffries
+Avengers,47,Howell Jackson
+Avengers,47,John Reyer
+Avengers,47,Bill Miller
+Avengers,47,Richard O’Meary
+Avengers,47,Daniel Hill
+Avengers,47,Dave Freeman
+Avengers,47,Jeffrey Raisch
+Avengers,47,Jim Smey
+Avengers,47,Jim Smith
+Avengers,47,David Banks
+Avengers,47,Ernie Paine
+Avengers,47,Roger Gordon
+Avengers,47,Michael Johlke
+Avengers,48,Julie Nemer
+Avengers,48,Pete Limoges
+Avengers,48,Steve Nivens
+Avengers,48,Rick Knoops
+Avengers,48,Richard Krajicek
+Avengers,48,Mark Hahn
+Avengers,48,Ray Hanrahan
+Avengers,48,Gary O’Brenski
+Avengers,48,Robert Rouse
+Avengers,48,Charles Vicino
+Avengers,48,John Kalman
+Avengers,48,Randy Genn
+Avengers,48,Rocky Rotunno
+Avengers,48,Emanuel Havis
+Avengers,48,D. Hobgood
+Avengers,48,Nan Robinson
+Avengers,48,Steven Rabe
+Avengers,48,Frank Reed
+Avengers,48,John Nations
+Avengers,48,Anne Lammond
+Avengers,48,David Higgins
+Avengers,48,Bruce Lowry
+Avengers,48,Brad Herrington
+Avengers,48,Pete Quintana
+Avengers,48,Frank Kelley
+Avengers,48,Ricky Lymer
+Avengers,48,Joe Stinnett
+Avengers,48,Keith Beavon
+Avengers,48,"Peter Sanderson, Jr"
+Avengers,48,Paul Dushkind
+Avengers,48,David Obregon
+Avengers,48,Jim Reinecke
+Avengers,48,Ronald Krauss
+Avengers,49,Bill Reed
+Avengers,49,Russell Rudnick
+Avengers,49,Jack Nerklin
+Avengers,49,Michael Bean
+Avengers,49,Fred Neubauer
+Avengers,49,Curtis Todd
+Avengers,49,Mike Raub
+Avengers,49,Bob Romiski
+Avengers,49,Mike Brown
+Avengers,49,David Lee
+Avengers,49,Dana Govia
+Avengers,49,Will Cosey
+Avengers,49,Mike O'Brien
+Avengers,49,Ray Timmerman
+Avengers,49,Sidney Costello
+Avengers,49,Mike Kassell
+Avengers,49,James Burks
+Avengers,49,Wally Augustin
+Avengers,49,John Chell
+Avengers,49,Mark Norman
+Avengers,49,Ross Tolles
+Avengers,49,David Taylor
+Avengers,49,Gary Krupp
+Avengers,49,Otto Reed
+Avengers,49,Lynne Rudish
+Avengers,49,Mike O'Toole
+Avengers,49,Greg Vick
+Avengers,49,Philip Herman
+Avengers,49,Leo Keil
+Avengers,49,Ken Kahre
+Avengers,49,Alan Groginsky
+Avengers,49,Richard Ferrante
+Avengers,49,Robert DeStantis
+Avengers,49,Jerry Mercu
+Avengers,49,Janet Gierman
+Avengers,49,Bruce Davis
+Avengers,50,Gregory Obdonnell
+Avengers,50,Rod Hansen
+Avengers,50,Tony Kopera
+Avengers,50,Richard Kadiril
+Avengers,50,Larry Lertent
+Avengers,50,Gerard Loughran
+Avengers,50,Mike McGrath
+Avengers,50,Rory Mahon
+Avengers,50,Bob Tesetti
+Avengers,50,Tom Thomas
+Avengers,50,John Mays
+Avengers,50,Larry Tyler
+Avengers,50,Gino Truant
+Avengers,50,Doug Maystrik
+Avengers,50,Joey Tomaszewicz
+Avengers,50,Terri Tinker
+Avengers,50,Lon Mitchell
+Avengers,50,Richard McCallum
+Avengers,50,Robert Dohre
+Avengers,50,Tom Morrison
+Avengers,50,Clarence Taylor
+Avengers,50,Pat Terry
+Avengers,50,Rafael Tabales
+Avengers,50,Brett Masseaux
+Avengers,50,Lynn Mathis
+Avengers,50,John O'Leary
+Avengers,50,John Lund
+Avengers,50,Ronald Kern
+Avengers,50,Louis Wilson
+Avengers,50,William Yambor
+Avengers,50,Charles Perkins
+Avengers,50,Peter Kowal
+Avengers,50,Don McRitchie
+Avengers,50,Tony Isabella
+Avengers,51,Josh Zissman
+Avengers,51,Pete Nakapaohn
+Avengers,51,Henry Rowie
+Avengers,51,Charles Russo
+Avengers,51,Steve Miller
+Avengers,51,Bill Peteritas
+Avengers,51,John Koppler
+Avengers,51,Stephen Nee
+Avengers,51,Jeff Legge
+Avengers,51,Glen Johnson
+Avengers,51,Rick Norwood
+Avengers,51,Mike Redman
+Avengers,51,Ted Rathbun
+Avengers,51,Dale Natiello
+Avengers,51,Richard Tarnik
+Avengers,51,Arne Verde
+Avengers,51,Daryl Holloman
+Avengers,51,Mark Orstein
+Avengers,51,Jim Nassar
+Avengers,51,Dana Simmons
+Avengers,51,George Rackett
+Avengers,51,Ronald Rencevicz
+Avengers,51,Mike Rosenberg
+Avengers,51,Christopher Templemen
+Avengers,51,Bob Rowland
+Avengers,51,Judy Neith
+Avengers,51,Antonio Torres
+Avengers,51,Richard Hoberg
+Avengers,51,David Wm. Gleicher
+Avengers,51,Leo Keil
+Avengers,51,Michael Henderson
+Avengers,51,Douglas Moench
+Avengers,51,David White
+Avengers,51,Paul Kastner
+Avengers,51,Tony Isabella
+Avengers,52,Tim Patterson
+Avengers,52,Mike Uslan
+Avengers,52,Martin Sieff
+Avengers,52,Harold G. Ferguson II
+Avengers,52,Bob Barnett
+Avengers,52,Dave Wixon
+Avengers,52,Nils Osmar
+Avengers,52,Craig Little
+Avengers,53,Paul Sanford
+Avengers,53,"Ralph Duby, Jr"
+Avengers,53,Peter Levy
+Avengers,53,Thomas Miller
+Avengers,53,Blair Benham
+Avengers,53,Sharon Burke
+Avengers,53,Tony Isabella
+Avengers,53,Kendall Sutton
+Avengers,54,Don & Maggie Thompson
+Avengers,54,Lawrence Isaacson
+Avengers,54,Scott Cupp
+Avengers,54,Doug Fratz
+Avengers,55,Lee Gray
+Avengers,55,Paul M. Washburn
+Avengers,55,Len Olson
+Avengers,55,Tommy Floyd
+Avengers,55,Jim Moorehead
+Avengers,55,Terry Tucotte
+Avengers,55,Athanase Papalambros
+Avengers,56,Steven Leaf
+Avengers,56,Craig Lancaster
+Avengers,56,"Peter Sanderson, Jr"
+Avengers,56,Ronald Kern
+Avengers,56,Dave Manners
+Avengers,56,Gary Gabry
+Avengers,56,Robert Kowalski
+Avengers,57,Achille D. DiBacco
+Avengers,57,Tony Isabella
+Avengers,57,Kenwood Bennard
+Avengers,57,Luis Padillo
+Avengers,57,Steve Pollard
+Avengers,57,Steven Mauren
+Avengers,57,Narris Hopkins
+Avengers,57,Jerry Meredith
+Avengers,57,N.L. Jordan
+Avengers,57,Richard Lawhead
+Avengers,57,Shirley Gorman
+Avengers,58,Kevin Irie
+Avengers,58,Richard Struempler
+Avengers,58,Bryant Stavely
+Avengers,58,Scott Raymond
+Avengers,58,Achille Di Bacco
+Avengers,58,Eric Vinicoff
+Avengers,58,Dave Glass
+Avengers,58,Lane Bailey
+Avengers,58,Bob Laier
+Avengers,59,Michael Burrell
+Avengers,59,M. Jablonski
+Avengers,59,Jeff Pierce
+Avengers,59,Wendy Fletcher
+Avengers,59,Steve Heffernan
+Avengers,59,R. Christopher Olsen
+Avengers,59,Karen Wendling
+Avengers,60,Achille Di Bacco
+Avengers,60,Philip Palmer
+Avengers,60,Kenneth Eng
+Avengers,60,Louis Henken
+Avengers,60,Robert Moldenhauer
+Avengers,60,Neil Wolff
+Avengers,60,Bob Barnett
+Avengers,61,Geary Gravel
+Avengers,61,Steven Henkel
+Avengers,61,Gregory Loumos
+Avengers,61,John Locke
+Avengers,61,Richard Pini
+Avengers,61,Bennet Marks
+Avengers,61,Kim Metzger
+Avengers,61,Charles Meyerson
+Avengers,61,Tad Cooper
+Avengers,62,Mark Hanerfeld
+Avengers,62,M. Jablonski
+Avengers,62,Kean Crowe
+Avengers,62,Bob Thompson
+Avengers,62,Johnson
+Avengers,62,Kathleen Bartholomew
+Avengers,62,Pete Heerdt
+Avengers,63,Gary Lachman
+Avengers,63,Robert Day Lynch
+Avengers,63,Jose L. Medina
+Avengers,63,Randy Shepherd
+Avengers,63,Bryant Stavely
+Avengers,63,Keith Cooper
+Avengers,63,Daniel Lewenstein
+Avengers,63,Richard Sadowsky
+Avengers,64,Eddie Bobb
+Avengers,64,Robert Kowalski
+Avengers,64,Brian Morgan
+Avengers,64,Laurie Lew
+Avengers,64,"Bill Cantey, Jr"
+Avengers,64,Mary Lundstram
+Avengers,64,Charles Santino
+Avengers,64,Bill Palmateer
+Avengers,65,Shirley A. Gorman
+Avengers,65,Paul Marshall
+Avengers,65,Todd Buchta
+Avengers,65,Bill Bowers
+Avengers,65,Bobby Barton
+Avengers,66,James Van Hise
+Avengers,66,John Lee
+Avengers,66,Jeffrey Raisch
+Avengers,66,Tim Allen
+Avengers,67,Jerome Herskovits
+Avengers,67,Bruce Burke
+Avengers,67,Vernon Scheetz
+Avengers,67,Eric and Karl Heinemann
+Avengers,67,Terry Wilkerson III
+Avengers,67,Paul Puzzanghera
+Avengers,68,Michael R. Carlson
+Avengers,68,Carlton J. Shelton
+Avengers,68,Hal-3000
+Avengers,68,Wendell Adams
+Avengers,68,Brian Olewnick
+Avengers,68,Steve Shipley
+Avengers,68,Richard Block
+Avengers,69,Steve Demeo
+Avengers,69,Bruce Golden
+Avengers,69,Leroy Crayton
+Avengers,69,Paul Washburn
+Avengers,70,Andy Dicker
+Avengers,70,Jerry Liebert
+Avengers,71,John Harrison
+Avengers,71,Brian Bergsettes
+Avengers,71,Alan Crossley
+Avengers,71,Janice Gelb
+Avengers,71,Henry DeLaCruz
+Avengers,71,Ken McIntyre
+Avengers,72,Patrick Grant
+Avengers,72,Ron Kasman
+Avengers,72,Bob Hobart
+Avengers,72,Keith Pollard
+Avengers,73,Jeffrey Morgen
+Avengers,73,Eric Harrison
+Avengers,73,David Hench
+Avengers,73,Jonathan Hazell
+Avengers,73,Esau Simmons
+Avengers,73,Kimberly Bartholomew
+Avengers,74,Gary R. Spiewak
+Avengers,74,Samuel D. Uretsky
+Avengers,74,John Schuch
+Avengers,74,Howard Colwes
+Avengers,74,Ted Field
+Avengers,74,Chester Grabowski
+Avengers,75,Wilson Tony
+Avengers,75,Juan Fernandez
+Avengers,75,Donovan Mason
+Avengers,75,Steven Wilson
+Avengers,75,Gerard Coccaro
+Avengers,75,Lyle Hewett
+Avengers,75,Stephen De Angelis
+Avengers,75,Max Kerpelman
+Avengers,76,Mike Hartt
+Avengers,76,Bruce Burke
+Avengers,76,Alan Kupperberg
+Avengers,76,"Peter Sanderson, Jr"
+Avengers,76,Richard J. Garson
+Avengers,76,Harvey Sobel
+Avengers,76,Mike Francis
+Avengers,77,Michael L. Kuhne
+Avengers,77,Richard Gallagher
+Avengers,77,Tim Head
+Avengers,77,Dave Puckett
+Avengers,77,Eric Hayden
+Avengers,78,Rick Julian
+Avengers,78,Cecil Waylon Hutto
+Avengers,78,Anthony Albensi
+Avengers,78,Wilson Fong
+Avengers,78,Steven Chavez
+Avengers,79,Philip Mallory Jones
+Avengers,81,Kenneth Haines
+Avengers,81,Steven Carlberg
+Avengers,81,Terry Close
+Avengers,81,William A. Sweeney
+Avengers,82,Brian Hyslop
+Avengers,82,Min Choon
+Avengers,82,Jonathan Burns
+Avengers,82,Lester G. Boutillier
+Avengers,83,John Whitten
+Avengers,83,Wayne Hall
+Avengers,83,Jeff Williams
+Avengers,84,Earl Jones
+Avengers,84,Mike W. Barr
+Avengers,85,Randy Reise
+Avengers,85,William J. Hamblet
+Avengers,85,Allan G. Latawiec
+Avengers,85,Gordon Osric
+Avengers,85,Eric W. Harrison
+Avengers,85,A.W. Peters
+Avengers,86,Mike W. Barr
+Avengers,86,Shirley A. Gorman
+Avengers,86,Stephan Joyce
+Avengers,86,Max Robinson
+Avengers,87,Roger Schoolcraft
+Avengers,87,John E. Payne
+Avengers,87,Shirley A. Gorman
+Avengers,87,Paty
+Avengers,88,Tom Fagan
+Avengers,88,James G. Shell
+Avengers,88,Jonathan Guss
+Avengers,88,W.P. Mills
+Avengers,88,Gail Abraham
+Avengers,89,Monte Aronson
+Avengers,89,"Hoy R. Murphy, Jr"
+Avengers,89,Henry Lipput
+Avengers,89,Jim Vicko
+Avengers,90,Marlene Jablonski
+Avengers,90,Rick Keefe
+Avengers,90,Jim Bolella
+Avengers,90,Dan Patri
+Avengers,91,Eric Charge
+Avengers,91,Darleen E. White
+Avengers,91,Nelson Fox
+Avengers,92,David B. Michelinie
+Avengers,92,Dave Frauman
+Avengers,93,W. John Schiffermuller
+Avengers,93,James Fisher
+Avengers,93,Matthew Graham
+Avengers,95,Henry H. Walker
+Avengers,95,Shirley A. Gorman
+Avengers,95,Kenny Scott
+Avengers,95,Bob Luh
+Avengers,95,Mark Jones
+Avengers,96,John Albaugh
+Avengers,96,Michael Smith
+Avengers,96,Steve Byas
+Avengers,96,W.F.S.
+Avengers,97,Marilyn Bull
+Avengers,97,John W. Hanley
+Avengers,97,W.P. Mills
+Avengers,98,Stephen R. Donaldson
+Avengers,98,Michael P. Higgins
+Avengers,98,Mark Stephens
+Avengers,99,"George Olshevsky, Jr"
+Avengers,99,Matt Graham
+Avengers,100,Matt Graham
+Avengers,100,Ronnie S. Randles
+Avengers,101,Edward D. Gill
+Avengers,101,Matt Graham
+Avengers,101,"Joseph Randisi, Jr"
+Avengers,101,Paul Kupperberg
+Avengers,102,Beto!
+Avengers,102,Ira Ducker
+Avengers,102,Lawrence Schick
+Avengers,103,Robert Gillian
+Avengers,103,Paty
+Avengers,104,W.P. Mills
+Avengers,104,Scott Morris
+Avengers,104,Mike W. Barr
+Avengers,104,Hank Bishop
+Avengers,104,Randy Benitez
+Avengers,105,Chuck Valukas
+Avengers,105,Garnet H.G. Barcelo
+Avengers,105,Joe Sherman
+Avengers,106,Earl Loudenslager
+Avengers,106,Thomas J. Chambers
+Avengers,106,Frank Balazs
+Avengers,107,Gail Teague
+Avengers,107,Steve Lau
+Avengers,107,Mrs. Richard Pini
+Avengers,108,Stephen C. Nazzaro
+Avengers,108,Rick Keefe
+Avengers,108,Daredevil
+Avengers,108,R. Benitez
+Avengers,109,Rick Keefe
+Avengers,109,Ron Kurpiel
+Avengers,110,Tim Avery
+Avengers,110,Richard Aiken
+Avengers,110,Mike Francis
+Avengers,111,Mark Zutkoff
+Avengers,111,Marilyn Sue Knapp
+Avengers,111,Frank Santopadre
+Avengers,112,Nicia MacDonald
+Avengers,112,C.J.C.
+Avengers,112,Richard J. Bedard
+Avengers,113,Chuck Valukas
+Avengers,113,Howard L. Davis
+Avengers,114,James Farmer
+Avengers,114,James Wolcake
+Avengers,114,Judy Kaufman
+Avengers,114,Frank Balazs
+Avengers,115,Rich Howell
+Avengers,115,Alan Rothman
+Avengers,115,Duffy Vohland
+Avengers,115,Philip Hair
+Avengers,117,Brian E. Cook
+Avengers,117,K.J. Robbins
+Avengers,118,Bob Rodi
+Avengers,118,Ralph Macchio

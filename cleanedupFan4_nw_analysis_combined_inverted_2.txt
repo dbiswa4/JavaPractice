@@ -1,0 +1,246 @@
+A30,Jan Shpiegelman|Roy Armstrong|Gary Fairfax|Randy Barron|Richard Crum|John Hudson|John Allen|Adell Bell|Debra Athers|Brian Knox|Gregory Crosbie|Nate Chase|Alan Kelso|Randy Freedman|Olivia Ferrante|Johnathan Hecht|Thomas Crable|Lenore Ballard|Steven Bauman|Keith Bohlman|Jerry Johnson|Daniel Felch|Rodney Gregory|Steven Johnson|Jim Blanchfield|Steve Bartholomew|Luis Altschul|John F. Lebar|Bill Hickey|Marvin Chase|Bruce Lowry|Rich Cornish|Dennis Collier|Alan Dean|Nick Olivas|Stuart Herskovitz
+F114,Douglas Stuart|Eric Sheldon|Jeffrey W. Taylor
+A31,John Hanson|Tom Cox|Arthur Aysin|Michael Goodman|Jay Boyar|Alf Anderson|Harley Boudreaux|Steven Arnold|Gary Colton|Marie Galicia|James Halpenn|Scott Behar|Debra Kirk|James Huff|Gregory Janicke|Lawrence Herbst|Cindy Bien|Alan F. Bur|Regina Huber|Barry Brook|Larry Abernathy|Francis Napoliton|Don Brigas|William Cassese|Dennis Forsythe|John Halloran|Fritz Boettger|Claude Paquet|Mike Robertson|Eddie Birchmore|"Leonard Chambliss|Greg Manczuk|Pat Barnhart
+F113,Matthew Kreps|Laurence M. Janifer|Rev. Druid|Philip Wadler
+F112,Steve Rich|G.B. Tiede|Richard Bush|Jay Lebsch|Paul Havemann
+F111,Jay Sheldon|Bud Humphrey|William T. Hayes|Todd Lowenstein|Kendall Morris
+F110,Douglas V. Kuhlmann|Mike Towry|Todd Bake|Samuel P. Schraeger|Robert Hartka
+A29,Billy Ferguson|Rusty Bryan|James Hilleman|George Rowe|James Lemke|Richard Leonforte|Tom Maves|Jack Brod|Donald McKellop|Mike Gangloff|Ellen Spears|David Dorsey|Michael Johnson|Benjamin Pondertee|Leroy Singfield|Donald Asberry|Patti Clark|Robert Reilly|George Tsaganeas|Paul Opshinsky|Buck St. John|Kevin Szatmary|Bobby Lloyd|Jim Ward|Donna Barker|Steve Fodaski|Perry Holman|Jim McAlister|Dean Crawford|Jimmy Clodfelter|Bill DeSmedt|Larry Hammer|Mike Friedrich|Peter Mancuso|Students of Bethany College|Mike Johnson|Mark Taggart
+A28,Charles Gumienez|George Cargill|Mike Favara|Steven Eiseman|"Eugene Bennett|Leo Geddry|"Michael Bishop|Mike Hughes|Dale Johnson|Donnie Johnson|Robert Sheehan|Steve Crans|Maxine Calvin|Raymond Katright|Diane Johnson|Brian Bernick|Kathy Goles|Esteban Garcia|Anthony Colletta|Mark Cooke|Chester Gregory|David Benesch|Daniel Hay|Brent Price|Wayne Burbridge|Charles Winton Cossel|Mrs. Douglas Kortte|Richard Ranieri|Tom Dietz|James D. Grosbach|Dean Crawford|Alan Patterson|Ann Zimmerman|Craig Werner
+A27,Michael Faele|Tim Godbout|Billy Pastarnack|Don Hanson|Brad Reddersen|Hohnory Conte|Ronald Reiter|Terry Knight|Jerry Rogers|James Wylie|Paul Neto|Jeffrey Thompson|Mike Sanoer|"Sid Williams|Eric H. Giesy|Richard Ecke|Edward Miller|Drucie Cordover|Amy Pastarnack|Jody Johnson|Kenneth Murphy|Sterling Collins|Larry Bigman|William Virgulak|John Mayer|Paul Schind|Bill Kaghan|John Weigle|Richard Kenney|Vicky Randall|David Bladsoe|Barry Cunningham|Bruce Zwicker|Laura Kirby|Dean Crawford|Gary Merrill
+A26,Margaret Bauer|David Russell|Kent Kirby|Robert Churchill|Clifford D. Polacek|Alan Cqarnysyka|Douglas McDonough|Ben Harris|Curtis Johnson|Robert Schiavone|Nancy Peck|Leonard Mall|Steve Guida|Randy Larson|Harold Tweksbury|Peter Rubenstein|Frank Roach|Tim Kaun|Jim Madgett|"Joseph Ciccotello|Mike Bowles|Mike Neil|Mrs. Dell Evans|Joseph Power|Gregory Pasternack|Alva Wiley|Kerry Dominic La Cava|James Morton|Lenore Speer|Craig Alan Oberle|Bill Gliner|Tony Haulsey|Mrs. Linda Livingston|John Wink|Ned Barnett|Edward Bertrand|Raymond Richter
+A25,Steven Barrows|Mike Campbell|Mary Caron Criss|Curtis Cottrell|Franklin Ostrowski|Boyd Jones|Rick Mooney|Steve Massiano|John Watson|Donald Ensign|Dick O�Malley|Wendy M. Morihisa|David Plant|Richard Strauss|Jon Kniskern|John Tillistrand|Pat Kelly|Doug Nassif|Marshall Brown|Cole Kitchen|Mark Miller|Calvin Wong|Steve Lekson|Richard Drozd|Glyn A. Davis|Steven Wehnhoff|Linda Fischer|Richard Schwall|Steve Utley|Bob Spangler|Milton Spivey|Jim Buser|David Hamaker|John P. Morgan|Lynda Leifeld|Jim Ruszka
+F118,Henry H. Walker|Robert Schoolcraft|Norman Elder|Larry Trepel|Bruce Roland
+A24,Peter Parisi|Stinky Strawn|Anthony Podejko|Bernie Baldwin|Glenn Berkman|Vandis Lee Williams|Bobbie Weaver|R.L. Kelemen|Kris Dray|Gordon Howe|Kevin L. Klippel|Gary Lee Farresten|Peter Glass|Holly Lane|Jamesr St. Martin|Gary B. Risinger|Gerald Lowe|Carl Data|Boyd Lane|Rod Lowe|Paul Anderson|Charlie Stanfiel|Ray Gibbone|Edward O�Hare|Rainer Malcharek|Eddie Holderman|"Frank P. Eisgruber|Gary Hood|Sally Craig|Stephen Guida|George Tsakiris|Laurence Moyer|Mike Olivella|Richard Walls|Jim Nuffer
+F119,Charles Schwartz|Douglas Jones|Lester G. Boutillier|Kevin Greer
+A23,Mark Maloney|Michael Freeman|Bert Gillispie|Stephen Erickson|Bill Lull|Barry C. Curtis|"Francis Napoliton|Joe A. Rasnic|Barry Brookner|Philip Allen|Kerry Gunnels|"Robert J. Milswiski|Morris Lee Northcutt|Alex Maurer|Bob Shoop|Michael Calbad|Leonard Prussack|Darrell F. Netto|Tim Hill|Scott Wessinger|Pete Humphrey|Carl Kikland|The Great Monk|"John Mack|Tommy Harris|Derek Moore|Victor Bonita|Gary Nowell|Jim Allan|Curtis Martens|Marie Russell|Mike Gable|Paul Nungester|John Furek|Mike Delong
+F116,Tom Steinke|Joel Pollack|Michael L. Kuhne|Bob Rozakis|G.B. Tiede
+A22,Mike Warden|Gary Walker|"Ralph L. Brown|Mickey Paolucci|Roy Oakley|Jimmy Morton|Charles Hutler|Scotty Gibbs|Vincent C. Stuart II|David Mackidd
+A21,Doug Jones|David Funnell|"C.H. Cooke|John Taylor|Jimmy Morton|Sandy Guillot|John Dennis|Mike Friedrich
+F11,James Barnhill & Larry Berry|Larry Tucker|Billy Rintz|Kurt Dagenais|William Paul|Betty Dille|Johnny Storm|David Lancaster|Sherman Howard
+F104,Carl Gafford|William A. Sweeney|Gary Chun|Steve Turner|Steve Smith
+F124,Renato Smoljanovic|Wayne Foskey|John C. Kruize|Bjarne L. Everson
+F12,Tommy Jones|Dean Newman|Marsha Cox|Steve Perrin|Steve Utley|Fred Bronson|Edward Corbett|Lanson Chesney
+F103,Lee A. Ruff|Neil A. Armstrong|John Ostapkovich|T.K. Tallmon
+F123,David McDonnell|Randy Oliver|Steve Russell|W.P. Mills
+A1.5,Ty Templeton|Kurt Busiek|Burt Kusiek|Mark Waid
+A40,Walter Markiewicz|Robert Haylock|Craig Chapman|Jock Collins|Robert Jones|Don Nelson|Augustine Fraga|Janette Kamica|K.W. Heerdt|James Gouzales|Dean Johnson|Jack McGovern|Bruce Milmont|Mark Herndon|Randall Jurkovic|Banayote Coutrauboussis|Christopher Hummel|John C. Koegel|Bill Hilson|Robert Harris|Billy Cooper|Martin Jackson|Gordy Grant|Tommy McCollum|Richard Lockwood|Jeff Jones|John Phillips|Wayne Tagemeister|Ken Turner|Dennis Crabtree|Steve Utley|William Hedrick
+F102,John Ostapkovich|Michael N. Tierstein|Tom Lane
+F126,Albert Licata
+A41,Mark Evanier|Michael Martin|Patrick Conge|Richard McCoy|Michael Gaynor|Dennis O�Connor|Michael Legge|Billy Cooper|F. James Mohl|Jimmie Gahn|James Hankins|Johnny Norville|Bowen McMullian|Robert Conway|Buddy Knox|Bruce Lacoste|Benjamin Chin|Stephen Lipinski|Roger McCloud|David Croston|Joe Montgomery|Derald Hamilton|Kenny Ibsen|Brian Jones|Bob Hahn|Richard Hamm|Cole Giller|Christopher Dougherty|John Hiltz|Judy Axelrod|L.J. Johnson|Richard Drillich|Kenneth Bates|Steven Risser
+F10,David Santiago|Steve Stern|Rob Sansing|Lee Cohen|G.B. Love
+F101,Masao Kono|Marc De Matteis|Cecilia Banero|Alan Kupperberg|John Meachnik
+F125,Paul Harman|Tom Cook
+A42,John Rheit|Gregory Ozenne|Wilhelm Kaufman|Randy Galtiere|Robin Onishi|B.W. Fletcher|John O�Donovan|John Finnan|John McKennon|John Leary|David Halligan|Richard O�Neil|Danny Gillespie|Kim Larson|David Livingston|Stewart Morse|Steven Reinart|Jerome Gill|Ronnie Millar|Greg McCue|Gunther Felkel|Eddie Jones|William Gremmel|David Goldenberg|Coby Martinez|Mike Golden|Gaspar Masana|Charlie Sommer|Bruce Meyer|Jim Pearson|Darryl James|Patrick Janson|Carlos Pacheco
+F100,Jay Sheldon|Billy James Jones|Eugene Cerruti|"Bill Henley|Richard Weiss
+F120,Lester G. Boutillier|John Revelli|Dan Moody|Stephan Pang
+F122,Scott Edelman|Gene Bearringer
+F121,Charles Hoffman|Bruce Roland
+F19,Sidney D. Evans|Robert Purinton|Mrs. Berly Wright|Curtis M. Wells|Martin Jackson|John Stone|"Eddie L. Malone|Rose O'Connor|Mrs. Jo Shelby|Steve Griffin|Herbert L. Patterson|Fred Romanek|Linda and Percy Smoke
+F8,Cynthia Moore|"Don Henrehan|Frederick Foster|Angry Artie Starr|H. Sher|Paul J. Batchie|Joe Dinnis
+F9,Dennis Smith|Buddy Sanders|Leroy Austin|Mike Touhey|Paul Gambaccini|Richard Berry|Harold Smith
+F17,Harry Warren|Donald Markstein|Sebastian Stuart|Drury S. Moroz|Peter Dovolas|Paul Gambaccini|Ronn Foss
+F6,Gregory Christiano|Marlene Du Vall|Lawrence Crilly|Harry Fitch|Donald Murphres|Martin Ross|Jonathan Latham|Michael Snell|Paul Ward|Joseph Reynolds|David Crall|Sandra Schupp|Craig Miller|G. Reagle Jr.|K. Koenigs|J. Zielinski|Al Kracalik|Dana Riell|John Davis|Bob Holman|Rita Townsend|Jim Brewster|Marven Bland|Rodney Grey|Harry Beatty|Jose Nieves|Frank Schillig|Charles Rockyvich|T. Baganz|Edward Glover|John Creeley|M. Liberatore|Roger Choate|G. Lamont Brownell|M. Madden|Bob Williamson|Michael Fallis|Richard Hoffman|Billy Sequino|William Wiehe|Kevin Breen|Richard Silver|Lewis Strasburg|Chris Fuller|Dennis Stephens|Paul Carr|Eugene Zielinski|Danny Peterson|Dennis Day|M. Greenfield|Charles Mammano|Gerald Adair|Robert Stevenson|Chris Bennett|S. Howard|Don Jarvis|L. Behrns|E. Giannattasio|Kenneth Peters|S. Champagne|Mike Sisson|M. Dorobis|Ronald Vigil|Carmen Martinez|Peter Ortiz|M. Russell|Danny Turner|J. Martin|W. Nielsen|Paul Hill|S. Perrin|Dennis Fiegl|B. Stanis|B. Carrothers|George Paul|R. De Bruyn|Dan Eiler|Bill Hall|Daryl Anderson
+F18,Harold Silverman|Robert Allen Ellis|Paul B. Weinstein|Dick Tedor|Robert Caldwell|Sgt. R. Anderson|Steve Stough|Anthony Corda|Tom Jones|Alan Wheeler|Ronn Foss
+F7,Warren Jacobs|Barbara Stock|Alan Carlson|Melvin Herbers|Sal Anzaldi|Rusty and Larry Bush
+F15,Mary Hoffmann|Ronn Goff|Reynolds M. Morris|"Michael ""Mickey"" Martin"|Fred Gibbons|Ginger Church|Roger Mann|Ricky Phillips|Roy Thomas|Bob Kennedy|Jerry Smith
+F16,Clifford Garber|Martha Beck|Marya Rice|Phil Castora|Bill DeAndrew|George Kitchen|Gregg Smith|Tom Dietz|David Singer
+F13,Frederic Johnson|Kenny Glenn|"Harold Echtinaw|Robert Ford|Paul Gambaccini|Paul Weinstein|Wayne Orlicki|Marty Ross|Mike Tuohey
+F14,Stewart Scheifer|Bill Hauptman|David Languth|Victor Phillips|Lee Whittlesey|Jeffrey Roy Pontello|Mark Savaage|Kathleen McCoy|Joseph Shoemaker|Richard Eilts|Kevin Johnson|Jim Broeker|"Arthur Davis|Barry Goldstein
+F5,Roy Thomas|Mike Randall|Rick McGuire|Scotty Smith|William J. Marcolongo|Roger Mann|Harold McIntosh|Cruz Jiminez|William Frazier|Ronn Foss
+F4,Len Blake|S. Goldberg|Shirley Howard|Bruce Fogel|Jim Moony|Unsigned
+F3,Alan Weiss|Rick Wood|Unsigned|George Paul|Bill Sarill|S. Brodsky
+A37,Mike Palmer|Richard Cochran|Wayne Rettig|Bobby Shermaker|Stanley Moore|Paul M. Beaudry|Bill Boorstein|Robert Gregg|Johnny Bookbls|Richard Knaver|Earl Cash|Robert Bascetta|Lyden Monroe|Freddie Harris|Robert Altman|David Dyer|Anthony Lupia|Jeffrey Rosen|Billy Lavin|Leo Mallette|Jack Serrafin|Danny Harper|Philip Clark|Luke Schafter|Albert Steele|Jack Kelleher|John Pepper|Darryl James|Wesley Cooper|David Sizemore|Steve Neff|Larry Cummings
+A36,Danny Lewis|Stephen Fallon|Bernard Fauntleroy|Martin Ariner|David Jevas|Jay Kier|Wayne Metcalf|James Higgins|Daniel Callahan|Robert Magee|Ernie Longcore|Anthony Boccia|Peter Iasillo|Donald McKenny|Mike J. Franovich|Pat Boles|Don Caltvedt|Barry Colburn|Loren Gordon|Andrew Lander|Paul Garcia|Robert Krupp|Steve Altus|David N. Kruchlow|Steve Kaufman|Don Lewis|Anthony Roche|David Cox|Bruce Walker|"Clarence Black|Curt Tweddell|Ron McDivitt|Bob Richards|Gary Anderson
+F109,Tim Head|David Leonhardt|"Harry Walder|Mrs. Susan Berst|Howard Leroy Davis
+A39,Donald Mielcarek|Jean Marshall|Scott Fredrick|Brent Laird|Jack Gin|Larry Jones|Joe Incarnato|Russell Kohashi|Ric Moser|John Howard|Frank Krasicki|Seth Hennessee|Ronald Friedman|Philip McDowell|Thomas Linihan|Dennis Hamilton|Larry Ball|George Handler|Denny Brockman|Pete Lee|Ann Bailard|Lisa Callahan|John Morrison|"Edwin Carr|Ronnie Bock|Mike Hardis|Dan Slade|Deane Blakeney III|David Glish|Mr. & Mrs. Keen Hahn|Donald Bray|Floyd Stillman|Bill Mooney|"George E. White
+A38,Ronald McDowell|Michael Maroney|Thomas Kellog|George McMinn|Sakamoto|Barry Malkiel|Mark Medici|Gene Carlson|Robert Lieberman|Dale Atchinson|Paul Lynos|Michael Candy|Rickie Arnaiz|Francis Kramer|Bob Appleton|Mark Bradshaw|Betty Mayfield|Joan Baizer|Ricky West|Mac MacLean|Bill Kremen|Dave Heil|Gene Gavin|Ed Duensing|Jimmy Davis|Walter Antipin|Bill Mallory|Ralph Hensley|Vincent Bonham|Burt Penchansky|Dennis Hamer|Jan Bertholf|Gary Striney|Loren Lieberthal
+F107,Ronald Brummit|Wilson Fong|Mark S. Cowell|Lee A. Ruff
+F127,Alan James Scally|T.E. Pouncey|Lynette Eliton|Frank Balazs|"F.J. Hayes|Rickey M. Lawler
+A33,Russ Olsen|William Keane|Buddy Gauz|David Boyce|Richard Blodgett|Richard Beskosty|Brigham Metcalfe|Bobby Oishi|Dennis Graham|Donald Ray|Larry Moscoe|Kenneth Mayer|Mike Canill|Norman Clark|Alvin Grinage|Joe Juby|Joseph Wantz|Joe Long|Daniel Walsh|Steve Robbins|Steve Wilhelm|Jim Wisnienski|Burley Nopier|Farris Rodgers|Garry Barrow|Robert Saunders|"John Kusske|"Jimmy Sartoris|Rudy Espinosa|Bob Barnett|Gary Robinson|Thomas L. Chaffee|Peter von Sholly
+F108,Jim Elston|Steve Smith|Jason Aronowitz|Harri Coloni
+F128,Jeff (no last name given)|Adrienne Fein|Sherrell Hough|Mitchell Bailes
+A32,Peter Holowyck|David Hoge|Larry Gehwartz|Wayne Anderson|Carol Bernard|Mickey English|Bruce Goodman|George Hardy|Ben Havrick|Pete Ciarrochi|Tim Grander|David Fishman|James Antos|Walter Hoyeski|Michael Forman|Dennis Feigenbaum|Mike Freenfield|"Gino Bottins|Terry Colvin|Woodrow Hughes|Raymond Farese|Ralph Cobert|Paul Castle|Albert Adams|Mike Julin|Wayne Ferguson|Robert Kowalski|Emmett O�Donnell|Dave Grayson|Henry Bergman|Michael Lilla|Tim Albrecht|Brian Alprin
+F105,Jennifer Crocher|Keith Metz|Arlene Lo|Van Hunt|Leroy Creyton
+A35,Neil Neches|Steve Alexander|Lawrence Bond|Stuart Alper|Richard Kridel|Joyce Matsumori|Paul Ishimaru|John Bonnin|Michael Greenblatt|Tony Miller|Alan Fugerio|Mark Eldon Adkins|Kevin Geberth|Stephen Amedio|Arthur Morford|Joel McCrillis|Steve Hunters|Mike Mariseski|David Homer|Kathleen Hogan|Jef. D. Hubbeling|Davis Gee|Mike Hitselberger|Bob Montgomery|Ricky Garrigues|Robert Benites|John Mata|Dwight Heil|Perry Turner|Calvin Pate|Alan Harvey|Jo Ann Mortimer|Daniel Drew|Greg Kishel|Dave Cockrum
+F106,Dale Shuman|Dennis O'Brien|Eric Sandmark
+A34,Michael Baker|Donald Hiltner|Jeff Beimfohr|David Johnson|Mike Creger|Jeff Cox|Jack Friedman|Gary Arthurs|Andrew Bernstein|Lyon Low|Thomas Brown|Bill Kirkland|Mark Eddy|Barton Hoenes|Joseph Gilman|Jim Ivan|Vincent Cialdella|Charles Banfield|Billy Holmes|Paul Grieneir|Johnny Alston|Royden Koito|Garth Lewis|Barry Flynn|Ronald Lomano|Kenneth Low|Brian Nelson|Larry & Mike Wahs|Lee Sarnoff|Richard Roesberg|Andrew Durisin|Randy Caraway|Bruce Long|Richard Katz
+F133,Cameron Bastedo|Rick Keefe|Steve Bruflodt|Alan Meerow
+F132,David Hilmer|Mark Chussil
+F131,Stephen Nazzaro|Mike W. Barr|Starley L. Thompson|Charles Dixon|Alan Rothman
+F130,"Willard F. Greenwood|John Camilleri|Larry Brnicky|Charles Meyerson|Gary Kimber|Rick Thomas|Mark M. Thomase|Jerry Jones
+F137,Bob Hartka|Mark Lambert|Richard Nathan
+F136,Alan Rothman|Johnny Carbonaro|"John Libertine
+F135,Matt Hubbard
+F134,Celeste Anne|Jim Rohn
+F138,Rody Miller|Alan Rothman|Steven Scheibner|Don Dewsnap
+A20,Dave Fenimore|David Phillips|Ted Agrew|Steve Clark|Paul E. Akers|John McNeeney|John McAllister|Jack Holman
+F140,Bobby Shufflebanger|Geo. Heldekat
+A19,Jeff Morden|Rosalind L. Rogoff|Mark Kernes|Cary Burkett|Brad Reddersen|William Boles|John Baggerman|Richard Whitehead|N.W. Rapparlie
+A18,Jim Ruszka|Gary Mason|Mickey Gaither|Ted White|Frank Tower|Robbie Wright|Bill Humen|Steve Jessen|Bill Humen
+A11,Thomas Bloyen|John Hudson|Barbara McCasland|Tom Conti|Masataka Hirota|Ruth Doyle|Robert Linderman|Al Russell
+A10,John Fong|Jimmy Meschwitz|Ronald Mittelhammer|Robert Estevez|Leonard J. Tirado|Kim Wright|"Wayne Cauley|Paul Plosila|Richard Macaraeg|Joseph Augustyn|Gene Day
+A13,Patrick Kearns|Mike Geralds|George Fergus|Michael Vernidis|Larry Orman|Jane Sanchez|Robert Vann|Joe and Peter Wallfried|Michael McNutty|"Jack Thibodaux|Wally Hastings|Bob Malisani
+A12,Dan Klinger|Alan McNaly|Steve Lucero|David Kaler|George R.R. Martin|Bobby Harris|Bernard Polachek|Steve Erickson|Srden Vejvoda
+A15,Wayne Voce|Donna Diane|Robert Fall|Jim Dee|Gary Thorne|Jim Coveleski|Neil Lindenbaum|Frank Stokes|Alan Mann|Kent Thomas
+A14,Eric Lesko|Dale Bell|Vincent Topazio|Peter Cadwell|Patrick McGee|Ken Free|Mrs. Millard E. Brown|Larry Orman|Herbert W. Swafford
+A17,Richard Cochran|Eugene Bearringer|George Bryant|Jim Murphy|Jack House|Fred Ludwig|Greg Stevens
+A16,Ted Moore|Jerry DeStefano|Nathan Zimmerman|David Szurek|John Halloran|Richard Kraus|Maurice Johnson|Jack Marchese|Carl Czaga|Charles Taylor
+A6,Buddy Saunders|Guiseppe Gramazio|Charles Lichtman|Allen Haworth|John Angell
+A5,Morton Hughes|Roger Gilman|Alan Weiss
+A8,Chris Palmer|Bob Sheridan|Bill McCord|David Calise|Bob Spann|Bobby Rollins
+A7,Cory Seidman|Thomas Burrows|Bruce Bourgeois|David Stuard|Sherwood Conant|Robert Galvanin
+A75,Wilson Tony|Juan Fernandez|Donovan Mason|Steven Wilson|Gerard Coccaro|Lyle Hewett|Stephen De Angelis|Max Kerpelman
+A74,Gary R. Spiewak|Samuel D. Uretsky|John Schuch|Howard Colwes|Ted Field|Chester Grabowski
+A9,Roger Gilman|Mitchell Maslin|Greg Hendricks|Tom Nester|Gary Rafferty|Jim Costantmi|Ronald Pehr|David Jackson
+A73,Jeffrey Morgen|Eric Harrison|David Hench|Jonathan Hazell|Esau Simmons|Kimberly Bartholomew
+A72,Patrick Grant|Ron Kasman|Bob Hobart|Keith Pollard
+A71,John Harrison|Brian Bergsettes|Alan Crossley|Janice Gelb|Henry DeLaCruz|Ken McIntyre
+A70,Andy Dicker|Jerry Liebert
+A69,Steve Demeo|Bruce Golden|Leroy Crayton|Paul Washburn
+A67,Jerome Herskovits|Bruce Burke|Vernon Scheetz|Eric and Karl Heinemann|Terry Wilkerson III|Paul Puzzanghera
+A68,Michael R. Carlson|Carlton J. Shelton|Hal-3000|Wendell Adams|Brian Olewnick|Steve Shipley|Richard Block
+A65,Shirley A. Gorman|Paul Marshall|Todd Buchta|Bill Bowers|Bobby Barton
+A66,James Van Hise|John Lee|Jeffrey Raisch|Tim Allen
+A84,Earl Jones|Mike W. Barr
+A83,John Whitten|Wayne Hall|Jeff Williams
+A86,Mike W. Barr|Shirley A. Gorman|Stephan Joyce|Max Robinson
+A85,Randy Reise|William J. Hamblet|Allan G. Latawiec|Gordon Osric|Eric W. Harrison|A.W. Peters
+A82,Brian Hyslop|Min Choon|Jonathan Burns|Lester G. Boutillier
+A81,Kenneth Haines|Steven Carlberg|Terry Close|William A. Sweeney
+A76,Mike Hartt|Bruce Burke|Alan Kupperberg|"Peter Sanderson|Richard J. Garson|Harvey Sobel|Mike Francis
+A77,Michael L. Kuhne|Richard Gallagher|Tim Head|Dave Puckett|Eric Hayden
+A78,Rick Julian|Cecil Waylon Hutto|Anthony Albensi|Wilson Fong|Steven Chavez
+A79,Philip Mallory Jones
+A53,Paul Sanford|"Ralph Duby|Peter Levy|Thomas Miller|Blair Benham|Sharon Burke|Tony Isabella|Kendall Sutton
+A52,Tim Patterson|Mike Uslan|Martin Sieff|Harold G. Ferguson II|Bob Barnett|Dave Wixon|Nils Osmar|Craig Little
+A51,Josh Zissman|Pete Nakapaohn|Henry Rowie|Charles Russo|Steve Miller|Bill Peteritas|John Koppler|Stephen Nee|Jeff Legge|Glen Johnson|Rick Norwood|Mike Redman|Ted Rathbun|Dale Natiello|Richard Tarnik|Arne Verde|Daryl Holloman|Mark Orstein|Jim Nassar|Dana Simmons|George Rackett|Ronald Rencevicz|Mike Rosenberg|Christopher Templemen|Bob Rowland|Judy Neith|Antonio Torres|Richard Hoberg|David Wm. Gleicher|Leo Keil|Michael Henderson|Douglas Moench|David White|Paul Kastner|Tony Isabella
+A50,Gregory Obdonnell|Rod Hansen|Tony Kopera|Richard Kadiril|Larry Lertent|Gerard Loughran|Mike McGrath|Rory Mahon|Bob Tesetti|Tom Thomas|John Mays|Larry Tyler|Gino Truant|Doug Maystrik|Joey Tomaszewicz|Terri Tinker|Lon Mitchell|Richard McCallum|Robert Dohre|Tom Morrison|Clarence Taylor|Pat Terry|Rafael Tabales|Brett Masseaux|Lynn Mathis|John O'Leary|John Lund|Ronald Kern|Louis Wilson|William Yambor|Charles Perkins|Peter Kowal|Don McRitchie|Tony Isabella
+A45,Robert Lax|K.F. Wayne Nehwadowich|John Lane|Paul Goodman|Alvin Fulton|Frank Frederico|David Hartley|Larry Farley|Michael Farinacci|Michael Gilbert|Charles Jones|Odell Harrington|Steve Hargis|George Hill|Albert Fanelli|Steven Cipolla|Dickie Larson|Lonnie Hamilton|Sheldon Hyatt|Joseph Costanzo|Mathew Connarton|Tommy Compton|Steven Harvey|Matt Klimow|Dave Heffner|Toby Fixel|David LaPoint|Kathryne Ehwald|Fred Reed|Susan Reed|William Modica|David Carey|Craig Kowalski|Janis Williams|Scott Johnson|Allen Nicholson
+A46,Thomas Hocker|Stephen O�Connor|Craig Nemes|Steve Rector|Willo Rector|Christopher Morrigan|Jerome Rosenberg|Cliff McNickle|Steve Roberts|William Madsen|Jane Morris|Philip Quamina|Tommy Rogers|James MacRae|Gary Curtis|Joseph Ripley|Kenny Rauscher|R.E. Mason|Troy Nethaway|Vincent Rosini|Frank Rogaczewski|Chris Metty|Darrell Moore|Larry Johnson|Keith Ryder|Martin O�Hearn|Chris Barth|Rick Hyde|Gary McCullough|Danny Sussman|Hudson Armstrong
+A43,Bud Cavadini|Bruce Long|Gary Osborne|Warren Noble|Stephen Hudson|Robert Naloney|Joey Forster|Frank Lane|Charlie Rawls|Tom Ring|Cruz Nevarez|Anthony Alvarado|Dana Reedy|Larry W. Reese|Richard Navarro|David Rodowick|Ronnie Leon Rawlings|Andy Noble|Tim Norris|Manuel Rose|Margaret Nolen|Gregory Nelson|Jeffrey Noel|Kenneth Rhoods|Ricky Ringel|Jim O�Dan|Kathy Olson|Robert Nicolas|"Alvin Grinage|William P. Sturdevant|Scott Ruhe|Nils Osmar|Pat Breene|Steve Bowell
+A44,Louis Maslan|George Mageritis|Renee Melchor|Donell Moss|Francis Ortiz|Amela Labreque|Harry Melias|Bobby Mask|Mike Lansu|Ricky Nanni|Danny Lusey|Jimmy Lunkenheimer|Philip Rodman|Donnie Risher|Brian Rost|Craig O�Connor|Dennis Navin|Steve Landman|Ed Ott|Kenneth Nehl|Nancy Opsai|LeMoyne Odisher|Kevin McVeigh|James Nash|Eddie O�Rear|Joe Megyesi|Chris Barth|Terry Nielsen|Rick Burns|Tim Thompson|Shirley A. Gorman|Don Markstein|Steve Smith
+A49,Bill Reed|Russell Rudnick|Jack Nerklin|Michael Bean|Fred Neubauer|Curtis Todd|Mike Raub|Bob Romiski|Mike Brown|David Lee|Dana Govia|Will Cosey|Mike O'Brien|Ray Timmerman|Sidney Costello|Mike Kassell|James Burks|Wally Augustin|John Chell|Mark Norman|Ross Tolles|David Taylor|Gary Krupp|Otto Reed|Lynne Rudish|Mike O'Toole|Greg Vick|Philip Herman|Leo Keil|Ken Kahre|Alan Groginsky|Richard Ferrante|Robert DeStantis|Jerry Mercu|Janet Gierman|Bruce Davis
+A47,Richard Vitone|Howard Lindsey|Bob Jones|John Rouse|Frank Gordon|Nick Kallas|Albert Marchetti|James McGee|Mike Fullerton|Carole Reymonids|Steve Hurley|Foot Green|Ed McGuire|Selwyn Folkes|Jack Lott|Ted Guk|Ronald Fong|Ed Kaysinski|George Marchseeault|Mitchell Lubitz|Richard Jeffries|Howell Jackson|John Reyer|Bill Miller|Richard O�Meary|Daniel Hill|Dave Freeman|Jeffrey Raisch|Jim Smey|Jim Smith|David Banks|Ernie Paine|Roger Gordon|Michael Johlke
+A48,Julie Nemer|Pete Limoges|Steve Nivens|Rick Knoops|Richard Krajicek|Mark Hahn|Ray Hanrahan|Gary O�Brenski|Robert Rouse|Charles Vicino|John Kalman|Randy Genn|Rocky Rotunno|Emanuel Havis|D. Hobgood|Nan Robinson|Steven Rabe|Frank Reed|John Nations|Anne Lammond|David Higgins|Bruce Lowry|Brad Herrington|Pete Quintana|Frank Kelley|Ricky Lymer|Joe Stinnett|Keith Beavon|"Peter Sanderson|Paul Dushkind|David Obregon|Jim Reinecke|Ronald Krauss
+A60,Achille Di Bacco|Philip Palmer|Kenneth Eng|Louis Henken|Robert Moldenhauer|Neil Wolff|Bob Barnett
+A62,Mark Hanerfeld|M. Jablonski|Kean Crowe|Bob Thompson|Johnson|Kathleen Bartholomew|Pete Heerdt
+A61,Geary Gravel|Steven Henkel|Gregory Loumos|John Locke|Richard Pini|Bennet Marks|Kim Metzger|Charles Meyerson|Tad Cooper
+A64,Eddie Bobb|Robert Kowalski|Brian Morgan|Laurie Lew|"Bill Cantey|Mary Lundstram|Charles Santino|Bill Palmateer
+A63,Gary Lachman|Robert Day Lynch|Jose L. Medina|Randy Shepherd|Bryant Stavely|Keith Cooper|Daniel Lewenstein|Richard Sadowsky
+A54,Don & Maggie Thompson|Lawrence Isaacson|Scott Cupp|Doug Fratz
+A55,Lee Gray|Paul M. Washburn|Len Olson|Tommy Floyd|Jim Moorehead|Terry Tucotte|Athanase Papalambros
+A56,Steven Leaf|Craig Lancaster|"Peter Sanderson|Ronald Kern|Dave Manners|Gary Gabry|Robert Kowalski
+A57,Achille D. DiBacco|Tony Isabella|Kenwood Bennard|Luis Padillo|Steve Pollard|Steven Mauren|Narris Hopkins|Jerry Meredith|N.L. Jordan|Richard Lawhead|Shirley Gorman
+A58,Kevin Irie|Richard Struempler|Bryant Stavely|Scott Raymond|Achille Di Bacco|Eric Vinicoff|Dave Glass|Lane Bailey|Bob Laier
+A59,Michael Burrell|M. Jablonski|Jeff Pierce|Wendy Fletcher|Steve Heffernan|R. Christopher Olsen|Karen Wendling
+F92,Frederick D. Forsman|Robert Ochoa|Esau M. Simmons|Howard Keltner|Bruce Golden
+F91,R.E. Plummer|Bob Sennett|Steve Puckett|Donald McGregor|Mike Burton|Paul M. Kay
+F90,Dominic Cabera|Ralph Smith|Steve Newton|Samuel Uretsky|Bob Sennett|Thilver Thurfer
+F88,Geoffrey Kubilus|John K. Kusske|Linda L. Johnson|Ullrich and Gisela Haydam|Carter Scholz|Tom Steinke
+F89,Joel Schultz|Trish Infanger|Allen Latawiec|Masao Kono|Gregory Pasternak|Dan English|Jerry Sinkovec
+F86,William R. Lund|Gene Frischholz|Mike Hirschbach|Keith Treichel|Donald F. McGregor|Suzanne Scala|Doug Fratz
+F87,Warren L. Parker|David Burson|Barry Morgenroth|Leah Brooks|Fred Small|Richard Choate|Tom Zmudzinski|Michael Rehak|Mara Gomez|Michael L. Kuhne
+F84,Joe Pearson|Bill Nichols|Chris Loye|Jerry Winana|David Shuman|Jeffrey H. Wasserman|Pressed Rat and Warthog
+F85,Philip Massey|Ronald Rubin|Brad Pastore|Christopher Daria|Bill Williams|Allan Latawiec|Jack Hogston
+F82,Peter Marzano|David Fuchs|Walt Desmand|Steve Donaldson|"H.R. Blanco|Rusty Kirkland|Terry Levin|Mike Christiansen
+F83,Mike Nave|James Judge|Joel Packer|Danny English|Allan Latawiec|Don Tyler|"John Rotremmo|Pete Gruenwera|Leonard Lipton
+F97,Walter Von Schondeld|Eric Shratter|Richard Colson|Achille Di Bacco
+F98,Solomon Arrington|Dave Layton
+F99,Ralph Duby|David Charles Paskow
+F93,Mike Burton|Doug Thornton|Judy Axelrod
+F94,Andrew Warner|John Dougherty|Drew Zuckerwise|Wayne Fredrickson|Howard Leroy Davis|R.E. Plummer
+F95,Jeffrey Morgan|Charlie Williams|Mike Burton|Anne Greco|Ron Haeske|John Sorenson|David Hochman
+F96,Bill Detty|Achille Di Bacco|Dale Shuman and Kendall|Michael P. Higgins|Robert Ito|James Knight|Richard Carson
+A88,Tom Fagan|James G. Shell|Jonathan Guss|W.P. Mills|Gail Abraham
+A87,Roger Schoolcraft|John E. Payne|Shirley A. Gorman|Paty
+A89,Monte Aronson|"Hoy R. Murphy|Henry Lipput|Jim Vicko
+F70,Richard Vitone|Stephen McGuire|Frank Rachubinski|Danny Moore|Curt Huckaby|Ronald Lewis|Richard Gerson|Leonard Coolidge|Fortune Matineau|McBlain Boyle|Gary Hubbard|James Gregg|John Gregg|Bruce James|George Rosich|William Marshall|Ted Morris|Robert Rupley|Nicholas Rezza|Brian Madigan|Saul Rothenberg|Terry Rounebush|Henry Moore|Reid Russell|Sean Mangan|Richard Manonna|Barry Smith|Joe Brown|Joe Schifino|Dean Crawford|Rosanne Wasserman|Jeff Sipkoff|Mike Skocko|Dana Smith|Chris Dunny
+A90,Marlene Jablonski|Rick Keefe|Jim Bolella|Dan Patri
+F62,Alfred Lake|William Chmelko|Claude Coderre|Lee Judge|Jeffrey Mayer|Jay Jordan|Tom Ashcroft|Jeff Creel|Adam Field|David Mossbarger|Bill Howell|"Joe Ferrell|Wilburn Brown|Gilbert Mazur|Raymond Cote|Jerry Boyer|Andrew Chamblin|Marcia Mayer|Jim Litchfield|Arnold Binni|Albert Cree|Albert Cree|David Backrack|Pam Clark|Gregory Houtz|David Lee Butler|Robert Caluda|Gary Marco|Chris Barth|Brian Clift|Franklin Roy|Jim Bloodsworth|Charles Hutler|Paul Thiel|Peter von Sholly
+A91,Eric Charge|Darleen E. White|Nelson Fox
+F63,David Cowan|Jeff Hinck|Henry Binder|Roy Knight|David McDonald|Henry Binder|Tom Fisher|Russell Billings|Jerry Clair|Phillip Churchill|Jeffrey Blumenfeld|David Brod|"George Miller|"George Antolick|Buddy McDermott|Louis Maltese|Richard Ballew|David Kostenborder|Rick Brod|James Coryell|Lee Martinez|Armando Cesarini|Scott Arnopol|Bill Kirchner|Kenny Adams|Arthur Stickney|Joe Kovacs|Gil E. Cerf|Luke Carpenter|Mrs. Nancy Burtnett|Dean Hill
+A92,David B. Michelinie|Dave Frauman
+F60,John Gibson|Jerry Macy|Allen Hurwitz|Dean Centanni|Donald McClellan|Roberta Niss|Kevin L. Sutton|Philip Imbrogno|Martin Tyler|Gary Lee Zerno|Blair Ligon|Gary Fortner|Edward Lee|Jack Lee|Arthur Lee|David Lee|Joseph Lee|Don Glut|Richard Hurst|Jeffrey Schantz|Philip Clark|Jimmy Harris|Mike Reaves|Mike Tensley|Aaron Caplan|Melanie Deck|Charles Crowley|Mimi Spencer|Curt Tweddell|Brian Oatley|James Gritis|Mike Malson|John Eifu
+A93,W. John Schiffermuller|James Fisher|Matthew Graham
+F61,Bob Inorgan|Michael Goodin|Gordon Bryon|John Harwood|Dan Kearney|Leo Mascinch|Wade Hendbee|Martin King|G. Hutchens|John Martinez|Pat Burridge|George Huey|Michael Altobello|Tapio La HamLampl|Billy Bloom|Thomas McDermott|"James Miller|Tom Bradshaw|Gilbert Cochran|"Paul Burns|Phil Heddesheimer|Daniel Cameron|Chris Constantin|David Bastedo|Tommy Kelgore|Harry C. Bel|Bill Homah|Nancy Newton|Wayne Witkowski|Alan Bentzel|Mark Thomas|Mike Johnson|Mike Kelley|Grant Canfield
+F66,Bud Cavadini|Bruce Long|Michael Rosenbaum|Keith Morgensai|David Mattocks|George Grubisic|George Grant|Rocky Rucic|Pete Manry|Michael Longley|Andrew Florendo|Larry Gaffrery|Dean Momohara|Ben Martin|Glenn Groggin|Michael Rhodes|Roderick Fleming|Sandy Link|Robert Gibson|Malcsem Gorden|J. McGee|Billy Lorenzo|Bill Krieger|Thomas Kiviatkowski|Charles Honts|Anna Masnica|Buddy Kennedy|Thomas Mattocks|Patrick Guerin|Bill Lewis|Chas. Perkins|Lee Vercoe|Nancy Chapman|Reginald Klassen|Bill Stoddard|Dennis Harrison|Rick Lewis
+A95,Henry H. Walker|Shirley A. Gorman|Kenny Scott|Bob Luh|Mark Jones
+F67,Gregory Gegenti|Octavo Rivera|Bruce O���Connell|Neil Karp|Dan Moerman|Christopher Flannery|John Rutledge|Robert Buckley|Bruce Miller|Robert Kelly|Vincent Lipinsky|Dennis Galway|Bert Breck|Sheldon Billips|John Meagher|Charles Gelish|Jordan Rothstein|Andrew Berletic|Paul Delguerio|Alan Gordon|Jerry Balls|James Manuel|Nathan Glidden|John Chin|Philip Miller|John Bleiziffer|Chuck Thornton|Tim Allen|Jim de Luca|Jon Phillips|Jim Engdahl|Marty Ross|Greg Marshall
+A96,John Albaugh|Michael Smith|Steve Byas|W.F.S.
+F64,Mark Evanier|Ronald Fitch|Morris McKenney|Charles Lee|Gordon Craig|James Hourigan|Robert Bienstock|Frank Greene|Gary Nugent|Jerry Kollan|David Kidd|Michael Gould|Keith Foy|Jack Karpan|Dave Mitchell|Tom Nunan|John Leavitt|Kenneth Kramer|Peter Cretella|Robert LaTour|Howard Charbonnean|Bob Nahirmick|Tom May|Robert Link|Jeffrey Grimshaw|Juanita Jones|Ivan Gallion|Matt Rosenblatt|George Poulin|J. Wayne Sadler|Howie Schultzberg|Paul Seid|Greg Kishel
+A97,Marilyn Bull|John W. Hanley|W.P. Mills
+F65,Hubert L. Jackson|Thomas Yaremko|George M. Smith|Frankie Gideon|Howard Liebman|John Gardeli|Terry Fenwick|Richard Roberts|Reggi Lemon|Jim Jackson|Brent Leake|John Nola|Graham Lees|Larry Moore|"Dan Hessler|Blair Fawcett|Jon Jackson|Paul Lenart|Leo C. Kajdas|Rick Martinelli|Virginia L. Harmon|John La Forgia|Bruce R. Hartney|Tony Hagemann|Tony Russell|John Chisari|Philip Witt|Robert Lax|Mike Glicksohn|Peter Marzano|Thomas Lewis|David Hakala
+F68,Robert Lax|K.F. Wayne Nehwadowich|Bob Modine|Archie Maier|Peter Kramer|Milton Hamrick|Earl Hobson|Lee Raymond|Michael Honsh|Phil Neahows|David Juravel|Apperson Johnson|Mike Ryan|Bill Modica|Jerry Hicks|Alvin Hinton|David Lalonde|Richard Roberts|Michael Livak|Robert Nishimoto|Billy Robertson|Manuel Rosa|Rino Liberatore|David Rolls|Joseph Roseo|Brian Linwelf|Linda Reames|Steve Milovich|Phillip L. McManus|Mr. & Mrs. Allen Frost|Danny Staniskis|Ned Barnett|Allan Perun|Kathy Lohr
+F69,Gary Miller|Dan Rice|David Ricks|Tommy Rainey|Ronnie Maceo|Mike Moore|Patrick McGrath|Gordon Michaels|James Morack|Marvin Marshall|Albert Noldonado|Cisco Ramirez|Nicholas Nesl|Gary McSwane|Tommy Richardson|Dave Regent|Scott Rogers|Mark Rogers|David Mitofsky|Eric Mitofsky|Greg Mattson|Hector Rodriquez|Willie McNeally|Lowell Morris|Larry Niller|Sean O���Meara|Mark McCaffrey|Michael Grecsek|Don Sampson|Jeff Stasi|Dale Miller|Lane Bailey|Dana Smith|Chris Dunny
+A99,"George Olshevsky|Matt Graham
+A98,Stephen R. Donaldson|Michael P. Higgins|Mark Stephens
+F81,Karl Reif|Charles Bromley|Gary Davis|Ray Whitson|Dudley Bolbat|F. James Mohl|Marshall Strauss|Achille Di Bacco
+F80,Achille D. DiBacco|John Dodd|Lamar Mauldin|Mark Cordisio|Donald McGregor|George Ferguson|Bill Lewis|"Cutler Ross|Michael Kuhne
+F71,Julie Nemer|Pete Limoges|Brad Herrington|Pete Quintana|Frank Kelley|Ricky Lymer|John Kalman|Randy Genn|Rocky Rotunno|Emanuel Havis|Ray Hanrahan|Gary O���Brenski|Robert Rouse|Charles Vicino|D. Hobgood|Nan Robinson|Steven Rabe|Frank Reed|Steve Nivens|Rick Knopps|Richard Krajicek|Mark Hahn|John Nations|Anne Lammond|David Higgins|Bruce Lowry|John Arvites|Wayne Cobb|Jerome Colwell|Esau Simmons|Charles Smith|Corbett Besco|Alan K. Gray|Richard Adams|Terrence Mule
+F72,Bill Reed|Steve Turner|Karl Tederous|Gian Russo|Melvin Rhodes|Johnathon Traurig|Barry Rickert|Blake Roper|Steve Ryan|Kevin Ryerson|John Reed|Riff Rogers|Curtis Noe|Gray Thoran|Guy Vann|Paul Taylor|Mark Van Groll|James Russ|John Uhrmacher|Barbara Ulrich|Jame Rudzynski|Greg Rooks|Robert Taylor|John Rhora|Mary Oravec|Steve Tamerius|Wally Vakenburg|Paul Manly|William Womack|Stephen Blevins|Michael Hershey|Sanford Meschkow|Keith Beavon|Sid Slivke
+F73,Terry Kinningham|Paul Kern|Ken Kendall|Mike Johasz|Dave Hanley|Wayne Karchecky|Al Netterlad|John Quinn|David Nisbett|Miquel Rivera|Chuck Nelson|Louise Hanauer|Stan Jones|John Hodgson|David Hill|Georgia Rice|Joe Register|Robert Hall|Charles Thompson|Gary Opasinski|Manuel Rodriquez|Alan Jadro|Joe Vasquez|Dave Roller|Len Nixon|Bob Juve|Bruce Long|Rick Workman|Steve Wintrode|Sandy Hallberg|Karen Izui|Michael Burton|Mike Silvers|Paul Laginess|Val Perkins
+F74,Josh Zissman|Stephen Tobias|K.D. Lockerman|Joe Koziel|Steve Tomlinson|Bob Hormeil|Rich Kullman|Rod Kirby|Chris Russell|Mike Tedford|Barry Haughlam|Mike Trumble|Gary Theodorski|Fred Opalick|Al Lawis|E. Kendall|Jerry Jaffe|Tom Tanner|Ricky Varges|Kris Lemmon|Mike Reed|Marvin Kramer|Danny Kossick|Steve Kane|William Nigro|David Louie|Kendall Louie|Ann Bruton|Valerie Saville|Wendy Pope|Barbara Noyes|Mary Ainsley|Mitchel Klein|George Jessen|Steve Rouzer|Tony Isabella|Bill Fox|Donald McGregor|Ron Yahne
+F75,Bruce Coville|Joe Sykora|Kenneth Rekrut|Anthony Kowalik|Ed Martin|Keith White
+F76,Bennet Marks|Jim Morgan|Joe Momberg|Mike Nassour|Gene Wallace|Jim Holan|Dave FitzPatrick
+F77,Tony Isabella|Richard Davidson|Sandy Katz|Garry N. Hubbard
+F78,Lamar Blaylock|George Ferguson|Evan Katten|Gary Dahlberg|Tom Zmudzinski|Bruce Coville|Mike Esterson
+F79,Bernard Cicirello|S.L. Cox|Franklin Roy|Randy Rasmussen|George and Linda Pelley|James Ritchie|Perry Turner
+F49,Gabriel Patino|Hilmonet Aldridge|Dwayne Calvert|Richard Gomzalg|John Blue|Jimmy Roberts|Michael Roberts|John Strong|Gil Armour|Christopher Dorsey|Dick Leisenfelder|Chris Myers|Ned Ballenger|"Robert Wall|Keith McPhail|Chester Smith|Sandra Cernauskas|Nel Dahle|Arthur Shimkus|Robert McNeil|Jim Dee|Chris Hudson|Richard Bainey|Darryl D. Skytta|Russ Williams|Ronald Lindenboom|Dave Cockrum|W.A. Krohn|"Allen Howlett|Pete von Sholly|Mike Glicksohn|Kathy Sue Krajco|Stephen Stumpp|Kenneth Kirby|Phil Watgen|Kevin Morgan
+F48,William McGee|Danny Clermont|Phil Leibfred|Bill O���Neil|Robert Gotay|Joseph Fernandez|Lucy Fernandez|Gerald Tichy|Brian Pickrell|John Lamathe|Steven Doyle|Miss Margaret Murray|Robert Golfin|Adrien Chang|Steven Rodriguez|Richard Dooley|James Thomas|Malcom G. Manford|Steve Jagodzinski|Ken Pampu|Steven Adler|Donald Benn|Douglas Southgate|Scott Gillet|Ray Cardinal|Joseph Saetta|Janey Davis|Diane Nagura|Leonard Tirado|Robert Brissette|Donald McGregor|Alice Jean Schorfheide|Ty Bizony|Marlene Jablon
+F47,Robert Babecki|Keith Yates|Wayne Vucenic|Roderic Smith|Bert Brandt|Chris White|Bruce Barton|Dale Centanni|Lee Hall|David J. Gilner|Dave Cantwell|Antonio Carpenter|Hal Goodwin|George Kaas|Bill Berry|Wally Ream|Michael Hicks|Jim McIntyre|Bob McIntyre|Jim Lawhorn|Jimmy Gibson|Patricia Germanio|Jeffrey Walker|Steve Miller|Buddy Hassel|Bob Johnson|Frank Chadwick|Jim Reynolds|Jack Holman|Carole McGuirk|Bob Michael|Donald Jackson|William F. Russ|Jack E. Richley|Gary A. David
+F46,Tom Murray|Fred Cleaver|Victor Andrus|Len Wein|Thomas L. Smith|John G. Fitzgerald|Steve Kawashima|Stewart Turner|Mike Dawson|Calvin Mandel|Allen Fuqua|Steve Gurner|James M. Verhet|Kathy Kapusta|Bob Wallace|Danny Conley|Philip Cardone|"George M. Smith|Jerry G. Balls|Lawrence Walker|Mike L. Lock|Bill Neighbours|Scott Nielson|Tommy Gilbert|"Allen F. Fumbanks|Bobby Stapleton|Philip Harrison|Bill Krieger|Mrs. Mary Curtis|Brian Yates|Scott Williams|Richard Florez|Mike Arden|Larry Knight
+F45,William Trotter|Steven Long|Alan Caldwell|Steve Jacobs|Steve Millener|Joseph Wasko|Ricky Metzger|Mike Wells|John White|Brian McCann|"Wayne Cauley|Dan Gibson|Gary Karpook|Joseph Lutz|Alex J. Davis|Joe Kramer|Carrel Ross|Randy Taylor|Mark F. McFarlane|Richard Hager|Dennis Garland|Charles Falloure|Phillip D. Walters|Judy Butts|Ira Butts|Ray Russo|Glenn Phillips|William F. Steel|Jeffrey A. Friedberg|Gloria Friedman|Loren Mosier|Darryl Skytta|Carola Burroughs|Joseph Trainor
+F44,Jack Martin|Andy Noble|Dave Cockrum|Fred Lerner|Paul Thiel|Charles Hutler|Joe Hartlaub|Frank Silvestri|Curtis Martens
+F43,Tim McCray|Rick Paul|Shailendra Maheshwari|Tim White|Preston Sinks|Fred Lerner|Randy Risedorf|Steve Rosenfield
+F42,Marty Tuzman|David Olson|Rick Scogin|Bill Loudin|Karl Spence|"William McCord|Donald McGregor|Kathy Goles|James D. Grosbach
+F41,Lynn Wilson|Keith McWalter|"Garland W. Edmonson|Ben John|Dan Clark|Gary Arturs|Jim Quaid & Jerry Faller|Victor Taucer
+F40,Jim Martin|Jeffrey Dietrich|Joseph Hartlaub|Mike Bophardt|Rick Albright|Michael Sing|Tom Nester|David Berman|Clyde Snyder|Mark Lund|John Ellsworth
+F58,Neil Neches|Richard Ackerson|Peter Harlan|Kirk Matus|Richard Martinson|Wayne J. Logsdon|Robert J. Burbank|Douglas Bell|Allen Almasy|Abe Green|Carl Heady|Cindy Janks|Steve Bennyhoff|Larry Bahr|Jimmy Lenehan|Leslie Krauslh|Gary Moore|John Kreutzer|Bryce Glesler|Lewis Kuifist|Mark Keckelsen|Warren Keckelsen|Edward Morales|David McGinn|Louis Lovsin|"Edward Marales|Mike Hemenway|Carv Burkett|James Wolcott|Wallace M. Wright|Jack Drucker|Vincent Wright|Eric Lesko|Bennie Hammonds
+F57,Charles Bly|Mike Fox|Robert Johnson|Lance Barber|Bernard Guiteras|Robert Cohen|Ronnie Fisher|Christine Capone|James Field|Scott Cutler|Arthur Cucruel|Richard Chaput|Alan Campbell|David Brown|M.H. Benson|Jerry Balls|Frank Barone|Alex Belka|Arthur Jackson|Leon Carlock|Bill Countryman|Clayton Lewis|Barry Lowry|Johnny Badex|Rudy Gates|Linda Lee Johnson|Barry Brookner|Carl Nelson|Edward Koh|"Chuck Robinson|Mrs. Roslyn Smith|Eugene Frederick|Buzzy Blair
+F59,Dennis Herbson|George Herrmann|Paul D. Garen|"T.W. Bowell|Scott Lottridge|Howard Lett|John Link|Paul Carlsen|John Ayies|Robert Burzawa|Bobby Lee|Wayne Coker|Gregory McCarron|Lawrence Hauser|Charles Kempton|John Hill|Frank Baldivino|David Henry|Mary F. Inolony|Clint Cooper|Barry Jones|Spencer McGowan|Howie Coplan|Don Meeks|Bill Sigel|John Adnot|Rhiman Rotz|Panayote Coutrouboussis|Maureen Campbell|Robert Selig|Guy Haughton|"Julian Chavez
+F54,Ricky Elkins|David Jones|Stacey Katsis|Tom Aldridge|Chip Kendrick|David Bennett|Frank Gomez|Frank Fort|Mary Jacobs|Robert Carberry|Billy Kitchen|Robert Achtelik|Mike Banomis|Steven Ballentine|Kirk Jackson|Robert Erickson|Robert Briggs|Johnny Battles|Nic Austin|Max Gottfried|Leon Fisher|Russell Inman|Doug Evans|Debbie Bryant|Billy Ferguson|Robert Cantona|David Carmichael|Jacques Boivin|Jerry Mills|Russell Hamm|"Russell Bullock|Greg Jones|Ted Rypel|Joe Kusbel|Pete Marzano
+F53,Jan Shpiegelman|Henry Bergman|Curtis Firstman|Frank Gillespie|Michele Bebitch|Erin Keller|Anthony Fusco|Jeff Halberg|Bobby Bourge|Allen Bradley|Kevin Anderson|William Hine|Kenny Hamilton|Garry Guiban|Richard Becker|Larry Cameron|Steven Hurst|James Bigelow|Lorenzo Banaga|Robert Boudrow|Ansel Boiter|James Fitzgerald|Henry Kozikowski|Stan Bogal|Gary Christensen|Patrick Connors|Irving Goller|Dan Madaj|Charles Hutler|John Bonhomme|Dennis O���Neil|Mark Mandel|Guy Michel|Paul Kalenak|Mrs. Sarah Doll|Bill Duff|Scott Palmer
+F56,Steve Chapman|Andy Joyce|Dan Connell|Gary Grossman|Christopher Feala|Rick Groat|John Cox|Milton James|Stephen Carey|Brad Kohlet|J. Griffin|Jerry Kaelin|Gregory Johnson|John Fress|Doug Clark|Doug Clark|Marlin Harris|Doug Lewis|Carl Henry|Richard Coburn|Clifford Coffman|David La Point|Henry Gross|Walter Chao|Larry Harris|Dennis Hassell|Robert Higginbotham|Manfred Sierke|"Carlo|Tom Spevak|"Henry B. Clay|Donald Jackson|Tim Fox|"Russell Bullock
+F55,Greg Spisak|Hans Schaper|Ken Greene|James D. Pecot|Philip Normand|Sanford Meschkow|Darryl Miller|Alan Finn
+F50,Allan Levite|David Hirnes|Roger A. Moyer|Charlie Murphy|Jeff Kikuchl|Jerry Bires|Charles Peach|Stanley Kulhn|Jerry McKeown|Jim Marks|Jerry Parr|Mark Stone|Gary Vix|"Earl Nibblett|Kenneth Keller|Gary Stillman|Arthur Patrick|Kerry Liesch|Donald Robbins|Mordlcar Harriso|Jim Courtney|Marti Beck|Dwight Harvey|L.J. Herro|Amy Holasy|Mathew Peters|Jim Ruszka|Gerard Conway|Frank Heenan|Barry Bezold|Norman E. Hulcher|Allen Howlett|Owen Davis|Rick Albright|Eric Zelman|Richard Weber|Henry Geller
+F52,Mike Murano|Arthur Hastings|Bill Barger|Claude McGinnis|Sidney Watson|James Meride|Marvin Lightoap|Robert Sinkevich|Jack Friedman|Andy Bandy|Gary Willms|Noel Boaz|Randy Batty|James Hancock|Mary Francis Gibson|Bud Kliment|Gene Dexter|Jesse Jarrell|Mark Alessio|David Londenglos|Rolando Hernandez|Mark Sikora|Judy Wenger|David Banks|Eleo Bienenfield|Michael Grenzer|Joseph Gall|Phillip Pearson|Garlad Storrow|Don Jarvis|Larry Bush|"J.W. Goodwin|Dave Wieck|John Stuart|Vernon Haskell|Eugene Bearringer|Doug Nikkel|Donald J. Brown
+F51,J.C. Brown|Jim Carlson|"Gail Krieg|Tony Fera|Paul Sherrod|Jimmy Ray Bradley|Ricky Almand|Dana Letts|Jim Hunter|Arthur Sipe|Steve Beto|Jeffrey Gebb|"Robbie Brown|Lester Filer|Gary Erekuff|Rocky Hort|John Benoit|Stanley Johnson|David Lengyel|Rick Lwell|Mitch Lamourreaux|Andy Jones|Robert Feie|Andrew Fairfax|Larry Sqpyre|Richard Franklin|Bill Hitchcock|Carl H. Helmstetter|Robert Ford|George Gardiner|Dick Bandoli|Melvin Gionson|Dennie Landau|Dorothea Baker|Jack Skowron|Peter Mancuso
+F27,Rick Durell|G. Forman|Chuck Johnson|Gary W. Williams|David Catena|Gregory Suriano|Yorke Corbin|"Eddie Lefkoski|Jim Broecker|Jim Grondin
+F26,John Davidson|Owen Boylan|Alan Backer|Lane Hartman|Derrill Rothermich|Joey Polozola|Don Milliken|Allen Haworth|Dannie Brown|Reed J. Keonte|Tom Jones|Bruce Solof|Dave Oyerly
+F25,Dick Froese|Miike Gass|Jimmy Edelstein|Paul Kelbaugh|Marc Bailey|Norman Bennett|Richard O'Baid|John Wachter|Deborah Rohrer|Bill Dubay|Alex Nicholson|John Lebar|Robert Allen|Brian Corber
+F24,Bob Halcums|Edward Simpson III|Jes��s A. Martinez|Mrs. Dixie Kitchen|John Furek|Paul Gambaccini|Vincent Garofalo|Johnny Ryan|Ed Lahmann|Larry D. Sipe|Don Glut|John F. Lebar
+A109,Rick Keefe|Ron Kurpiel
+A108,Stephen C. Nazzaro|Rick Keefe|Daredevil|R. Benitez
+F29,Paul M. Crissey|Mrs. Susan Bomboy|Morris Beer|Jim Gibson|Alex Nicholson|Francoise Shevall|Ralph Huie|Lee Christopherson|Keith Greene|McGill University Marvel Comic Book Society|John Baca|Steve Perrin|Billy Robbins
+F28,Galen G. Peoples|Neal Preston|Robert Cormier|Robert Malisani|Thomas Jennings|Louie Stover|Dave Bibby|Norma Ryan|Harry St. Ours|Bert P.J. Benenson|Johnny Fitzgerald|Matthew Thompson|Greg Bury
+A105,Chuck Valukas|Garnet H.G. Barcelo|Joe Sherman
+A104,W.P. Mills|Scott Morris|Mike W. Barr|Hank Bishop|Randy Benitez
+A107,Gail Teague|Steve Lau|Mrs. Richard Pini
+A106,Earl Loudenslager|Thomas J. Chambers|Frank Balazs
+A101,Edward D. Gill|Matt Graham|"Joseph Randisi|Paul Kupperberg
+F23,Robert J. Egan|Richard E. Tong|Brady Fllowers|Gary Mullins|Jerry Johnson|J.H. Gardner|Gary Martin|Stephen Foston
+A100,Matt Graham|Ronnie S. Randles
+F22,Dave Cockrum|John Lasruck|Wayne Howard|Jack Harris|Bobby Rollins|Roy Thomas|Stephen Erickson|Joseph Hyatt|Larry Howard|Bob Kennedy|Ralph Perlovsky|Jeff Baker|Norma Ryan|Kenneth Chance|Todd Borden|Mitchell Gruskin|Ken Tutton|Lee Whittlesey
+A103,Robert Gillian|Paty
+F21,Miike Cafferata|Jerise Newton|John Wright|Andy Wickstrom|Paul Moslander|Mrs. P. Piccirillo|Mrs. Hanson|Dick Austin|Mr. Scarborough|Bill Brinkley|E.J. O'Donnell|Donald Markstein|Danny DeVere|Dick Austin|Mike Randall|George Christie|Jim Hamilton
+A102,Beto!|Ira Ducker|Lawrence Schick
+F20,James Maupin|Anonymous|Wayne Shepard|Richard Cohen|Mark Gruenwald|Dana Riell|Karl Spence|John Furek|Don Keefer|Kevin Shields|George R. Martin
+A110,Tim Avery|Richard Aiken|Mike Francis
+F36,Greg Lester|Keith Clark|Dave Cockrum|Chris Will|Susan Winn|Dennis Willits|Robert Drago|Jesse Prater|Chris Lampton
+F35,Steve Perrin|Steve Chapman|Steve St. Onge|Larry Ytuarte|Joey Polozola|Tara O'Donnell|David Clothier|Charles Hutler|Kenny Chance|Juli Schulenburg|Gary Hornback|Marty Arbunich|Shel Kagan
+F38,Nick Henry|David Winiewicz|Duwanna Strubel|Stuart Engel|Charles Williams|Bruce Wildstein|Elizabeth Holden|Steve Erickson|Kathy Lucas|Marilyn Holmes
+F37,"Diosdado Macapagal|Mike Haendiges|Kraisden Wilde|Ed Noonchester|Keith McWalter|Dave Smith|Kevin Hunt|George Carter|"Guy H. Lillian|Steve Wilson
+F39,Carlos Baez|Jack Marchese|Mark Meed|Robert Nespor|Roger Gilman|Linda Ann Mason|Bob Ilisevich|Curtis Martens
+A118,Bob Rodi|Ralph Macchio
+A117,Brian E. Cook|K.J. Robbins
+F30,Scott Frederick|Lucy and Joseph Fernandez|Jim McDaniel|Brady Flowers|Gail Sutton|James E. Kunkel|Bruce Levy|Chris Apostal|Bruce Hall|Gardner Ruffin|Beth Oxford
+A115,Rich Howell|Alan Rothman|Duffy Vohland|Philip Hair
+A114,James Farmer|James Wolcake|Judy Kaufman|Frank Balazs
+F32,Steve Kark|Dave Lewis|Lew Kaufman|Art Wendrow|John Lasruk|Isabelle Kamishlian|J. Geoffrey Magnus|George R.R. Martin|Joe Hartlaub|Chris Lampton|Ronn Foss|Billy Davis|John Roberge|Stewart Turner|Clayton Donahue
+A113,Chuck Valukas|Howard L. Davis
+F31,Mike Friedrich|David Hill|John Johnson|David Grace|Patrick Scarfo|Spence Allen|Chuck Boehmler|Tom Jones|David Catena|Mike Raub|Charles Smith|Marlin Grenn
+A112,Nicia MacDonald|C.J.C.|Richard J. Bedard
+F34,Miss Achiko Heng|Michelle Reynolds|Joseph Key|Derill Rothermich|Frank Bowers|Tom Valentine|Steve Perrin|Brif Barnett|Stephen Watson|George R.R. Martin
+A111,Mark Zutkoff|Marilyn Sue Knapp|Frank Santopadre
+F33,William Rowe|Jadene G. Acciavatti|J.L. Hughes|Jack O. Kendall|William McCord|Mike Bieterman|"Jerry Biggers|Brian Corber|Donald McGregor
